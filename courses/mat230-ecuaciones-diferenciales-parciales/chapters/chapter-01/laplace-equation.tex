@@ -8,7 +8,77 @@ Queremos encontrar una funci\'on $u: \bar U \to \BR$ tal que
   \item $\Delta u = f$ (Poisson)
 \end{itemize}
 
-\begin{defn}
+\begin{defn}[Funci\'on Arm\'onica]
   Una funci\'on $u$ de clase $C^2$ tal que $\Delta u = 0$ es llamada
-  \textbf{funci\'on arm\'onica}.
+  funci\'on arm\'onica.
 \end{defn}
+
+\begin{defn}
+  La funci\'on
+  \[
+    \Phi (x) = \begin{cases}
+      -\frac{1}{2 \pi} \log|x| & n = 2\\
+      \frac{1}{n(n - 2)\alpha(n)|x|^{n - 2}} & n \geq 3,
+    \end{cases} 
+  \]
+  definida para $x \in \BR^n$, $x \neq 0$, es la soluci\'on fundamental de la ecuaci\'on de Laplace.
+\end{defn}
+
+\begin{theorem}
+  Definamos
+  \[
+    u(x) = \int_{\BR^n} \Phi(x - y) f(y)\, dy = \begin{cases}
+      -\frac{1}{2} \int_{\BR^2} \log(|x - y|)f(y)\, dy & n = 2\\
+      \frac{1}{n(n - 2)\alpha(n)} \int_{\BR^n} \frac{f(y)}{|x - y|^{n - 2}}\, dy & n \geq 3.
+    \end{cases}
+  \]
+  Luego
+  \begin{enumerate}
+    \item $u \in C^2(\BR^n)$
+    \item $-\Delta u = f$ en $\BR^n$.
+  \end{enumerate}
+\end{theorem}
+
+\begin{theorem}[Mean-value formulas for Laplace's equation]
+  Si $u \in C^2(U)$ es arm\'onica, luego
+  \[
+    u(x) = \fint_{\partial B(x, r)} u\, dS = \fint_{B(x, r)} u\, dy
+  \]
+  para cada bola $B(x, r) \subset U$.
+\end{theorem}
+
+\begin{theorem}[Converse to mean-value property]
+  Si $u \in C^2(U)$ satisface
+  \[
+    u(x) = \fint_{\partial B(x, r)} u\, dS
+  \]
+  para cada bola $B(x, r) \subset U$, luego $u$ es arm\'onica.
+\end{theorem}
+
+Sea $U \subset \BR^n$ abierto y acotado, obtenemos las siguientes propiedades
+de las funciones arm\'onicas basadas en las f\'ormulas anteriores:
+\begin{enumerate}
+  \item Strong maximum principle, uniqueness.
+  \item Regularity.
+  \item Local estimates for harmonic functions.
+  \item Liouville's Theorem.
+  \item Analyticity.
+\end{enumerate}
+
+\begin{theorem}[Strong maximum principle]
+  Supongamos que $u \in C^2(U) \cap C(\bar{U})$ es arm\'onica en $U$. Luego
+  \[
+    \max_{\bar{U}}   u = \max_{\partial U} u.
+  \]
+  Adem\'as, si $U$ es conexo y existe un punto $x_0 \in U$ tal que
+  \[
+    u(x_0) = \max_{\bar{U}} u,
+  \]
+  entonces $u$ es constante en $U$.
+\end{theorem}
+
+\begin{theorem}[Uniqueness]
+  Sea $g \in C(\partial U)$, $f \in C(U)$. Luego existe a lo m\'as una soluci\'on
+  $u \in C^2 \cap C(\bar{U})$ del problema de valor en la frontera
+  
+\end{theorem}
