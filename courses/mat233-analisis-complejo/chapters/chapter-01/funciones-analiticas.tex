@@ -75,3 +75,30 @@ $f(V)$ abierta.
   Sea $f: U \to \BC$ una funci\'on anal\'itica en $U$ conexo.
   Si $f$ no es constante entonces $f$ es una funci\'on abierta.
 \end{theorem}
+
+Algunas consecuencias importantes de este teorema son las siguientes:
+
+\begin{theorem}[Principio del m\'odulo m\'aximo]
+  Sea $f: U \to \BC$ una funci\'on anal\'itica en $U$ conexo y $z_0 \in U$.
+  Si $|f(z_0)| \geq |f(z)|$ para todo $z$ en una vecindad abierta de $z_0$,
+  entonces $f$ es constante.
+\end{theorem}
+
+\begin{remark}
+  En el teorema anterior, basta con probar que $\Re(f(z_0)) \geq \Re(f(z))$ para todo $z$ en
+  una vecindad abierta de $z_0$ para concluir que $f$ es constante.
+\end{remark}
+
+\begin{theorem}
+  Sea $f: U \to \BC$ una funci\'on anal\'itica en $U$ conexo. Supongamos que $f$ es una
+  isometr\'ia, es decir, $|f'(z)| = 1$ para todo $z \in U$. Existen $\alpha, \beta \in \BC$ tales que
+  $|\beta| = 1$ y $f(z) = \alpha + \beta z$ para todo $z \in U$.
+\end{theorem}
+
+Denotamos por $\BD$ al disco abierto de centro en $0$ y de radio $1$, es decir,
+$\BD = \{z \in \BC: |z| < 1\}$.
+
+\begin{example}
+  Sea $f: \BD \to \BD$ una funci\'on anal\'itica tal que $f(0) = 0$ y $f'(0) = 1$, entonces
+  $f(z) =  z$ para todo $z \in \BD$.
+\end{example}
