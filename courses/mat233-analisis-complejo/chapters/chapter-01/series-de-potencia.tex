@@ -26,6 +26,71 @@ existe.
   $f$ converge en todo punto de $\{z \in \BC : |z| < |z_0|\}$.
 \end{theorem}
 
-\begin{theorem}
+\begin{defn}
+  Sea $f(z) = \sum_{k = 0}^{\infty} a_k z^k$ una serie de potencias formal, definimos al
+  \textbf{radio de convergencia} a $R_f \in [0, \infty]$ como
+  \[
+    R_f = \sup\left\{r \geq 0 : \lim_{n \to \infty}\sum_{k = 0}^n |a_k| r^k\, \text{existe}\right\}.
+  \]
+\end{defn}
 
+\begin{theorem}
+  Sea
+  \[
+    C_f = \{z \in \BC : f \text{ converge en } z\}.
+  \]
+  Si $C_f \neq \BC$, entonces existe alg\'un $R \geq 0$ tal que
+  \[
+    \{z \in \BC : |z| < R\} \subset C_f \subset \{z \in \BC : |z| \leq R\}.
+  \]
+  Es decir, el conjunto en el que converge una serie es pr\'acticamente un disco.
 \end{theorem}
+
+\begin{theorem}[Convergencia uniforme en compactos]
+  Sea $f < R_f$ y para cada $n \geq 0$ definamos la funci\'on
+  $S_n: \{z \in \BC : |z| \leq z\} \to \BC$ como
+  \[
+    S_n(z) = \sum_{k = 0}^n a_k z^k.  
+  \]
+  Sea $S: \{z \in \BC : |z| \leq z\} \to \BC$ con $S(z) = \lim_{n \to \infty} S_n(z)$.
+  Se cumple que
+  \[
+    \lim_{n \to \infty} \left(\sup_{|x| \leq r} |S_n(z) - S(z)|\right) = 0.
+  \]
+\end{theorem}
+
+\begin{theorem}
+  Sea $f(z) = \sum_{k = 0}^{\infty} a_k z^k$ una serie de potencias formal y consideremos la
+  serie de potencias formal $f'(z) = \sum_{k = 0}^{\infty} (k + 1) a_{k + 1} z^k$. Luego,
+  $R_f = R_{f'}$.
+\end{theorem}
+
+\begin{theorem}[Derivada]
+  Sea $f(z) = \sum_{k = 0}^{\infty} a_k z^k$ una serie de potencias formal. Consideremos la funci\'on
+  $F: \{z \in \BC : |z| < R_f\} \to \BC$ definida por
+  \[
+    F(z) = \lim_{n \to \infty} \sum_{k = 0}^n a_k z^k 
+  \]
+  y la funci\'on $G: \{z \in \BC : |z| < R_f\}$ definida por
+  \[
+    G(z) = \lim_{n \to \infty} \sum_{k = 0}^n (k + 1) a_{k + 1}z^k.
+  \]
+  Entonces $F$ es holomorfa y $F' = G$.
+\end{theorem}
+
+ \begin{example}
+  La serie de potencias $\mathcal{E} = \sum_{k = 0}^{\infty} (1 / k!) z^k$ tiene un radio de convergencia infinito.
+  A la suma de esta serie se le suele llamar funci\'on exponencial
+  \[
+    \exp(z) = \sum_{k = 0}^{\infty} \frac{z^k}{k!}.
+  \]
+ \end{example}
+
+ \begin{example}
+   La serie de potencias $\mathcal{L} = \sum_{k = 1}^{\infty} ((-1)^{k + 1} / k) z^k$ tiene un radio
+   de convergencia $1$.
+   A la suma de esta serie se le denota por
+   \[
+     \log(1 + z) = \sum_{k = 1}^{\infty} \frac{(-1)^{k + 1}}{k} z^k.
+   \]
+ \end{example}
