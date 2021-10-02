@@ -57,3 +57,21 @@ una vecindad $V$ de $u$ tal que $V \cap U = \{u\}$.
   Si $f, g: U \to \BC$ son dos funciones anal\'iticas tales que $f = g$ en un abierto de $U$
   entonces $f = g$ en todo $U$.
 \end{theorem}
+
+Decimos que una funci\'on $f: U \to \BC$ es \textbf{abierta} si todo abierto $V \subset U$ tiene imagen
+$f(V)$ abierta.
+
+\begin{theorem}
+  Una funci\'on $f: U \to \BC$ es abierta si y solo si para todo $z_0 \in U$ existe
+  $\varepsilon > 0$ tal que $\{z \in \BC: |z - z_0| < \varepsilon\} \subset U$ y
+  $\{f(z): |z - z_0| < \varepsilon\}$ es un conjunto de abierto de $\BC$.
+\end{theorem}
+
+\begin{example}
+  Sea $k \geq 1$. La funci\'on $f: \BC \to \BC$ definida por $f(z) = z^k$ es una funci\'on abierta.
+\end{example}
+
+\begin{theorem}[Teorema de la funci\'on abierta]
+  Sea $f: U \to \BC$ una funci\'on anal\'itica en $U$ conexo.
+  Si $f$ no es constante entonces $f$ es una funci\'on abierta.
+\end{theorem}
