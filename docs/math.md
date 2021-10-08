@@ -16,7 +16,8 @@
 - [Randolph College. Michael Penn.](https://www.youtube.com/playlist?list=PL22w63XsKjqxaZ-v5N4AprggFkQXgkNoP)
 
 ### Galois Theory
-
+- [University of California, Berkeley. Richard Borcherds.](https://www.youtube.com/playlist?list=PL8yHsr3EFj53Zxu3iRGMYL_89GDMvdkgt)
+- [Bethel University. Bill Kinney.](https://www.youtube.com/playlist?list=PLmU0FIlJY-MkYr8VI0MPk73Aqz6RmHWST)
 
 ## Analysis
 
@@ -45,6 +46,9 @@
 
 ### Linear Programming
 - [Penn State University. Wen Shen Psu.](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
+
+### Convex Optimization
+- [Stanford University. Stephen Boyd.](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)
 
 ## Differential Equations
 
