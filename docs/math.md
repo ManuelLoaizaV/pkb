@@ -46,7 +46,7 @@
 ### Functional Analysis
 - [Instituto de Matemática Pura e Aplicada. Claudio Landim.](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTIIIRwqK35CbFJieSJEcVR)
 
-### Topology
+### General Topology
 - [Pontificia Universidad Católica del Perú. Rudy Rosas.](https://drive.google.com/drive/folders/1U_ulxVkrNFt00MGUtd-b8iPRt_Tr0tcZ)
 
 ### Applied Differential Equations
@@ -103,6 +103,7 @@
 
 ### Extremal Combinatorics
 - [Carnegie Mellon University. Po-Shen Loh.](https://www.youtube.com/playlist?list=PLgTkKBA6LRqaGKITvQS1QuIBoEbOVwFTm)
+- [Instituto de Matemática Pura e Aplicada. Robert Morris.](https://youtube.com/playlist?list=PLo4jXE-LdDTRXnkxZ7_SrOqo2lx41ww2j)
 
 ### Enumerative Combinatorics
 - [San Francisco State University. Federico Ardila.](https://www.youtube.com/playlist?list=PL-XzhVrXIVeSi7xym1XAfFIxOAaHVhjtP)
@@ -112,6 +113,11 @@
 
 ### Matroids
 - [San Francisco State University. Federico Ardila.](https://www.youtube.com/playlist?list=PL-XzhVrXIVeSu_b29hbX5xJ0bRThokU8a)
+
+### Combinatorial Optimization
+- [Massachusetts Institute of Technology. Michel Goemans.](http://www-math.mit.edu/~goemans/18453S17/18453.html)
+- [Stanford University. Jan Vondrak.](https://theory.stanford.edu/~jvondrak/CS369P/CS369P.html)
+- [University of Texas at Austin. Constantine Caramanis.](https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL)
 
 ## Computational Science & Numerical Analysis
 
