@@ -3,8 +3,10 @@
 ## Abstract Algebra
 
 ### Linear Algebra
+- [Pontificia Universidad Católica del Perú. Christiam Figueroa Serrudo.](https://onedrive.live.com/?authkey=%21AGt%2DfIOD8bomsgg&id=3D7D888E8BE1BF5D%212541&cid=3D7D888E8BE1BF5D)
 
 ### Multilinear Algebra
+- [Pontificia Universidad Católica del Perú. Christiam Figueroa Serrudo.](https://drive.google.com/drive/folders/1EuF1MURSayN-i9MShVM7Qgm3uYVWYJXs)
 
 ### Groups and Rings
 - [University of California, Berkeley. Alexander Paulin.](https://math.berkeley.edu/~apaulin/113(Summer2018).html)
@@ -31,7 +33,7 @@
 ### Measure Theory
 
 ### Differential Geometry
-
+- [Pontificia Universidad Católica del Perú. Christiam Figueroa Serrudo.](https://onedrive.live.com/?authkey=%21AO1KRMHvVLzLwWc&id=3D7D888E8BE1BF5D%212536&cid=3D7D888E8BE1BF5D)
 
 ## Applied Mathematics
 
