@@ -1,5 +1,23 @@
 # Artificial Intelligence
 
+## Computer Vision
+
+## Machine Learning
+
+## Natural Language Processing
+
+# Computer Systems
+
+## Architecture
+
+## Computer Security
+
+## Networking
+
+## Operating / Distributed Systems
+
+## Programming Systems and Verification
+
 # Information
 
 ## Databases
@@ -14,6 +32,10 @@
 
 ### Database Systems Implementation
 
-# Theoretical Computer Science
+# Theory
 
-# Computer Systems
+## Algorithms & Data Structures
+
+## Complexity Theory
+
+## Cryptography
