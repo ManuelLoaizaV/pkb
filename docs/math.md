@@ -7,6 +7,11 @@
 ### Multilinear Algebra
 
 ### Groups and Rings
+- [University of California, Berkeley. Alexander Paulin.](https://math.berkeley.edu/~apaulin/113(Summer2018).html)
+- [Bethel University. Bill Kinney.](https://www.youtube.com/playlist?list=PLmU0FIlJY-MlFAojfH2wGVuRcRES8xVKN)
+- [Indian Institute of Technology Kanpur. Manindra Agrawal.](https://www.youtube.com/playlist?list=PLOxR6w3fIHWynkFxXcQM2z1Woet10cVIj)
+- [Liberty University of Lynchburg Virginia. James Cook.](https://www.youtube.com/playlist?list=PLBY4G2o7DhF0JCgapYKrqibGaJuvV4Gkb)
+- [Randolph College. Michael Penn.](https://www.youtube.com/playlist?list=PL22w63XsKjqxaZ-v5N4AprggFkQXgkNoP)
 
 ### Galois Theory
 
