@@ -114,6 +114,11 @@
 ### Matroids
 - [San Francisco State University. Federico Ardila.](https://www.youtube.com/playlist?list=PL-XzhVrXIVeSu_b29hbX5xJ0bRThokU8a)
 
+### Combinatorial Optimization
+- [Massachusetts Institute of Technology. Michel Goemans.](http://www-math.mit.edu/~goemans/18453S17/18453.html)
+- [Stanford University. Jan Vondrak.](https://theory.stanford.edu/~jvondrak/CS369P/CS369P.html)
+- [University of Texas at Austin. Constantine Caramanis.](https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL)
+
 ## Computational Science & Numerical Analysis
 
 ### Numerical Analysis
