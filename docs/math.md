@@ -44,7 +44,7 @@
 - [Massachusetts Institute of Technology. Anand Oza. Rosalie Belanger-Rioux.](https://math.mit.edu/classes/18.085/summer2014/)
 
 ### Linear Programming
-
+- [Penn State University. Wen Shen Psu.](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
 
 ## Differential Equations
 
