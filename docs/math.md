@@ -71,6 +71,7 @@
 ## Number Theory
 
 ### Elementary Number Theory
+- [University of California, Berkeley. Richard Borcherds.](https://www.youtube.com/playlist?list=PL8yHsr3EFj52Qf7lc3HHvHRdIysxEcj1H)
 - [Randolph College. Michael Penn.](https://www.youtube.com/playlist?list=PL22w63XsKjqwAgBzVFVqZNMcVKpOOAA7c)
 
 ### Algebraic Number Theory
