@@ -38,6 +38,7 @@
 
 ### Introduction to Algorithms
 - [ITMO University. Pavel Mavrin.](https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
+- [Massachusetts Institute of Technology. Jason Ku. Vinod Vaikuntanathan. Virginia Williams.](https://learning-modules.mit.edu/materials/index.html?uuid=/course/6/sp19/6.006#materials)
 - [Massachusetts Institute of Technology. Erik Demaine. Srini Devadas.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 - [University of California, Berkeley. Josh Hug.](https://sp21.datastructur.es/)
 - [Stanford University. Jessica Su.](http://web.stanford.edu/class/archive/cs/cs161/cs161.1168/)
@@ -64,6 +65,12 @@
 - [Stanford University. Keith Schwarz.](http://web.stanford.edu/class/cs166/)
 - [University of California, San Diego. Niema Moshiri. Sander Valstar. Joe Gibbs Politz.](https://ucsd-cse100-s20.github.io/)
 
-## Complexity Theory
+## Automata, Computability and Complexity
+
+### Complexity Theory
+- [California Institute of Technology. Chris Umans.](http://users.cms.caltech.edu/~umans/cs151/index.html)
 
 ## Cryptography
+
+### Foundations of Cryptography
+- [Massachusetts Institute of Technology. Vinod Vaikuntanathan.](https://mit6875.github.io/)
