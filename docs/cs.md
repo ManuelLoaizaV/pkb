@@ -4,6 +4,10 @@
 
 ## Machine Learning
 
+### Introduction to Artifical Intelligence
+- [University of California, Berkeley. Stuart Russell. Dawn Song.](https://inst.eecs.berkeley.edu/~cs188/sp21/)
+[:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u)
+
 ## Natural Language Processing
 
 # Computer Systems
@@ -12,9 +16,20 @@
 
 ## Computer Security
 
+### Introduction to Computer Security
+- [University of California, Berkeley. Raluca Ada Popa. Nicholas Weaver.](https://cs161.org/)
+
 ## Networking
 
 ## Operating / Distributed Systems
+
+### Operating Systems and Systems Programming
+- [University of California, Berkeley. Ion Stoica](https://cs162.org/)
+[:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
+
+### Advanced Operating Systems Structures and Implementation
+- [University of California, Berkeley. John Kubiatowicz.](https://people.eecs.berkeley.edu/~kubitron/courses/cs194-24-S13/)
+[:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE)
 
 ## Programming Systems and Verification
 
@@ -23,6 +38,8 @@
 ## Databases
 
 ### Introduction to Databases
+- [University of California, Berkeley. Lakshya Jain.](https://cs186berkeley.net/)
+[:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y)
 
 ### Data-Intensive Systems
 
@@ -36,7 +53,24 @@
 
 ## Programming Languages
 
-## Software Engineering
+### Programming Languages and Compilers
+- [University of California, Berkeley. Paul N. Hilfinger.](https://inst.eecs.berkeley.edu/~cs164/fa20/)
+[:film_strip:](https://archive.org/details/ucberkeley-webcast-PL3A16CFC42CA6EF4F)
+- [Stanford University. Keith Schwarz.](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
+- [California State University, Sacramento. Ghassan Shobaki.](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i)
+
+## Software
+
+### Software Engineering
+- [University of California, Berkeley. George Necula.](https://sites.google.com/site/ucbcs169fa15/lectures)
+
+### Software Engineering for Scientific Computing
+- [University of California, Berkeley. Phillip Colella.](https://inst.eecs.berkeley.edu/~cs294-73/fa19/)
+[:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iB8Arh4Szxk275Cu4uRxVt4)
+
+### Computer Graphics
+- [University of California, Berkeley. Ren Ng. Angjoo Kanazawa.](https://cs184.eecs.berkeley.edu/sp21)
+[:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBifi0GQVF1R9M_QBWw3xgG)
 
 # Theory
 
@@ -73,6 +107,10 @@
 - [Massachusetts Institute of Technology. Michel Goemans.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/index.htm)
 - [Princeton University. Sanjeev Arora.](https://www.cs.princeton.edu/courses/archive/fall15/cos521/)
 - [University of California, Berkeley. Luca Trevisan.](https://theory.stanford.edu/~trevisan/cs261/)
+
+### Algorithmic Game Theory
+- [Stanford University. Tim Roughgarden.](https://timroughgarden.org/f13/f13.html)
+- [KTH Royal Institute of Technology. Jörgen Weibull. Mark Voorneveld. Jonas Sjöstrand.](https://www.math.kth.se/matstat/gru/sf2972/2013/)
 
 ### Combinatorial Algorithms
 - [University of California, Berkeley. Prasad Raghavendra.](https://people.eecs.berkeley.edu/~prasad/spring2021.html)
