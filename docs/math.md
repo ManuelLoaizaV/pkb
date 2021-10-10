@@ -130,6 +130,8 @@
 - [University of California, San Diego. Martin Licht.](https://www.math.ucsd.edu/~mlicht/wina2021/main.html)
 - [Harvard University. Chris Rycroft.](https://courses.seas.harvard.edu/courses/am205/index.html)
 
+## Operations Research
+
 ### Linear Programming
 - [Penn State University. Wen Shen Psu.](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
 - [Stanford University. Yinyu Ye.](https://web.stanford.edu/class/msande310/index.shtml)
