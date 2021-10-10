@@ -99,6 +99,7 @@
 ### Discrete Mathematics
 - [Carnegie Mellon University. Po-Shen Loh.](https://www.youtube.com/playlist?list=PLUcW89-ti8ejY-6LIdJ8tou8HJsHyt92v)
 - [University of California, Berkeley. Babak Ayazifar. Satish Rao.](https://www.eecs70.org/)
+[:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
 
 ### Graph Theory
 - [North Carolina State University. Donald R. Sheehy.](https://www.youtube.com/playlist?list=PLVqjIisMyo_9h78itHVS2hZzkthxFHoT7)
