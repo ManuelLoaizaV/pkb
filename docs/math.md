@@ -82,6 +82,7 @@
 ## Probability & Statistics
 
 ### Statistics
+- [California Institute of Technology. Leonard J. Schulman.](http://users.cms.caltech.edu/~schulman/Courses/20cs150a/20cs150a.html)
 - [Massachusetts Institute of Technology. John Tsitsiklis, Patrick Jaillet.](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 
 ### Probability Theory
@@ -124,11 +125,16 @@
 ### Numerical Analysis
 - [Penn State University. Wen Shen Psu.](https://www.youtube.com/playlist?list=PLbxFfU5GKZz29nXsWchAN1c3WsgiMiSXd)
 - [University of California, Berkeley. Andrew Shi.](https://math.berkeley.edu/~andrewshi/Teaching.html)
+- [University of California, Berkeley. Per-Olof Persson.](http://persson.berkeley.edu/math128a/)
 - [University of California, Davis. James Bremer.](https://www.math.ucdavis.edu/~bremer/classes/fall2018/MAT128a/)
-- [Massachusetts Institute of Technology. Anand Oza. Rosalie Belanger-Rioux.](https://math.mit.edu/classes/18.085/summer2014/)
+- [University of California, San Diego. Martin Licht.](https://www.math.ucsd.edu/~mlicht/wina2021/main.html)
+- [Harvard University. Chris Rycroft.](https://courses.seas.harvard.edu/courses/am205/index.html)
 
 ### Linear Programming
 - [Penn State University. Wen Shen Psu.](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
+- [Stanford University. Yinyu Ye.](https://web.stanford.edu/class/msande310/index.shtml)
+- [University of California, Berkeley. Ming Gu.](https://math.berkeley.edu/~mgu/MA170/)
 
 ### Convex Optimization
+- [Massachusetts Institute of Technology. Dimitri Bertsekas.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-253-convex-analysis-and-optimization-spring-2012/index.htm)
 - [Stanford University. Stephen Boyd.](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)
