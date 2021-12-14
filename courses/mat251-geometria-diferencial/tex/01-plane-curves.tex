@@ -63,3 +63,62 @@ $b = (b_1, \dots, b_n)$ in $\BR^n$ is
   for all $t$. In particular, if $\gamma$ is a unit-speed curve,
   then $\ddot{\gamma}$ is zero or perpendicular to $\dot{\gamma}$.
 \end{proposition}
+
+\subsection{Reparametrization}
+
+\begin{defn}
+  A parametrized curve $\tilde \gamma: (\tilde \alpha, \tilde \beta) \to \BR^n$
+  is a reparametrization of a parametrized curve $\gamma: (\alpha, \beta) \to \BR^n$
+  if there is a smooth bijective map $\phi: (\tilde \alpha, \tilde \beta) \to (\alpha, \beta)$
+  (the reparametrization map) such that the inverse map $\phi^{-1}: (\alpha, \beta) \to (\tilde \alpha, \tilde \beta)$
+  is also smooth and
+  \[
+    \tilde \gamma(\tilde t) = \gamma(\phi(\tilde t)) \text{ for all } \tilde t \in (\tilde \alpha, \tilde \beta).
+  \]
+\end{defn}
+
+\begin{note}
+  Since $\phi$ has a smooth inverse, $\gamma$ is a reparametrization of $\tilde \gamma$:
+  \[
+    \tilde \gamma(\phi^{-1}(t)) = \gamma(\phi(\phi^{-1}(t))) = \gamma(t) \text{ for all } t \in (\alpha, \beta).
+  \]
+  Two curves that are reparametrizations of each other have the same image, so they should have the same geometric properties
+\end{note}
+
+\begin{defn}
+  A point $\gamma(t)$ of a parametrized curve $\gamma$ is called a regular point
+  if $\dot(\gamma)(t) \neq 0$; otherwise $\gamma(t)$ is a singular point of $\gamma$.
+  A curve is regular if all of its points are regular.
+\end{defn}
+
+\begin{proposition}
+  Any reparametrization of a regular curve is regular.
+\end{proposition}
+
+\begin{proposition}
+  If $\gamma(t)$ is a regular curve, its arc-length $s$,
+  starting at any point of $\gamma$, is a smooth function of $t$.
+\end{proposition}
+
+\begin{proposition}
+  A parametrized curve has a unit-speed reparametrization if and only if it is regular.
+\end{proposition}
+
+\begin{corollary}
+  Let $\gamma$ be a regular curve and let $\tilde \gamma$ be a unit-speed reparametrization of $\gamma$:
+  \[
+    \tilde \gamma(u(t)) = \gamma(t) \text{ for all } t,
+  \]
+  where $u$ is a smooth function of $t$.
+  Then, if $s$ is the arc-length of $\gamma$ (starting at any point), we have
+  \[
+    u = \pm s + c,
+  \]
+  where $c$ is a constant.
+  Conversely, if $u$ is given by the last equation for some value of $c$ and with either sign,
+  then $\tilde \gamma$ is a unit-spped reparametrization of $\gamma$.
+\end{corollary}
+
+% TODO:
+% Add Closed Curves subsection
+% Add Level Curves versus Parametrized Curves subsection
