@@ -1,0 +1,26 @@
+\section{Curves in the plane and in space}
+
+\subsection{What is a curve?}
+
+\begin{defn}
+  A parametrized curve in $\BR^n$
+  is a map $\gamma: (\alpha, \beta) \to \BR^n$,
+  for some $\alpha, \beta$ with $-\infty \leq \alpha < \beta \leq \infty$.
+\end{defn}
+
+\begin{defn}
+  If $\gamma$ is a parametrized curve, its first derivative $\dot{\gamma}(t)$
+  is called the tangent vector of $\gamma$ at the point $\gamma(t)$.
+\end{defn}
+
+\begin{proposition}
+  If $\dot{\gamma}(t) = a$ for all $t$, where $a$ is a constant vector,
+  we have, integrating componentwise,
+  \[
+    \gamma(t) = \int \frac{d\gamma}{dt} dt = \int a \, dt = ta + b,
+  \]
+  where $b$ is another constant vector.
+  If $a \neq 0$, this is the parametric equation of the straight
+  line parallel to $a$ and passing through the point $b$.
+  If $a = 0$, the image of $\gamma$ is a single point (namely, $b$).
+\end{proposition}
