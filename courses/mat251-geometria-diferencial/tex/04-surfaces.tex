@@ -1,0 +1,33 @@
+\section{Surfaces}
+
+\begin{defn}
+  A subset $S$ of $\BR^3$ is a surface if, for every point $p \in S$
+  there is an open set $U$ in $\BR^2$ and an open set $W$ in $\BR^3$
+  containing $p$ such that $S \cap W$ is homeomorphic to $U$.
+  A subset of a surface $S$ of the form $S \cap W$, where $W$
+  is an open subset of $\BR^3$, is called an open subset of $S$.
+  A homeomorphism $\sigma: U \to S \cap W$ as in this definition
+  is called a surface patch or parametrization of
+  the open subset $S \cap W$ of $S$.
+  A collection of such surface patches whose images cover the
+  whole of $S$ is called an atlas of $S$.
+\end{defn}
+
+\begin{example}
+  Every plane in $\BR^3$ is a surface with an atlas consisting of a single surface patch.
+\end{example}
+
+\begin{example}
+  A circular cylinder is the set of points of $\BR^3$ that are at a fixed distance
+  (the radius of the cylinder) from a fixed straight line (its axis).
+  For instance, the circular cylinder of radius $1$ and axis the $z$-axis is
+  \[
+    S = \{(x, y, z) \in \BR^3 : x^2 + y^2 = 1\}/
+  \]
+  The simplest parametrization of $S$ is 
+  \[
+    \sigma(u, v) = (\cos u, \sin u, v).
+  \]
+\end{example}
+
+% TODO: Add more examples
