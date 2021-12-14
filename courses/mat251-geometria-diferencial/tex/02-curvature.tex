@@ -14,3 +14,41 @@
   \]
   where the $\times$ indicates the cross product.
 \end{proposition}
+
+\subsection{Plane Curves}
+
+Suppose that $\gamma(t)$ is a unit-speed vector curve in $\BR^2$. Let
+\[
+  t = \dot{\gamma}
+\]
+be the tangent vector of $\gamma$, note that $t$ is a unit vector.
+There are two unit vectors perpendicular to $t$; we make a choice by defining $n_s$,
+the signed unit normal of $\gamma$, to be the unit vector obtained by rotating $t$
+anticlockwise by $\pi/2$.
+$\dot{t} = \ddot{\gamma}$ is perperndicualr to $t$, and hence parallel to $n_s$.
+Thus, there is a scalar $\kappa_s$ such that
+\[
+  \ddot{\gamma} = \kappa_s n_s.
+\]
+$\kappa_s$ is called the signed curvature of $\gamma$. Since $\|n_s\| = 1$, we have
+\[
+  \kappa = \|\ddot{\gamma}\| = \|\kappa_s n_s\| = |\kappa_s|,
+\]
+so the curvature of $\gamma$ is the absolute value of its signed curvature.
+
+% TODO: Add theorems related to turning angle
+
+\begin{corollary}
+  The total signed curvature of a closed plane curve is an integer multiple of $2\pi$.
+\end{corollary}
+
+\begin{theorem}
+  Let $k: (\alpha, \beta) \to \BR$ be any smooth function.
+  Then, there is a unit-speed curve
+  $\gamma: (\alpha, \beta) \to \BR^2$ whose signed curvature is $k$.
+  Further, if $\tilde \gamma: (\alpha, \beta) \to \BR^2$ is any other unit-speed curve
+  whose signed curvature is $k$, there is a direct isometry $M$ of $\BR^2$ such that
+  \[
+    \tilde \gamma(s) = M(\gamma(s)) \text{ for all } s \in (\alpha, \beta).
+  \]
+\end{theorem}
