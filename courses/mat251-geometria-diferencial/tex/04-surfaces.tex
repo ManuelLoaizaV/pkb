@@ -125,3 +125,31 @@ of the smooth map $(u, v) \mapsto (\alpha(u, v), \beta(u, v))$.
   for all $p \in S$, the linear map $D_p f: T_p S \to T_{f(p)} \tilde S$
   is invertible.
 \end{proposition}
+
+\subsection{Normals and orientability}
+
+Since the tangent plane $T_p S$ of a surface $S$ at a point $p \in S$
+passes through the origin of $\BR^3$, it is completely determined
+by giving a unit vector perpendicular to it, called a unit normal to
+$S$ at $p$. We choose one of two such vectors
+\[
+  N_{\sigma}   = \frac{\sigma_u \times \sigma_v}{\|\sigma_u \times \sigma_v\|}
+\]
+called the standard unit normal of the surface patch $\sigma$ at $p$.
+
+\begin{defn}
+  A surface $S$ is orientable if there exists an atlas $A$ for $S$ with the
+  property that, if $\Phi$ is the transition map between any two surface patches
+  in $A$, then $\det(J(\Phi)) > 0$ where $\Phi$ is defined.
+\end{defn}
+
+\begin{proposition}
+  Let $S$ be an orientable surface equipped with an atlas $A$.
+  Then, there is a smooth choice of unit normal at any point of $S$:
+  take the standard unit normal of any surface patch in $A$.
+\end{proposition}
+
+An oriented surface is a surface $S$ together with a smooth choice
+of unit normal $N$ at each point, i.e., a smooth map $N: S \to \BR^3$
+such that, for all $p \in S, N(p)$ is a unit vector perpendicular to
+$T_p S$.
