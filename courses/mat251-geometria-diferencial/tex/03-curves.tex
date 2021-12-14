@@ -1,0 +1,70 @@
+\section{Global properties of curves}
+
+\subsection{Simple closed curves}
+
+\begin{defn}
+  A simple closed curve in $\BR^2$ is a closed curve in $\BR^2$ that has no self-intersections.
+\end{defn}
+
+\begin{theorem}[Hopf's Umlaufsatz]
+  The total signed curvature of a simple closed curve in $\BR^2$ is $\pm 2 \pi$.
+\end{theorem}
+
+\subsection{The isoperimetric inequality}
+
+The area contained by a simple closed curve $\gamma$ is
+\[
+  A(\gamma) = \int_{\text{int}(\gamma)} dx dy.
+\]
+
+\begin{theorem}[Green]
+  Let $f(x, y)$ and $g(x, y)$ be smooth functions
+  and let $\gamma$ be a positively oriented simple closed curve. Then,
+  \[
+    \int_{\text{int}(\gamma)} \left(
+      \frac{\partial g}{\partial x} - 
+      \frac{\partial f}{\partial y}
+    \right)
+    dx dy =
+    \int_{\gamma} f(x, y) \, dx + g(x, y) \, dy.
+  \]
+\end{theorem}
+
+\begin{proposition}
+  If $\gamma(t) = (x(t), y(t))$ is a positively-oriented simple closed curve
+  in $\BR^2$ with period $T$, then
+  \[
+    A(\gamma) = \frac{1}{2} \int_0^T (x \dot{y} - y \dot{x}) \, dt.
+  \]
+\end{proposition}
+
+\begin{theorem}[Isoperimetric Inequality]
+  Let $\gamma$ be a simple closed curve, le t $l(\gamma)$ be its length and
+  let $A(\gamma)$ be the area contained by it. Then,
+  \[
+    A(\gamma) \leq \frac{1}{4 \pi} l^2(\gamma),
+  \]
+  and equality holds if and only if $\gamma$ is a circle.
+\end{theorem}
+
+\begin{proposition}[Wirtinger's Inequality]
+  Let $F: [0, \pi] \to \BR$ be a smooth function such that $F(0) = F(\pi) = 0$. Then,
+  \[
+    \int_0^{\pi} \left(\frac{dF}{dt}\right)^2 \, dt
+    \geq
+    \int_0^{\pi} F(t)^2 \, dt,
+  \]
+  and equality holds if and only if $F(t) = D \sin t$
+  for all $t \in [0, \pi]$, where $D$ is a constant.
+\end{proposition}
+
+\subsection{The four vertex theorem}
+
+\begin{defn}
+  A vertex of a curve $\gamma(t)$ in $\BR^2$ is a point where its signed curvature $\kappa_s$
+  has a stationary point (where $d\kappa_s / dt = 0$).
+\end{defn}
+
+\begin{theorem}
+  Every convex simple closed curve in $\BR^2$ has at least four vertices.
+\end{theorem}
