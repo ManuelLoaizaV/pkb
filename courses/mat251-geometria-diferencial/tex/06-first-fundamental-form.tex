@@ -1,0 +1,68 @@
+\section{The first fundamental form}
+
+\subsection{Lengths of curves on surfaces}
+
+\begin{defn}
+  Let $p$ be a point of a surface $S$.
+  The first fundamental form of $S$ at $p$
+  associates to tangent vectors $v, w \in T_p S$ the scalar
+  \[
+    \langle v, w \rangle_{p, S} = v \cdot w.
+  \]
+\end{defn}
+
+\begin{remark}
+  The first fundamental form is an example of inner product on $\BR^3$.
+\end{remark}
+
+Suppose that $sigma(u, v)$ is a surface patch of $S$.
+Then, any tangent vector to $S$ at a point $p$ in the image of $\sigma$
+can be expressed uniquely as a linear combination of $\sigma_u$ and $\sigma_v$.
+Define maps $du: T_p S \to \BR$ and $dv: T_p S \to \BR$ by
+\[
+  du(v) = \lambda, \, du(v) = \mu, \, v = \lambda \sigma_u + \mu \sigma_v.
+\]
+We have
+\[
+  \langle v, v \rangle = \lambda^2 \langle \sigma_u, \sigma_v \rangle +
+  2 \lambda \mu \langle \sigma_u, \sigma_v \rangle +
+  \mu^2 \langle \sigma_v, \sigma_v \rangle.  
+\]
+Writing
+\[
+  E = \|\sigma_u\|^2,
+  F = \sigma_u \cdot \sigma_v,
+  G = \|\sigma_v\|^2,
+\]
+this becomes
+\[
+  \langle v, v \rangle =
+  E du^2 + 2 F du\, dv   + G dv^2
+\]
+which is called the first fundamental form of the surface patch $\sigma(u, v)$.
+
+If $\gamma$ is a curve lying in the image of a surface patch $\sigma$, we have
+$\gamma(t) = \sigma(u(t), v(t))$ and
+$\dot{\gamma} = \dot{u} \sigma_u + \dot{v} \sigma_v$, so
+\[
+  \langle \dot{\gamma}, \dot{\gamma} \rangle =
+  E \dot{u}^2 + 2 F \dot{u} \dot{v} + G \dot{v}^2,
+\]
+and the length of $\gamma$ is given by
+\[
+  \int (E \dot{u}^2 + 2 F \dot{u} \dot{v} + G \dot{v}^2)^{1/2}dt.
+\]
+
+\begin{example}
+  For the plane
+  \[
+    \sigma(u, v) = a + up + vq  
+  \]
+  with $p$ and $q$ being perpendicular unit vectors, we have
+  $\sigma_u = p, \sigma_v = q$, so
+  $E = \|p\|^2 = 1,
+  F = p \cdot q = 0,
+  G = \|q\|^2 = 1$,
+  and the first fundamental form is simply
+  $du^2 + dv^2$.
+\end{example}
