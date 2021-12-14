@@ -31,3 +31,28 @@
 \end{example}
 
 % TODO: Add more examples
+
+\subsection{Smooth surfaces}
+
+\begin{defn}
+  A surface patch $\gamma: U \to \BR^3$ is called regular if
+  it is smooth and the vectors $\gamma_u$ and $\gamma_v$ are
+  linearly independent at all points $(u, v) in U$.
+  Equivalently, $\gamma$ should be smooth and the vector
+  product $\gamma_u \times \gamma_v$ should be non-zero at every point of $U$.
+\end{defn}
+
+\begin{defn}
+  If $S$ is a surface, and allowable surface patch for $S$ is a regular
+  surface patch $\gamma: U \to \BR^3$ such that $\gamma$ is a
+  homeomorphism from $U$ to an open subset of $S$.
+  A smooth surface is a surface $S$ such that, for any point $p \in S$,
+  there is an allowable surface patch $\gamma$ as above such that $p \in \gamma(U)$.
+  A collection $A$ of allowable surface patches for a surface $S$ such that
+  every point of $S$ is in the image of at least one patch in $A$
+  is called an atlas for the smooth surface $S$.
+\end{defn}
+
+\begin{proposition}
+  The transition maps of a smooth surface are smooth.
+\end{proposition}
