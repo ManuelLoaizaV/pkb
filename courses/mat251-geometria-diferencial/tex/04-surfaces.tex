@@ -56,3 +56,72 @@
 \begin{proposition}
   The transition maps of a smooth surface are smooth.
 \end{proposition}
+
+\subsection{Tangents and derivatives}
+
+\begin{defn}
+  A tangent vector to a surface $S$ at a point $p \in S$ is the tangent
+  vector at $p$ of a curve in $S$ passing through $p$.
+  The tangent space $T_p S$ of $S$ at $p$ is the set of all tangent vectors
+  to $S$ at $p$.
+\end{defn}
+
+\begin{proposition}
+  Let $\gamma: U \to \BR^3$ be a patch of a surface $S$ containing a point
+  $p \in S$, and let $(u, v)$ be coordinates in $U$.
+  The tangent space to $S$ at $p$ is the vector subspace of $\BR^3$
+  spanned by the vectors $\gamma_u$ and $\gamma_v$.
+\end{proposition}
+
+\begin{defn}
+  With the above notation, the derivative $D_p f$ of $f$ at the point $p \in S$
+  is the map $D_p f: T_p S \to T_{f(p)} \tilde S$ such that $D_p f(w) = \tilde w$
+  for any tangent vector $w \in T_p S$.
+\end{defn}
+
+\begin{proposition}
+  If $f: S \to \tilde S$ is a smooth map between surfaces and $p \in S$,
+  the derivative $D_p f: T_p s \to T_{f(p)} \tilde S$ is a linear map.
+\end{proposition}
+
+Let $\gamma: U \to \BR^3$ be a surface patch of $S$ containing $p$,
+say $p = \gamma(u_0, v_0)$, and let $\alpha, \beta$ be the smooth
+functions on $U$ such that
+\[
+  f(\gamma(u, v)) = \tilde \gamma(\alpha(u, v), \beta(u, v)).
+\]
+Then,
+\[
+  D_p f(w) = (\lambda \alpha_u + \mu \beta_v) \tilde \sigma_{\tilde u}   + (\lambda \beta_u + \mu \beta_v) \tilde \sigma_{\tilde v}.
+\]
+The matrix of the linear map $D_p f$ with respect to the basis $\{\sigma_u, \sigma_v\}$
+of $T_p f$ and the basis $\{\tilde \sigma_{\tilde u}, \tilde \sigma_{\tilde v}\}$ of
+$T_{f(p)} \tilde S$ is the Jacobian matrix
+\[
+  \begin{pmatrix}
+    \alpha_u & \alpha_v \\
+    \beta_u & \beta_v
+  \end{pmatrix}
+\]
+of the smooth map $(u, v) \mapsto (\alpha(u, v), \beta(u, v))$.
+
+\begin{proposition}
+  \begin{itemize}
+    \item If $S$ is a surface and $p \in S$, the derivative at $p$ of the
+    identity map $S \to S$ is the identity map $T_p S \to T_p S$.
+    \item If $S_1, S_2$ and $S_3$ are surfaces and $f_1 : S_1 \to S_2$
+    and $f_2: S_2 \to S_3$ are smooth maps, then for all $p \in S_1$,
+    \[
+      D_p(f_2 \circ f_1) = D_{f_1(p)} f_2 \circ D_p f_1.
+    \]
+    \item If $f: S_1 \to S_2$ is a diffeomorphism, then for all $p \in S_1$
+    the linear map $D_p f: T_p S_1 \to T_{f(p)} S_2$ is invertible.
+  \end{itemize}
+\end{proposition}
+
+\begin{proposition}
+  Let $S$ and $\tilde S$ be surfaces and let $f: S \to \tilde S$ be a
+  smooth map. Then, $f$ is a local diffeomorphism if and only if,
+  for all $p \in S$, the linear map $D_p f: T_p S \to T_{f(p)} \tilde S$
+  is invertible.
+\end{proposition}
