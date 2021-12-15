@@ -28,3 +28,52 @@
   Let $\sigma: U \to \BR^3$ and $\tilde \sigma: U \to \BR^3$ be surface patches with the same
   first and second fundamental form. Then, there is a direct isometry $M$ of $\BR^3$ such that $\tilde \sigma = M(\sigma)$.
 \end{theorem}
+
+\subsection{Gauss' remarkable theorem}
+
+\begin{theorem}[Gauss' Theorema Egregium]
+  The Gaussian curvature of a surface is preserved by local isometries.
+\end{theorem}
+
+\begin{corollary}
+  The Gaussian curvature is given by
+  \[
+    K = \frac{
+      \begin{vmatrix}
+        -\frac{1}{2} E_{vv} + F_{uv} - \frac{1}{2} G_{uu} & \frac{1}{2} E_u & F_u - \frac{1}{2} E_v \\
+        F_v - \frac{1}{2} G_u & E & F \\
+        \frac{1}{2} G_v & F & G
+      \end{vmatrix}
+      -
+      \begin{vmatrix}
+        0 & \frac{1}{2} E_v & \frac{1}{2} G_u \\
+        \frac{1}{2} E_v & E & F \\
+        \frac{1}{2} G_u & F & G
+      \end{vmatrix}
+    }{
+      (EG - F^2)^2
+    }
+    .
+  \]
+\end{corollary}
+
+\begin{corollary}
+  With the above notation
+  \begin{itemize}
+    \item If $F = 0$, we have
+    \[
+      K = -\frac{1}{2\sqrt{EG}}\left(
+        \frac{\partial}{\partial u} \left(\frac{G_u}{\sqrt{EG}}\right)
+        + \frac{\partial}{\partial v} \left(\frac{E_v}{\sqrt{EG}}\right)
+      \right).
+    \]
+    \item If $E = 1$ and $F = 0$, we have
+    \[
+      K = - \frac{1}{\sqrt{G}} \frac{\partial^2 \sqrt{G}}{\partial u^2}.
+    \]
+  \end{itemize}
+\end{corollary}
+
+\begin{proposition}
+  Any map of any region of the earth's surface must distort distances.
+\end{proposition}
