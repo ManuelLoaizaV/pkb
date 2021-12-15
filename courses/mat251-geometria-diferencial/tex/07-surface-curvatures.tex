@@ -25,3 +25,55 @@ the second fundamental form of the surface of patch $\sigma$.
   $\sigma_{uu} = \sigma_{uv} = \sigma_{uv} = 0$.
   Hence, the second fundamental form of a plane is zero.
 \end{example}
+
+\subsection{The Gauss and Weingarten maps}
+
+Consider $\bm{N}$ the unit normal of an oriented surface $S$.
+The values of $\bm{N}$ at the points of $S$ are recorded by its
+Gauss map $\mathcal{G}_S$. This is the map from $S$ to the unit
+sphere $S^2$ that assigns to any point $p \in S$ the point
+$\bm{N}_p \in S^2$, where $\bm{N}_p$ is the unit normal of
+$S$ at $p$.
+
+\begin{defn}
+  Let $p$ be a point of a surface $S$. The Weingarten map
+  $\mathcal{W}_{p, S}$ of $S$ at $p$ is defined by
+  \[
+    \mathcal{W}_{p, S} = -D_p \mathcal{G}.
+  \]
+  The second fundamental form of $S$ at $p \in S$ is the bilinear
+  form on $T_p S$ given by
+  \[
+    \langle v, w \rangle_{p, S} = 
+    \langle \mathcal{W}_{p, S}(v), w \rangle_{p, s},
+    v, w \in T_p S.
+  \]
+\end{defn}
+
+\begin{proposition}
+  Let $p$ be a point of a surface $S$, let $\sigma(u, v)$ be a surface
+  patch of $S$ with $p$ in its image, and let
+  $L du^2 + 2 M du dv + N dv^2$ be the second fundamental form of
+  $\sigma$. Then, for any $\bm{v}, \bm{w} \in T_p S$,
+  \[
+    \langle \bm{v}, \bm{w} \rangle = 
+    L du(\bm{v}) du(\bm{w}) +
+    M(du(\bm{v}) dv(\bm{w}) + du(\bm{w}) dv(\bm{v})) +
+    N dv(\bm{v}) dv(\bm{w}).
+  \]
+\end{proposition}
+
+\begin{lemma}
+  Let $\sigma(u, v)$ be a surface patch with standard unit normal
+  $\bm{N}(u, v)$. Then,
+  \[
+    \bm{N}_u \cdot \sigma_u = -L,\,
+    \bm{N}_u \cdot \sigma_v = \bm{N}_v \cdot  \sigma_u = -M,\,
+    \bm{N}_v \cdot \sigma_v = -N.
+  \]
+\end{lemma}
+
+\begin{corollary}
+  The second fundamental form is a symmetric bilinear form.
+  Equivalently, the Weingarten map is self-adjoint.
+\end{corollary}
