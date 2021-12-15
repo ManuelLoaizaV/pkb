@@ -177,3 +177,56 @@ In short, $f$ is conformal if and only if it preserves angles.
 \begin{theorem}
   Every surface has an atlas consisting of conformal surface patches.
 \end{theorem}
+
+\subsection{Equiareal maps and a theorem of Archimedes}
+
+\begin{defn}
+  The area $A_{\sigma}(R)$ of the part $\sigma(R)$ of a suface patch
+  $\sigma: U \to \BR^3$ corresponding to a region $R \subset U$ is
+  \[
+    A_{\sigma}(R) = \int_R \|\sigma_u \times \sigma_v\| du\,dv.
+  \]
+\end{defn}
+
+\begin{proposition}
+  $\|\sigma_u \times \sigma_v\| = (EG - F^2)^{1 / 2}$.
+\end{proposition}
+
+\begin{proposition}
+  The area of a surface patch is unchanged by reparametrization.
+\end{proposition}
+
+\begin{defn}
+  Let $S_1$ and $S_2$ be two surfaces.
+  A local diffeomorphism $f: S_1 \to S_2$ is said to be equiareal if
+  it takes any region in $S_1$ to a region of the same area in $S_2$.
+\end{defn}
+
+\begin{theorem}
+  A local diffeomorphism $f: S_1 \to S_2$ is equiareal if and only if,
+  for any surface patch $\sigma(u, v)$ on $S_1$, the first fundamental forms
+  \[
+    E_1 du^2 + 2 F_1 du dv + G_1 dv^2  
+    \text{ and }
+    E_2 du^2 + 2 F_2 du dv + G_2 dv^2
+  \]
+  of the patches $\sigma$ on $S_1$ and $f \circ \sigma$ on $S_2$ satisfy
+  \[
+    E_1 G_2 - F_1^2 = E_2 G_2 - F_2^2.  
+  \]
+\end{theorem}
+
+\begin{theorem}[Archimedes' Theorem]
+  The map $f$ is an equiareal diffeomorphism.
+\end{theorem}
+
+A spherical triangle is a triangle on a sphere whose sides are
+arcs of great circles.
+
+\begin{theorem}
+  The area of spherical triangle of the unit sphere $S^2$ with internal
+  angles $\alpha, \beta$ and $\gamma$ is
+  \[
+    \alpha + \beta + \gamma - \pi.  
+  \]
+\end{theorem}
