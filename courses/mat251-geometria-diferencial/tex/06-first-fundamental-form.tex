@@ -66,3 +66,51 @@ and the length of $\gamma$ is given by
   and the first fundamental form is simply
   $du^2 + dv^2$.
 \end{example}
+
+\subsection{Isometries of surfaces}
+
+\begin{defn}
+  If $S_1$ and $S_2$ are surfaces, a smooth map $f: S_1 \to S_2$ is called
+  a local isometry if it takes any curve in $S_1$ to a curve of the same
+  length in $S_2$.
+  If a local isometry $f: S_1 \to S_2$ exists,
+  we say that $S_1$ and $S_2$ are locally isometric.
+\end{defn}
+
+\begin{remark}
+  Every local isometry is a local diffeomorphism.
+  Any composite of local isometries is a local isometry, and
+  the inverse of any isometry is an isometry.
+\end{remark}
+
+\begin{theorem}
+  A smooth map $f: S_1 \to S_2$ is a local isometry if and only if
+  the symmetric bilinear forms $\langle\,,\,\rangle_p$ and
+  $f^*\langle\,,\,\rangle_p$ on $T_p S_1$ are equal for all $p \in S_1$.
+\end{theorem}
+
+Thus, $f$ is a local isometry if and only if
+\[
+  \langle D_p f(v), D_p f(w) \rangle_{f(p)} =
+  \langle v, w \rangle_p
+\]
+for all $p \in S_1$ and all $v, w \in T_p S_1$.
+
+\begin{corollary}
+  A local diffeomorphism $f: S_1 \to S_2$ is a local isometry
+  if and only if, for any surface patch $\sigma_1$ and
+  $f \circ \sigma_1$ of $S_1$ and $S_2$, respectively,
+  have the same first fundamental form.
+\end{corollary}
+
+\begin{defn}
+  A tangent developable is the union of the tangent lines to a curve in
+  $\BR^3$.
+  The tangent line to a curve $\gamma$ at a point $\gamma(u)$
+  is the straight line passing through $\gamma(u)$ and parallel
+  to the tangent vector $\dot{\gamma}(u)$.
+\end{defn}
+
+\begin{proposition}
+  Any tangent developable is locally isometric to a plane.
+\end{proposition}
