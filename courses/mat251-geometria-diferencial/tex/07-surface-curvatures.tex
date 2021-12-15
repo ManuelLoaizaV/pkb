@@ -77,3 +77,61 @@ $S$ at $p$.
   The second fundamental form is a symmetric bilinear form.
   Equivalently, the Weingarten map is self-adjoint.
 \end{corollary}
+
+\subsection{Normal and geodesic curvatures}
+
+If $\gamma$ is a unit-speed curve on an oriented surface $S$, then
+\[
+  \ddot{\gamma} = \kappa_n \bm{N} + \kappa_g \bm{N} \times \dot{\gamma}.
+\]
+
+\begin{defn}
+  The scalars $\kappa_n$ and $\kappa_g$ are called the normal curvature
+  and the geodesic curvature of $\gamma$, respectively.
+\end{defn}
+
+\begin{proposition}
+  With the above notation, we have
+  \begin{gather*}
+    \kappa_n = \ddot{\gamma} \cdot \bm{N},\\
+    \kappa_g = \ddot{\gamma} \cdot (\bm{N} \times \dot{\gamma}),\\
+    \kappa^2 = \kappa_n^2 + \kappa_g^2,
+    \kappa_n = \kappa \cos \psi,
+    \kappa_g = \pm \kappa \sin \psi,
+  \end{gather*}
+  where $\kappa$ is the curvature of $\gamma$ and
+  $\psi$ is the angle between $\bm{N}$ and the principal normal
+  $\bm{n}$ of $\gamma$.
+\end{proposition}
+
+\begin{proposition}
+  If $\gamma$ is a unit-speed curve on an oriented surface $S$,
+  its normal curvature is given by
+  \[
+    \kappa_n = \langle \dot{\gamma}, \dot{\gamma} \rangle.
+  \]
+  If $\sigma$ is a surface patch of $S$ and $\gamma(t) = \sigma(u(t), v(t))$
+  is a curve in $\sigma$, then
+  \[
+    \kappa_n = L \dot{u}^2 + 2 M \dot{u}  \dot{v}+ N \dot{v}^2.
+  \]
+\end{proposition}
+
+\begin{proposition}[Meusnier's Theorem]
+  Let $p$ be a point of a surface $S$ and let $v$ be a unit tangent
+  vector to $S$ at $p$. Let $\Pi_{\theta}$ be the plane containing
+  the line through $p$ parallel to $v$ and making an angle $\theta$ with
+  the tangent plane $T_p S$, and assume that $\Pi_{\theta}$ is not
+  parallel to $T_p S$. Suppose that $\Pi_{\theta}$ intersects $S$
+  in a cruve with curvature $\kappa_{\theta}$. Then,
+  $\kappa_{\theta} \sin \theta$ is independent of $\theta$.
+\end{proposition}
+
+\begin{corollary}
+  The curvature $\kappa$, normal curvature $\kappa_n$ and
+  geodesic curvature $\kappa_g$ of a normal section of a surface are
+  related by
+  \[
+    \kappa_n = \pm \kappa, \, \kappa_g = 0.  
+  \]
+\end{corollary}
