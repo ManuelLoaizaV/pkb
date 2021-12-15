@@ -135,3 +135,85 @@ If $\gamma$ is a unit-speed curve on an oriented surface $S$, then
     \kappa_n = \pm \kappa, \, \kappa_g = 0.  
   \]
 \end{corollary}
+
+\subsection{Parallel transport and convariant derivative}
+
+\begin{defn}
+  Let $\gamma$ be a curve on a surface $S$ and let $v$ be a tangent
+  vector field along $\gamma$. The covariant derivative of $v$ along
+  $\gamma$ is the orthogonal projection $\nabla_{\gamma}v$ of
+  $dv/dt$ onto the thangent plane $T_{\gamma(t)} S$ at a point $\gamma(t)$.
+\end{defn}
+
+\begin{defn}
+  $v$ is said to be parallel along $\gamma$ if
+  $\nabla_{\gamma}v = 0$ at every point of $\gamma$.
+\end{defn}
+
+\begin{proposition}
+  A tangent vector field $v$ is parallel along a curve $\gamma$ on a
+  surface $S$ if and only if $\dot{v}$ is perpendicular to the
+  tangent plane of $S$ at all points of $\gamma$.
+\end{proposition}
+
+\begin{proposition}[Gauss Equations]
+  Let $\sigma(u, v)$ be a surface patch with first and second fundamental
+  forms
+  $E du^2 + 2 F du dv + G dv^2$ and
+  $L du^2 + 2 M du dv + N dv^2$.
+  Then
+  \begin{align*}
+    \sigma_uu &= \Gamma_{11}^1 \sigma_u + \Gamma_{11}^2 \sigma_v + L \bm{N},\\
+    \sigma_uv &= \Gamma_{12}^1 \sigma_u + \Gamma_{12}^2 \sigma_v + M \bm{N},\\
+    \sigma_vv &= \Gamma_{22}^1 \sigma_u + \Gamma_{22}^2 \sigma_v + N \bm{N},\\
+  \end{align*}
+  where
+  \begin{gather*}
+    \Gamma_{11}^1 = \frac{GE_u - 2 F F_u + F E_v}{2(EG - F^2)}, \, \Gamma_{11}^2 = \frac{2EF_u - EE_v -FE_u}{2(EG - F^2)},\\
+    \Gamma_{12}^1 = \frac{GE_v - FG_u}{2(EG - F^2)}, \, \Gamma_{12}^2 = \frac{EG_u - FE_v}{2(EG - F^2)},\\
+    \Gamma_{22}^1 = \frac{2GF_v - GG_u - FG_v}{2(EG - F^2)}, \, \Gamma_{22}^2 = \frac{EG_v - 2FF_v + FG_u}{2(EG - F^2)}.
+  \end{gather*}
+  The six $\Gamma$ coefficients in these formulas are called Christoffel symbols.
+\end{proposition}
+
+\begin{note}
+  Christoffel symbols depend only on the first fundamental form of $\sigma$.
+\end{note}
+
+\begin{proposition}
+  Let $\gamma(t) = \sigma(u(t), v(t))$ be a curve on a surface patch
+  $\sigma$, and let $\bm{v}(t) = \alpha(t) \sigma_u + \beta(t) \sigma_v$
+  be a tangent vector field along $\gamma$, where $\alpha$ and $\beta$
+  are smooth functions of $t$. Then $\bm{v}$ is parallel along
+  $\gamma$ if and only if the following equations are satisfied
+  \begin{align*}
+    \dot{\alpha} + (\Gamma_{11}^1 \dot{u} + \Gamma_{12}^1)\alpha + (\Gamma_{12}^1 \dot{u} + \Gamma_{22}^1 \dot{v})\beta = 0\\
+    \dot{\beta} + (\Gamma_{11}^2 \dot{u} + \Gamma_{12}^2)\alpha + (\Gamma_{12}^2 \dot{u} + \Gamma_{22}^2 \dot{v})\beta = 0.
+  \end{align*}
+\end{proposition}
+
+\begin{corollary}
+  Let $\gamma$ be a curve on a surface $S$ and let $v_0$ be a tangent
+  vector of $S$ at the point $\gamma(t_0)$.
+  Then, there is exactly one tangent vector field $v$ that is parallel
+  along $\gamma$ and is such that $v(t_0) = v_0$.
+\end{corollary}
+
+If $p$ and $q$ are two points on a curve $\gamma$ on a surface $S$,
+the covariant derivative enables us to associate to any vector in the
+tangent plane $T_p S$ a vector in the tangent plane $T_q S$.
+
+\begin{defn}
+  With the above notation, the map
+  $\Pi_{\gamma}^{pq}: T_p S \to T_q S$ that takes
+  $v_0 \in T_p S$ to $v_1 \in T_q S$ is called
+  parallel transport from $p$ to $q$ along $\gamma$.
+\end{defn}
+
+\begin{proposition}
+  With the above notation,
+  \begin{itemize}
+    \item $\Pi_{\gamma}^{pq}: T_p S \to T_q S$ is a linear map.
+    \item $\Pi_{\gamma}^{pq}$ is an isometry.
+  \end{itemize}
+\end{proposition}
