@@ -106,3 +106,28 @@
 \begin{theorem}
   Every connected compact surface whose Gaussian curvature is constant is a sphere.
 \end{theorem}
+
+\subsection{Geodesic mappings}
+
+\begin{defn}
+  If $S$ and $\tilde S$ are surfaces, a local diffeomorphism $F: S \to \tilde S$
+  is said to be geodesic if $f$ takes every pre-geodesic on $S$ to a pre-geodesic on $\tilde S$.
+\end{defn}
+
+\begin{proposition}
+  The following are geodesic local diffeomorphisms:
+  \begin{itemize}
+    \item Every local isometry.
+    \item Every dilation of $\BR^3$.
+    \item Every composite of geodesic local diffeomorphisms.
+  \end{itemize}
+\end{proposition}
+
+\begin{theorem}
+  Let $S$ be a connected surface.
+  If there is a geodesic local diffeomorphism from $S$ to a plane,
+  then $S$ has constant Gaussian curvature.
+  Conversely, if $S$ has constant Gaussian curvature, then for any point
+  $p \in S$ there is a surface patch $\sigma: U \to S$ of $S$ such that
+  $p \in \sigma(U)$ and $\sigma^{-1}: \sigma(U) \to U$ is a geodesic diffeomorphism.
+\end{theorem}
