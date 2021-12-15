@@ -29,3 +29,39 @@
 \begin{proposition}
   Any normal section of a surface is a geodesic.
 \end{proposition}
+
+\subsection{Geodesic equations}
+
+\begin{theorem}
+  A curve $\gamma$ on a surface $S$ is a geodesic if and only if,
+  for any part $\gamma(t) = \sigma(u(t), v(t))$ of $\gamma$
+  contained in a surface patch $\sigma$ of $S$, the following
+  two equations are satisfied:
+  \begin{align*}
+    \frac{d}{dt}(E\dot{u} + F\dot{v}) & = \frac{1}{2}(E_u\dot{u}^2 + 2F_u\dot{u}\dot{v} + G_u\dot{v}^2),\\
+    \frac{d}{dt}(E\dot{u} + F\dot{v}) &= \frac{1}{2}(E_v\dot{u}^2 + 2F_v\dot{u}\dot{v} + G_v\dot{v}^2).
+  \end{align*}
+  These differential equations are called the geodesic equations.
+\end{theorem}
+
+\begin{proposition}
+  A curve $\gamma$ of a surface $S$ is a geodesic if and only if,
+  for any part $\gamma(t) = \sigma(u(t), v(t))$ of $\gamma$ contained
+  in a surface patch $\gamma$ of $S$, the following two equations are satisfied:
+  \begin{align*}
+    \ddot{u} + \Gamma_{11}^1 \dot{u}^2 + 2 \Gamma_{12}^1 \dot{u}\dot{v} + \Gamma_{22}^1 \dot{v}^2 &= 0\\
+    \ddot{v} + \Gamma_{11}^2 \dot{u}^2 + 2 \Gamma_{12}^2 \dot{u}\dot{v} + \Gamma_{22}^2 \dot{v}^2 &= 0\\
+  \end{align*}
+\end{proposition}
+
+\begin{proposition}
+  Let $p$ be a point of a surface $S$, and let $t$ be a unit tangent vector
+  to $S$ at $p$. Then, there exist a unique unit-speed geodesic $\gamma$ on $S$ which
+  passes through $p$ and has tangent vector $t$ there.
+\end{proposition}
+
+In short, there is a unique geodesic through any given point of a surface in any given tangent direction.
+
+\begin{corollary}
+  Any local isometry between two surfaces takes the geodesics of one surface to the geodesics of the other.
+\end{corollary}
