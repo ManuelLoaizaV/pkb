@@ -37,3 +37,83 @@ Define symmetric $2 \times 2$ matrices $\mathcal{F}_I$ and $\mathcal{F}_{II}$ by
     K = \frac{LN - M^2}{EG - F^2}.
   \]
 \end{corollary}
+
+\subsection{Principal curvatures of a surface}
+
+\begin{proposition}
+  Let $p$ be a point of a surface $S$.
+  There are scalars $\kappa_1, \kappa_2$ and a basis $\{t_1, t_2\}$
+  of the tangent plane $T_p S$ such that
+  \[
+    \mathcal{W}(t_1) = \kappa_1 t_1, \,
+    \mathcal{W}(t_2) = \kappa_2 t_2.
+  \]
+  Moreover, if $\kappa_1 \neq \kappa_2$, then $\langle t_1, t_2 \rangle = 0$.
+\end{proposition}
+
+\begin{corollary}
+  If $p$ is a point of a surface $S$,
+  there is an orthonormal basis of the tangent plane $T_p S$
+  consisting of principal vectors.
+\end{corollary}
+
+\begin{proposition}
+  If $\kappa_1$ and $\kappa_2$ are the principal curvatures of a surface,
+  the mean and Gaussian curvatures are given by
+  \[
+    H = \frac{1}{2}(\kappa_1 + \kappa_2), \,
+    K = \kappa_1 \kappa_2.
+  \]
+\end{proposition}
+
+\begin{theorem}[Euler's Theorem]
+  Let $\gamma$ be a curve on an oriented surface $S$,
+  and let $\kappa_1$ and $\kappa_2$ be the principal curvatures of $\sigma$,
+  with non-zero principal vectors $t_1$ and $t_2$.
+  Then, the normal curvature of $\gamma$ is
+  \[
+    \kappa_n = \kappa_1 \cos^2 \theta + \kappa_2 \sin^2 \theta,  
+  \]
+  where $\theta$ is the oriented angle $\widehat{t_1 \dot{\gamma}}$.
+\end{theorem}
+
+\begin{corollary}
+  The principal curvatures at a point of a surface are the maximum and minimum
+  values of the normal curvature of all curves on the surface that pass through
+  the point. Moreover, the principal vectores are the tangent vectors of the curves
+  giving these maximum and minimum values.
+\end{corollary}
+
+\begin{proposition}
+  The principal curvatures are the roots of the equation
+  \[
+    \begin{vmatrix}
+      L - \kappa E & M - \kappa F \\
+      M - \kappa F & N - \kappa G
+    \end{vmatrix}
+    = 0,
+  \]
+  and the principal vectors corresponding to the principal curvature $\kappa$
+  are the tangent vectors $t = \xi \sigma_u + \eta \sigma_v$, such that
+  \[
+    \begin{pmatrix}
+      L - \kappa E & M - \kappa F \\
+      M - \kappa F & N - \kappa G
+    \end{pmatrix}
+    \begin{pmatrix}
+      \xi \\
+      \eta
+    \end{pmatrix}
+    =
+    \begin{pmatrix}
+      0 \\
+      0
+    \end{pmatrix}
+    .
+  \]
+\end{proposition}
+
+\begin{proposition}
+  Let $S$ be a (connected) surface of which every point is umbilic.
+  Then, $S$ is an open subset of a plane or a sphere.
+\end{proposition}
