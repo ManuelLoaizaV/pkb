@@ -65,3 +65,32 @@ In short, there is a unique geodesic through any given point of a surface in any
 \begin{corollary}
   Any local isometry between two surfaces takes the geodesics of one surface to the geodesics of the other.
 \end{corollary}
+
+\subsection{Geodesics on a surface of revolution}
+
+We parametrize the surface of revolution in the usual way
+\[
+  \sigma(u, v) = (f(u) \cos v, f(u) \sin v, g(u)).
+\]
+We assume that $f > 0$ and unit speed geodesics, so that
+\[
+  \dot{u}^2 + f^2(u) \dot{v}^2 = 1.
+\]
+
+\begin{proposition}
+  On the surface of revolution
+  \begin{itemize}
+    \item Every meridian is a geodesic.
+    \item A parallel $u = u_0$ is a geodesic if and only if $df / du = 0$ when $u = u_0$.
+  \end{itemize}
+\end{proposition}
+
+\begin{theorem}[Clairaut's Theorem]
+  Let $\gamma$ be a unit-speed curve on a surface of revolution $S$,
+  let $\rho: S \to \BR$ be the distance of a point of $S$ from the axis rotation,
+  and let $\psi$ be the angle between $\dot{\gamma}$ and the meridians of $S$.
+  If $\gamma$ is a geodesic, then $\rho \sin \psi$ is constant along $\gamma$.
+  Conversely, if $\rho \sin \psi$ is constant along $\gamma$, and
+  if no part of $\gamma$ is part of some parallel of $S$, then
+  $\gamma$ is a geodesic.
+\end{theorem}
