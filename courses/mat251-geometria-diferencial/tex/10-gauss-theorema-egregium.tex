@@ -1,0 +1,30 @@
+\section{Gauss' Theorema Egregium}
+
+\subsection{The Gauss and Codazzi-Mainardi equations}
+
+\begin{proposition}[Codazzi-Mainardi Equations]
+  Given the first and second fundamental forms of a surface patch
+  $\sigma(u, v)$, then
+  \begin{align*}
+    L_v - M_u &= L \Gamma_{12}^1 + M(\Gamma_{12}^2 - \Gamma_{11}^1) - N \Gamma_{11}^2,\\
+    M_v - N_u &= L \Gamma_{22}^1 + M(\Gamma_{22}^2 - \Gamma_{12}^1) - N \Gamma_{12}^2.
+  \end{align*}
+\end{proposition}
+
+\begin{proposition}[Gauss Equations]
+  If $K$ is the Gaussian curvature of the surface patch $\gamma(u, v)$
+  in the preceding proposition, then
+  \begin{align*}
+    EK &= (\Gamma_{11}^2)_v - (\Gamma_{12}^2)_u + \Gamma_{11}^1 \Gamma_{12}^2 +
+    \Gamma_{11}^2 \Gamma_{22}^2 - \Gamma_{12}^1 \Gamma_{11}^2 - (\Gamma_{12}^2)^2, \\
+    FK &= (\Gamma_{12}^1)_u - (\Gamma_{11}^1)_v + \Gamma_{12}^2 \Gamma_{12}^1 - \Gamma_{11}^2 \Gamma_{22}^1, \\
+    FK &= (\Gamma_{12}^2)_v - (\Gamma_{22}^2)_u + \Gamma_{12}^1 \Gamma_{12}^2 - \Gamma_{22}^1 \Gamma_{11}^2, \\
+    GK &= (\Gamma_{22}^1)_u - (\Gamma_{12}^1)_v + \Gamma_{22}^1 \Gamma_{11}^1 +
+    \Gamma_{22}^2 \Gamma_{12}^2 - (\Gamma_{12}^1)^2 - \Gamma_{12}^2 \Gamma_{22}^1. \\
+  \end{align*}
+\end{proposition}
+
+\begin{theorem}
+  Let $\sigma: U \to \BR^3$ and $\tilde \sigma: U \to \BR^3$ be surface patches with the same
+  first and second fundamental form. Then, there is a direct isometry $M$ of $\BR^3$ such that $\tilde \sigma = M(\sigma)$.
+\end{theorem}
