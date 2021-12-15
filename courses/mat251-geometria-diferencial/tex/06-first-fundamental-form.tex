@@ -114,3 +114,66 @@ for all $p \in S_1$ and all $v, w \in T_p S_1$.
 \begin{proposition}
   Any tangent developable is locally isometric to a plane.
 \end{proposition}
+
+\subsection{Conformal mappings of surfaces}
+
+Suppose that two curves $\gamma$ and $\tilde \gamma$ on a surface $S$
+intersect at a point $p$.
+The angle $\theta$ of intersection of $\gamma$ and $\tilde \gamma$
+at $p$ is defined to be the angle between the tangent vectors
+$\dot{\gamma}$ and $\dot{\tilde \gamma}$. Using the dot product
+formula for the angle between vectors, we see that $\theta$ is given by
+\begin{align*}
+  \cos \theta &= \frac{
+    \dot{\gamma} \cdot \dot{\tilde \gamma}
+  }{
+    \|\dot{\gamma}\| \|\dot{\tilde \gamma}\|
+  }\\
+  &= \frac{
+    E \dot{u} \dot{\tilde u} +
+    F(\dot{u}\dot{\tilde v} +
+    \dot{\tilde v}\dot{v}) + G \dot{v} \dot{\tilde v}
+  }{
+    (
+      E \dot{u}^2 +
+      2 F \dot{u}\dot{v} +
+      G \dot{v}^2
+    )^{1/2}
+    (
+      E \dot{\tilde u}^2 +
+      2 F \dot{\tilde u}\dot{\tilde v} +
+      G \dot{\tilde v}^2
+    )^{1/2}.
+  }
+\end{align*}
+
+\begin{defn}
+  If $S_1$ and $S_2$ are surfaces, a conformal map $f: S_1 \to S_2$ is a
+  local diffeomorphism such that, if $\gamma_1$ and $\tilde \gamma_1$
+  are any two curves on $S_1$ that intersect, say at a point $p \in S_1$,
+  and if $\gamma_2$ and $\tilde \gamma_2$ are their images under $f$,
+  the angle of intersection of $\gamma_1$ and $\tilde \gamma_1$ at $p$
+  is equal to the angle of intersection of $\gamma_2$ and $\tilde \gamma_2$
+  at $f(p)$.
+\end{defn}
+
+In short, $f$ is conformal if and only if it preserves angles.
+
+\begin{theorem}
+  A local diffeomorphism $f: S_1 \to S_2$ is conformal if and only if
+  there is a function $\lambda: S_1 \to \BR$ such that
+  \[
+    f^*\langle v, w \rangle_p  = \lambda(p) \langle v, w \rangle_p \text{ for all }
+    p \in S_1 \text{ and } v, w \in T_p S_1.
+  \]
+\end{theorem}
+
+\begin{corollary}
+  A local diffeomorphism $f: S_1 \to S_2$ is conformal if and only if, for
+  any surface patch $\sigma$ of $S_1$, the first fundamental forms of the
+  patches $\sigma$ of $S_1$ and $f \circ \sigma$ of $S_2$ are proportional.
+\end{corollary}
+
+\begin{theorem}
+  Every surface has an atlas consisting of conformal surface patches.
+\end{theorem}
