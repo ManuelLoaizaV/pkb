@@ -1,0 +1,39 @@
+\section{Gaussian, mean and principal curvatures}
+
+\subsection{Gaussian and mean curvatures}
+
+\begin{defn}
+  Let $\mathcal{W}$ be the Weingarten map of an oriented surface $S$
+  at a point $p \in S$. The Gaussian curvature $K$ and mean curvature
+  $H$ of $S$ at $p$ are defined by
+  \[
+    K = \det(\mathcal{W}), \, H = \frac{1}{2}\trace(\mathcal{W}).
+  \]
+\end{defn}
+
+Define symmetric $2 \times 2$ matrices $\mathcal{F}_I$ and $\mathcal{F}_{II}$ by
+\[
+  \mathcal{F}_I = \begin{pmatrix}
+    E & F \\
+    F & G
+  \end{pmatrix}, \,
+  \mathcal{F}_{II} = \begin{pmatrix}
+    L & M \\
+    M & N
+  \end{pmatrix}.
+\]
+
+\begin{proposition}
+  Let $\sigma$ be a surface patch of an oriented surface $S$.
+  Then, with the above notation, the matrix of $\mathcal{W}_{p, S}$
+  with respect to the basis $\{\sigma_u, \sigma_v\}$ of $T_p S$ is
+  $\mathcal{F}_I^{-1} \mathcal{F}_{II}$.
+\end{proposition}
+
+\begin{corollary}
+  We have
+  \[
+    H = \frac{LG - 2MF + NE}{2(EG - F^2)}, \,
+    K = \frac{LN - M^2}{EG - F^2}.
+  \]
+\end{corollary}
