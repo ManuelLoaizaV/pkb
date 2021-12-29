@@ -18,14 +18,19 @@
 
 ### Introduction to Computer Security
 - [University of California, Berkeley. Raluca Ada Popa. Nicholas Weaver.](https://cs161.org/)
-
 ## Networking
+
+### Introduction to Computer Networking
+- [Stanford University. Keith Winstein.](https://cs144.github.io/)
+[:film_strip:](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS)
 
 ## Operating / Distributed Systems
 
 ### Operating Systems and Systems Programming
 - [University of California, Berkeley. Ion Stoica](https://cs162.org/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
+- [Universidad Nacional Autónoma de México. Gunnar Wolf.](https://gwolf.sistop.org/)
+[:film_strip:](https://www.youtube.com/playlist?list=PLoCiKrWUWS9R0nia0HlB6aNf5mgEmi2ho)
 
 ### Advanced Operating Systems Structures and Implementation
 - [University of California, Berkeley. John Kubiatowicz.](https://people.eecs.berkeley.edu/~kubitron/courses/cs194-24-S13/)
@@ -40,7 +45,8 @@
 ### Introduction to Databases
 - [University of California, Berkeley. Lakshya Jain.](https://cs186berkeley.net/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y)
-
+- [Carnegie Mellon University. Lin Ma. Andrew Crotty.](https://15445.courses.cs.cmu.edu/fall2021/)
+[:film_strip:](https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG)
 ### Data-Intensive Systems
 
 ### Mining Massive Datasets
