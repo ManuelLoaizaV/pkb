@@ -4,9 +4,11 @@
 
 ## Machine Learning
 
-### Introduction to Artifical Intelligence
-- [University of California, Berkeley. Stuart Russell. Dawn Song.](https://inst.eecs.berkeley.edu/~cs188/sp21/)
-[:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u)
+### Introduction to Artificial Intelligence
+- University of California, Berkeley. Stuart Russell. Dawn Song.
+[:earth_americas:](https://inst.eecs.berkeley.edu/~cs188/sp21/)
+[:film_strip:](https://www.youtube.com/channel/UCHBzJsIcRIVuzzHVYabikTQ/videos)
+[:film_strip:](https://www.youtube.com/channel/UCOFsXLMqQFXaFeMNHlpIp9g/playlists)
 
 ### Introduction to Machine Learning
 - École Polytechnique Fédérale de Lausanne. Martin Jaggi. Nicolas Flammarion.
