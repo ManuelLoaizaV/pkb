@@ -126,7 +126,7 @@
 ## Computational Science & Numerical Analysis
 
 ### Numerical Analysis
-- [Penn State University. Wen Shen Psu.](https://www.youtube.com/playlist?list=PLbxFfU5GKZz29nXsWchAN1c3WsgiMiSXd)
+- [Penn State University. Wen Shen.](https://www.youtube.com/playlist?list=PLbxFfU5GKZz29nXsWchAN1c3WsgiMiSXd)
 - [University of California, Berkeley. Andrew Shi.](https://math.berkeley.edu/~andrewshi/Teaching.html)
 - [University of California, Berkeley. Per-Olof Persson.](http://persson.berkeley.edu/math128a/)
 - [University of California, Davis. James Bremer.](https://www.math.ucdavis.edu/~bremer/classes/fall2018/MAT128a/)
@@ -136,7 +136,7 @@
 ## Operations Research
 
 ### Linear Programming
-- [Penn State University. Wen Shen Psu.](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
+- [Penn State University. Wen Shen.](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
 - [Stanford University. Yinyu Ye.](https://web.stanford.edu/class/msande310/index.shtml)
 - [University of California, Berkeley. Ming Gu.](https://math.berkeley.edu/~mgu/MA170/)
 
