@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-## Computer Vision
+<!-- ## Computer Vision -->
 
 ## Machine Learning
 
@@ -32,17 +32,23 @@
 [:earth_americas:](https://ee227c.github.io/)
 [:octocat:](https://github.com/ee227c/ee227c.github.io)
 
-## Natural Language Processing
+<!-- ## Natural Language Processing -->
 
 # Computer Systems
 
-## Architecture
+### Computer Systems Engineering
+- Massachusetts Institute of Technology. Katrina LaCurts.
+[:earth_americas:](http://web.mit.edu/6.033/www/index.shtml)
+[:film_strip:](http://web.mit.edu/6.033/www/index.shtml)
+
+<!-- ## Architecture -->
 
 ## Computer Security
 
 ### Introduction to Computer Security
 - University of California, Berkeley. Raluca Ada Popa. Nicholas Weaver.
 [:earth_americas:](https://cs161.org/)
+
 ## Networking
 
 ### Introduction to Computer Networking
@@ -53,19 +59,30 @@
 ## Operating / Distributed Systems
 
 ### Operating Systems and Systems Programming
-- University of California, Berkeley. Ion Stoica.
-[:earth_americas:](https://cs162.org/)
-[:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
+- Massachusetts Institute of Technology. Frans Kaashoek. Robert Morris.
+[:earth_americas:](https://pdos.csail.mit.edu/6.S081/2020/schedule.html)
+[:film_strip:](https://pdos.csail.mit.edu/6.S081/2020/schedule.html)
 - Universidad Nacional Autónoma de México. Gunnar Wolf.
 [:earth_americas:](https://gwolf.sistop.org/)
 [:film_strip:](https://www.youtube.com/playlist?list=PLoCiKrWUWS9R0nia0HlB6aNf5mgEmi2ho)
+- University of California, Berkeley. Ion Stoica.
+[:earth_americas:](https://cs162.org/)
+[:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
+- University of Central Florida. Paul Gazzillo.
+[:earth_americas:](http://www.cs.ucf.edu/~gazzillo/teaching/cop5611spring21/)
+
 
 ### Advanced Operating Systems Structures and Implementation
 - University of California, Berkeley. John Kubiatowicz.
 [:earth_americas:](https://people.eecs.berkeley.edu/~kubitron/courses/cs194-24-S13/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE)
 
-## Programming Systems and Verification
+### Distributed Systems
+- Massachusetts Institute of Technology. Frans Kaashoek.
+[:earth_americas:](https://pdos.csail.mit.edu/6.824/schedule.html)
+[:film_strip:](https://pdos.csail.mit.edu/6.824/schedule.html)
+
+<!-- ## Programming Systems and Verification -->
 
 # Information
 
@@ -75,16 +92,29 @@
 - Carnegie Mellon University. Lin Ma. Andrew Crotty.
 [:earth_americas:](https://15445.courses.cs.cmu.edu/fall2021/)
 [:film_strip:](https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG)
+- Stanford University. Shiva Shivakumar.
+[:earth_americas:](https://cs145-fa19.github.io/)
 - University of California, Berkeley. Lakshya Jain.
 [:earth_americas:](https://cs186berkeley.net/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y)
+
+### Advanced Database Systems
+- Carnegie Mellon University. Andy Pavlo.
+[:earth_americas:](https://15721.courses.cs.cmu.edu/spring2020/)
+[:film_strip:](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+
 ### Data-Intensive Systems
+- Stanford University. Matei Zaharia.
+[:earth_americas:](https://web.stanford.edu/class/cs245/)
 
 ### Mining Massive Datasets
+- Stanford University. Jure Leskovec.
+[:earth_americas:](http://web.stanford.edu/class/cs246/)
+[:film_strip:](https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos)
 
-### Database Management Systems
+<!-- ### Database Management Systems -->
 
-### Database Systems Implementation
+<!-- ### Database Systems Implementation -->
 
 # Software Design and Engineering
 
@@ -146,13 +176,15 @@
 [:earth_americas:](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 [:film_strip:](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
 - University of California, Berkeley. Avishay Tal. Umesh Vazirani.
-[:earth_americas: :film_strip:](https://inst.eecs.berkeley.edu/~cs170/fa20/)
+[:earth_americas:](https://inst.eecs.berkeley.edu/~cs170/fa20/)
+[:film_strip:](https://inst.eecs.berkeley.edu/~cs170/fa20/)
 
 ### Data Structures
 - ITMO University. Pavel Mavrin.
 [:film_strip:](https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
 - Massachusetts Institute of Technology. Erik Demaine.
-[:earth_americas: :film_strip:](http://courses.csail.mit.edu/6.851/spring21/lectures/)
+[:earth_americas:](http://courses.csail.mit.edu/6.851/spring21/lectures/)
+[:film_strip:](http://courses.csail.mit.edu/6.851/spring21/lectures/)
 [:octocat:](https://github.com/6851-2021)
 - Stanford University. Keith Schwarz.
 [:earth_americas:](http://web.stanford.edu/class/cs166/)
