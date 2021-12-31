@@ -33,12 +33,12 @@
 ## Analysis & PDEs
 
 ### Real Analysis
+- Abdus Salam International Centre for Theoretical Physics. Eva Sincich.
+[:film_strip:](https://www.youtube.com/playlist?list=PLLq_gUfXAnknTQofOxC3WpseyusORewKB)
 - Pontificia Universidad Católica del Perú. Jesús Zapata.
 [:film_strip:](https://onedrive.live.com/?authkey=%21AEAqg1EFI4Qklos&id=3D7D888E8BE1BF5D%216419&cid=3D7D888E8BE1BF5D)
 - University of California, Los Angeles. Artem Chernikov.
 [:film_strip:](https://www.youtube.com/playlist?list=PL54Pt_mZzBqjcodJ_GqXxqG1WCCmq433k)
-- Abdus Salam International Centre for Theoretical Physics. Eva Sincich.
-[:film_strip:](https://www.youtube.com/playlist?list=PLLq_gUfXAnknTQofOxC3WpseyusORewKB)
 
 ### Topology in ℝ<sup>n</sup>
 - Pontificia Universidad Católica del Perú. Jesús Zapata.
@@ -49,20 +49,20 @@
 [:film_strip:](https://www.youtube.com/playlist?list=PLSx1kJDjrLRSBmBeM7NEeKBE5_nEFcKXH)
 
 ### Complex Analysis
+- Abdus Salam International Centre for Theoretical Physics. Fabio Vlacci.
+[:film_strip:](https://www.youtube.com/playlist?list=PLLq_gUfXAnkk_krlZvRFQnpZUIw2E_kiX)
 - Pontificia Universidad Católica del Perú. Rudy Rosas.
 [:film_strip:](https://onedrive.live.com/?authkey=%21ACw8I324KrFDKHg&id=3D7D888E8BE1BF5D%213318&cid=3D7D888E8BE1BF5D)
 - University of California, Berkeley. Richard Borcherds.
 [:film_strip:](https://www.youtube.com/playlist?list=PL8yHsr3EFj537_iYA5QrvwhvMlpkJ1yGN)
-- Abdus Salam International Centre for Theoretical Physics. Fabio Vlacci.
-[:film_strip:](https://www.youtube.com/playlist?list=PLLq_gUfXAnkk_krlZvRFQnpZUIw2E_kiX)
 
 ### Measure Theory
+- Hamburg University of Technology. Julian P. Grossmann.
+[:film_strip:](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)
 - Instituto de Matemática Pura e Aplicada. Claudio Landim.
 [:film_strip:](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQq8ZyA8F8reSQHej3F6RFX)
 - Pontificia Universidad Católica del Perú. Johel Beltrán.
 [:film_strip:](https://onedrive.live.com/?authkey=%21ACw8I324KrFDKHg&id=3D7D888E8BE1BF5D%213318&cid=3D7D888E8BE1BF5D)
-- Hamburg University of Technology. Julian P. Grossmann.
-[:film_strip:](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)
 
 ### Functional Analysis
 - Instituto de Matemática Pura e Aplicada. Claudio Landim.
@@ -99,10 +99,10 @@
 ## Number Theory
 
 ### Elementary Number Theory
-- University of California, Berkeley. Richard Borcherds.
-[:film_strip:](https://www.youtube.com/playlist?list=PL8yHsr3EFj52Qf7lc3HHvHRdIysxEcj1H)
 - Randolph College. Michael Penn.
 [:film_strip:](https://www.youtube.com/playlist?list=PL22w63XsKjqwAgBzVFVqZNMcVKpOOAA7c)
+- University of California, Berkeley. Richard Borcherds.
+[:film_strip:](https://www.youtube.com/playlist?list=PL8yHsr3EFj52Qf7lc3HHvHRdIysxEcj1H)
 
 ### Algebraic Number Theory
 - University of Oregon. Sean Haight.
@@ -115,12 +115,13 @@
 ## Probability & Statistics
 
 ### Statistics
-- California Institute of Technology. Leonard J. Schulman.
-[:film_strip:](http://users.cms.caltech.edu/~schulman/Courses/20cs150a/20cs150a.html)
-- Massachusetts Institute of Technology. John Tsitsiklis, Patrick Jaillet.
+- Massachusetts Institute of Technology. John Tsitsiklis, Patrick Jaillet, Scott Sheffield.
+[:earth_americas:](https://ocw.mit.edu/courses/mathematics/18-440-probability-and-random-variables-spring-2014/index.htm)
 [:film_strip:](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 
 ### Probability Theory
+- California Institute of Technology. Leonard J. Schulman.
+[:earth_americas:](http://users.cms.caltech.edu/~schulman/Courses/18cs150/18cs150.html)
 - Pontificia Universidad Católica del Perú. Jonathan Farfán.
 [:film_strip:](#)
 
@@ -134,9 +135,12 @@
 
 ### Discrete Mathematics
 - Carnegie Mellon University. Po-Shen Loh.
+[:earth_americas:](https://www.math.cmu.edu/~ploh/2021-228.shtml)
 [:film_strip:](https://www.youtube.com/playlist?list=PLUcW89-ti8ejY-6LIdJ8tou8HJsHyt92v)
+- Carnegie Mellon University. James Cummings.
+[:earth_americas:](https://www.math.cmu.edu/users/jcumming/teaching/discrete/)
 - University of California, Berkeley. Babak Ayazifar. Satish Rao.
-[:film_strip:](https://www.eecs70.org/)
+[:earth_americas:](https://www.eecs70.org/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
 
 ### Graph Theory
@@ -153,21 +157,24 @@
 
 ### Enumerative Combinatorics
 - San Francisco State University. Federico Ardila.
+[:earth_americas:](http://math.sfsu.edu/federico/Clase/EC/ec.html)
 [:film_strip:](https://www.youtube.com/playlist?list=PL-XzhVrXIVeSi7xym1XAfFIxOAaHVhjtP)
 
-### Polytopes
+### Discrete Geometry
 - San Francisco State University. Federico Ardila.
+[:earth_americas:](http://math.sfsu.edu/federico/Clase/Polytopes/polytopes.html)
 [:film_strip:](https://www.youtube.com/playlist?list=PL-XzhVrXIVeQ298S6uCyoDGWNActWwnzZ)
 
-### Matroids
+### Matroid Theory
 - San Francisco State University. Federico Ardila.
+[:earth_americas:](http://math.sfsu.edu/federico/Clase/Matroids/matroids.html)
 [:film_strip:](https://www.youtube.com/playlist?list=PL-XzhVrXIVeSu_b29hbX5xJ0bRThokU8a)
 
 ### Combinatorial Optimization
 - Massachusetts Institute of Technology. Michel Goemans.
-[:film_strip:](http://www-math.mit.edu/~goemans/18453S17/18453.html)
+[:earth_americas:](http://www-math.mit.edu/~goemans/18453S17/18453.html)
 - Stanford University. Jan Vondrak.
-[:film_strip:](https://theory.stanford.edu/~jvondrak/CS369P/CS369P.html)
+[:earth_americas:](https://theory.stanford.edu/~jvondrak/CS369P/CS369P.html)
 - University of Texas at Austin. Constantine Caramanis.
 [:film_strip:](https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL)
 
@@ -175,17 +182,21 @@
 
 ### Numerical Analysis
 - Penn State University. Wen Shen.
+[:earth_americas:](https://ebookcentral.proquest.com/lib/bibpucp-ebooks/detail.action?docID=5900406)
 [:film_strip:](https://www.youtube.com/playlist?list=PLbxFfU5GKZz29nXsWchAN1c3WsgiMiSXd)
 - University of California, Berkeley. Andrew Shi.
-[:film_strip:](https://math.berkeley.edu/~andrewshi/Teaching.html)
+[:earth_americas:](https://math.berkeley.edu/~andrewshi/Teaching.html)
 - University of California, Berkeley. Per-Olof Persson.
-[:film_strip:](http://persson.berkeley.edu/math128a/)
+[:earth_americas:](http://persson.berkeley.edu/math128a/)
 - University of California, Davis. James Bremer.
-[:film_strip:](https://www.math.ucdavis.edu/~bremer/classes/fall2018/MAT128a/)
+[:earth_americas:](https://www.math.ucdavis.edu/~bremer/classes/fall2018/MAT128a/)
 - University of California, San Diego. Martin Licht.
-[:film_strip:](https://www.math.ucsd.edu/~mlicht/wina2021/main.html)
+[:earth_americas:](https://www.math.ucsd.edu/~mlicht/wina2021/main.html)
 - Harvard University. Chris Rycroft.
-[:film_strip:](https://courses.seas.harvard.edu/courses/am205/index.html)
+[:earth_americas:](https://courses.seas.harvard.edu/courses/am205/index.html)
+[:film_strip:](https://www.youtube.com/playlist?list=PL43IQ71lgJytIqhiJ6v5lNswFKeQ9952K)
+[:octocat:](https://github.com/chr1shr/am205_examples)
+[:octocat:](https://github.com/chr1shr/am205_g_activities)
 
 ## Operations Research
 
@@ -193,13 +204,14 @@
 - Penn State University. Wen Shen.
 [:film_strip:](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
 - Stanford University. Yinyu Ye.
-[:film_strip:](https://web.stanford.edu/class/msande310/index.shtml)
+[:earth_americas:](https://web.stanford.edu/class/msande310/index.shtml)
 - University of California, Berkeley. Ming Gu.
-[:film_strip:](https://math.berkeley.edu/~mgu/MA170/)
+[:earth_americas:](https://math.berkeley.edu/~mgu/MA170/)
 
 ### Convex Optimization
 - Massachusetts Institute of Technology. Dimitri Bertsekas.
-[:film_strip:](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-253-convex-analysis-and-optimization-spring-2012/index.htm)
+[:earth_americas:](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-253-convex-analysis-and-optimization-spring-2012/index.htm)
 - Stanford University. Stephen Boyd.
+[:earth_americas:](https://web.stanford.edu/class/ee364a/index.html)
 [:film_strip:](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)
 
