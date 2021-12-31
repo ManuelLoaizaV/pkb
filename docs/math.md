@@ -33,123 +33,173 @@
 ## Analysis & PDEs
 
 ### Real Analysis
-- [Pontificia Universidad Católica del Perú. Jesús Zapata.](https://onedrive.live.com/?authkey=%21AEAqg1EFI4Qklos&id=3D7D888E8BE1BF5D%216419&cid=3D7D888E8BE1BF5D)
-- [University of California, Los Angeles. Artem Chernikov.](https://www.youtube.com/playlist?list=PL54Pt_mZzBqjcodJ_GqXxqG1WCCmq433k)
-- [Abdus Salam International Centre for Theoretical Physics. Eva Sincich.](https://www.youtube.com/playlist?list=PLLq_gUfXAnknTQofOxC3WpseyusORewKB)
+- Pontificia Universidad Católica del Perú. Jesús Zapata.
+[:film_strip:](https://onedrive.live.com/?authkey=%21AEAqg1EFI4Qklos&id=3D7D888E8BE1BF5D%216419&cid=3D7D888E8BE1BF5D)
+- University of California, Los Angeles. Artem Chernikov.
+[:film_strip:](https://www.youtube.com/playlist?list=PL54Pt_mZzBqjcodJ_GqXxqG1WCCmq433k)
+- Abdus Salam International Centre for Theoretical Physics. Eva Sincich.
+[:film_strip:](https://www.youtube.com/playlist?list=PLLq_gUfXAnknTQofOxC3WpseyusORewKB)
 
 ### Topology in ℝ<sup>n</sup>
-- [Pontificia Universidad Católica del Perú. Jesús Zapata.](#)
+- Pontificia Universidad Católica del Perú. Jesús Zapata.
+[:film_strip:](#)
 
 ### Analysis on Manifolds
-- [University of Connecticut. Arthur Parzygnat.](https://www.youtube.com/playlist?list=PLSx1kJDjrLRSBmBeM7NEeKBE5_nEFcKXH)
+- University of Connecticut. Arthur Parzygnat.
+[:film_strip:](https://www.youtube.com/playlist?list=PLSx1kJDjrLRSBmBeM7NEeKBE5_nEFcKXH)
 
 ### Complex Analysis
-- [Pontificia Universidad Católica del Perú. Rudy Rosas.](https://onedrive.live.com/?authkey=%21ACw8I324KrFDKHg&id=3D7D888E8BE1BF5D%213318&cid=3D7D888E8BE1BF5D)
-- [University of California, Berkeley. Richard Borcherds.](https://www.youtube.com/playlist?list=PL8yHsr3EFj537_iYA5QrvwhvMlpkJ1yGN)
-- [Abdus Salam International Centre for Theoretical Physics. Fabio Vlacci.](https://www.youtube.com/playlist?list=PLLq_gUfXAnkk_krlZvRFQnpZUIw2E_kiX)
+- Pontificia Universidad Católica del Perú. Rudy Rosas.
+[:film_strip:](https://onedrive.live.com/?authkey=%21ACw8I324KrFDKHg&id=3D7D888E8BE1BF5D%213318&cid=3D7D888E8BE1BF5D)
+- University of California, Berkeley. Richard Borcherds.
+[:film_strip:](https://www.youtube.com/playlist?list=PL8yHsr3EFj537_iYA5QrvwhvMlpkJ1yGN)
+- Abdus Salam International Centre for Theoretical Physics. Fabio Vlacci.
+[:film_strip:](https://www.youtube.com/playlist?list=PLLq_gUfXAnkk_krlZvRFQnpZUIw2E_kiX)
 
 ### Measure Theory
-- [Instituto de Matemática Pura e Aplicada. Claudio Landim.](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQq8ZyA8F8reSQHej3F6RFX)
-- [Pontificia Universidad Católica del Perú. Johel Beltrán.](https://onedrive.live.com/?authkey=%21ACw8I324KrFDKHg&id=3D7D888E8BE1BF5D%213318&cid=3D7D888E8BE1BF5D)
-- [Hamburg University of Technology. Julian P. Grossmann.](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)
+- Instituto de Matemática Pura e Aplicada. Claudio Landim.
+[:film_strip:](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQq8ZyA8F8reSQHej3F6RFX)
+- Pontificia Universidad Católica del Perú. Johel Beltrán.
+[:film_strip:](https://onedrive.live.com/?authkey=%21ACw8I324KrFDKHg&id=3D7D888E8BE1BF5D%213318&cid=3D7D888E8BE1BF5D)
+- Hamburg University of Technology. Julian P. Grossmann.
+[:film_strip:](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)
 
 ### Functional Analysis
-- [Instituto de Matemática Pura e Aplicada. Claudio Landim.](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTIIIRwqK35CbFJieSJEcVR)
+- Instituto de Matemática Pura e Aplicada. Claudio Landim.
+[:film_strip:](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTIIIRwqK35CbFJieSJEcVR)
 
 ### General Topology
-- [Pontificia Universidad Católica del Perú. Rudy Rosas.](https://drive.google.com/drive/folders/1U_ulxVkrNFt00MGUtd-b8iPRt_Tr0tcZ)
+- Pontificia Universidad Católica del Perú. Rudy Rosas.
+[:film_strip:](https://drive.google.com/drive/folders/1U_ulxVkrNFt00MGUtd-b8iPRt_Tr0tcZ)
 
 ### Applied Differential Equations
-- [Pontificia Universidad Católica del Perú. Rubén Agapito.](#)
+- Pontificia Universidad Católica del Perú. Rubén Agapito.
+[:film_strip:](#)
 
 ### Ordinary Differential Equations
-- [Pontificia Universidad Católica del Perú. Rudy Rosas.](#)
+- Pontificia Universidad Católica del Perú. Rudy Rosas.
+[:film_strip:](#)
 
 ### Partial Differential Equations
-- [Pontificia Universidad Católica del Perú. Jonathan Farfán.](#)
+- Pontificia Universidad Católica del Perú. Jonathan Farfán.
+[:film_strip:](#)
 
 ## Geometry
 
 ### Differential Geometry
-- [Pontificia Universidad Católica del Perú. Christiam Figueroa Serrudo.](https://onedrive.live.com/?authkey=%21AO1KRMHvVLzLwWc&id=3D7D888E8BE1BF5D%212536&cid=3D7D888E8BE1BF5D)
+- Pontificia Universidad Católica del Perú. Christiam Figueroa Serrudo.
+[:film_strip:](https://onedrive.live.com/?authkey=%21AO1KRMHvVLzLwWc&id=3D7D888E8BE1BF5D%212536&cid=3D7D888E8BE1BF5D)
 
 ## Mathematical Logic & Foundations
 
 ### Mathematical Logic
-- [University of California, Los Angeles. Artem Chernikov.](https://www.youtube.com/playlist?list=PL54Pt_mZzBqibWHgesgEICeQHnwHom8xz)
+- University of California, Los Angeles. Artem Chernikov.
+[:film_strip:](https://www.youtube.com/playlist?list=PL54Pt_mZzBqibWHgesgEICeQHnwHom8xz)
 
 ## Number Theory
 
 ### Elementary Number Theory
-- [University of California, Berkeley. Richard Borcherds.](https://www.youtube.com/playlist?list=PL8yHsr3EFj52Qf7lc3HHvHRdIysxEcj1H)
-- [Randolph College. Michael Penn.](https://www.youtube.com/playlist?list=PL22w63XsKjqwAgBzVFVqZNMcVKpOOAA7c)
+- University of California, Berkeley. Richard Borcherds.
+[:film_strip:](https://www.youtube.com/playlist?list=PL8yHsr3EFj52Qf7lc3HHvHRdIysxEcj1H)
+- Randolph College. Michael Penn.
+[:film_strip:](https://www.youtube.com/playlist?list=PL22w63XsKjqwAgBzVFVqZNMcVKpOOAA7c)
 
 ### Algebraic Number Theory
-- [University of Oregon. Sean Haight.](https://www.youtube.com/playlist?list=PLB9ZOuiho-g80BM2h7kxSed-_aFavOXXa)
+- University of Oregon. Sean Haight.
+[:film_strip:](https://www.youtube.com/playlist?list=PLB9ZOuiho-g80BM2h7kxSed-_aFavOXXa)
 
 ### Analytic Number Theory
-- [Queen's University. M. Ram Murty.](https://www.youtube.com/playlist?list=PLhkiT_RYTEU1H7OmRVF5VJi76D2Efwf7F)
+- Queen's University. M. Ram Murty.
+[:film_strip:](https://www.youtube.com/playlist?list=PLhkiT_RYTEU1H7OmRVF5VJi76D2Efwf7F)
 
 ## Probability & Statistics
 
 ### Statistics
-- [California Institute of Technology. Leonard J. Schulman.](http://users.cms.caltech.edu/~schulman/Courses/20cs150a/20cs150a.html)
-- [Massachusetts Institute of Technology. John Tsitsiklis, Patrick Jaillet.](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+- California Institute of Technology. Leonard J. Schulman.
+[:film_strip:](http://users.cms.caltech.edu/~schulman/Courses/20cs150a/20cs150a.html)
+- Massachusetts Institute of Technology. John Tsitsiklis, Patrick Jaillet.
+[:film_strip:](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 
 ### Probability Theory
-- [Pontificia Universidad Católica del Perú. Jonathan Farfán.](#)
+- Pontificia Universidad Católica del Perú. Jonathan Farfán.
+[:film_strip:](#)
 
 ### Markov Chains
-- [Instituto de Matemática Pura e Aplicada.](https://www.youtube.com/playlist?list=PLo4jXE-LdDTT5GR1CJSLoOsTyf1ZbrM8w)
+- Instituto de Matemática Pura e Aplicada.
+[:film_strip:](https://www.youtube.com/playlist?list=PLo4jXE-LdDTT5GR1CJSLoOsTyf1ZbrM8w)
 
 # Applied Mathematics
 
 ## Combinatorics
 
 ### Discrete Mathematics
-- [Carnegie Mellon University. Po-Shen Loh.](https://www.youtube.com/playlist?list=PLUcW89-ti8ejY-6LIdJ8tou8HJsHyt92v)
-- [University of California, Berkeley. Babak Ayazifar. Satish Rao.](https://www.eecs70.org/)
+- Carnegie Mellon University. Po-Shen Loh.
+[:film_strip:](https://www.youtube.com/playlist?list=PLUcW89-ti8ejY-6LIdJ8tou8HJsHyt92v)
+- University of California, Berkeley. Babak Ayazifar. Satish Rao.
+[:film_strip:](https://www.eecs70.org/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
 
 ### Graph Theory
-- [North Carolina State University. Donald R. Sheehy.](https://www.youtube.com/playlist?list=PLVqjIisMyo_9h78itHVS2hZzkthxFHoT7)
-- [Massachusetts Institute of Technology. Yufei Zhao.](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
+- North Carolina State University. Donald R. Sheehy.
+[:film_strip:](https://www.youtube.com/playlist?list=PLVqjIisMyo_9h78itHVS2hZzkthxFHoT7)
+- Massachusetts Institute of Technology. Yufei Zhao.
+[:film_strip:](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
 
 ### Extremal Combinatorics
-- [Carnegie Mellon University. Po-Shen Loh.](https://www.youtube.com/playlist?list=PLgTkKBA6LRqaGKITvQS1QuIBoEbOVwFTm)
-- [Instituto de Matemática Pura e Aplicada. Robert Morris.](https://youtube.com/playlist?list=PLo4jXE-LdDTRXnkxZ7_SrOqo2lx41ww2j)
+- Carnegie Mellon University. Po-Shen Loh.
+[:film_strip:](https://www.youtube.com/playlist?list=PLgTkKBA6LRqaGKITvQS1QuIBoEbOVwFTm)
+- Instituto de Matemática Pura e Aplicada. Robert Morris.
+[:film_strip:](https://youtube.com/playlist?list=PLo4jXE-LdDTRXnkxZ7_SrOqo2lx41ww2j)
 
 ### Enumerative Combinatorics
-- [San Francisco State University. Federico Ardila.](https://www.youtube.com/playlist?list=PL-XzhVrXIVeSi7xym1XAfFIxOAaHVhjtP)
+- San Francisco State University. Federico Ardila.
+[:film_strip:](https://www.youtube.com/playlist?list=PL-XzhVrXIVeSi7xym1XAfFIxOAaHVhjtP)
 
 ### Polytopes
-- [San Francisco State University. Federico Ardila.](https://www.youtube.com/playlist?list=PL-XzhVrXIVeQ298S6uCyoDGWNActWwnzZ)
+- San Francisco State University. Federico Ardila.
+[:film_strip:](https://www.youtube.com/playlist?list=PL-XzhVrXIVeQ298S6uCyoDGWNActWwnzZ)
 
 ### Matroids
-- [San Francisco State University. Federico Ardila.](https://www.youtube.com/playlist?list=PL-XzhVrXIVeSu_b29hbX5xJ0bRThokU8a)
+- San Francisco State University. Federico Ardila.
+[:film_strip:](https://www.youtube.com/playlist?list=PL-XzhVrXIVeSu_b29hbX5xJ0bRThokU8a)
 
 ### Combinatorial Optimization
-- [Massachusetts Institute of Technology. Michel Goemans.](http://www-math.mit.edu/~goemans/18453S17/18453.html)
-- [Stanford University. Jan Vondrak.](https://theory.stanford.edu/~jvondrak/CS369P/CS369P.html)
-- [University of Texas at Austin. Constantine Caramanis.](https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL)
+- Massachusetts Institute of Technology. Michel Goemans.
+[:film_strip:](http://www-math.mit.edu/~goemans/18453S17/18453.html)
+- Stanford University. Jan Vondrak.
+[:film_strip:](https://theory.stanford.edu/~jvondrak/CS369P/CS369P.html)
+- University of Texas at Austin. Constantine Caramanis.
+[:film_strip:](https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL)
 
 ## Computational Science & Numerical Analysis
 
 ### Numerical Analysis
-- [Penn State University. Wen Shen.](https://www.youtube.com/playlist?list=PLbxFfU5GKZz29nXsWchAN1c3WsgiMiSXd)
-- [University of California, Berkeley. Andrew Shi.](https://math.berkeley.edu/~andrewshi/Teaching.html)
-- [University of California, Berkeley. Per-Olof Persson.](http://persson.berkeley.edu/math128a/)
-- [University of California, Davis. James Bremer.](https://www.math.ucdavis.edu/~bremer/classes/fall2018/MAT128a/)
-- [University of California, San Diego. Martin Licht.](https://www.math.ucsd.edu/~mlicht/wina2021/main.html)
-- [Harvard University. Chris Rycroft.](https://courses.seas.harvard.edu/courses/am205/index.html)
+- Penn State University. Wen Shen.
+[:film_strip:](https://www.youtube.com/playlist?list=PLbxFfU5GKZz29nXsWchAN1c3WsgiMiSXd)
+- University of California, Berkeley. Andrew Shi.
+[:film_strip:](https://math.berkeley.edu/~andrewshi/Teaching.html)
+- University of California, Berkeley. Per-Olof Persson.
+[:film_strip:](http://persson.berkeley.edu/math128a/)
+- University of California, Davis. James Bremer.
+[:film_strip:](https://www.math.ucdavis.edu/~bremer/classes/fall2018/MAT128a/)
+- University of California, San Diego. Martin Licht.
+[:film_strip:](https://www.math.ucsd.edu/~mlicht/wina2021/main.html)
+- Harvard University. Chris Rycroft.
+[:film_strip:](https://courses.seas.harvard.edu/courses/am205/index.html)
 
 ## Operations Research
 
 ### Linear Programming
-- [Penn State University. Wen Shen.](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
-- [Stanford University. Yinyu Ye.](https://web.stanford.edu/class/msande310/index.shtml)
-- [University of California, Berkeley. Ming Gu.](https://math.berkeley.edu/~mgu/MA170/)
+- Penn State University. Wen Shen.
+[:film_strip:](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
+- Stanford University. Yinyu Ye.
+[:film_strip:](https://web.stanford.edu/class/msande310/index.shtml)
+- University of California, Berkeley. Ming Gu.
+[:film_strip:](https://math.berkeley.edu/~mgu/MA170/)
 
 ### Convex Optimization
-- [Massachusetts Institute of Technology. Dimitri Bertsekas.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-253-convex-analysis-and-optimization-spring-2012/index.htm)
-- [Stanford University. Stephen Boyd.](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)
+- Massachusetts Institute of Technology. Dimitri Bertsekas.
+[:film_strip:](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-253-convex-analysis-and-optimization-spring-2012/index.htm)
+- Stanford University. Stephen Boyd.
+[:film_strip:](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)
+
