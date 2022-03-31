@@ -135,6 +135,10 @@
 - Carnegie Mellon University. Dilsun Kaynar. Iliano Cervesato.
 [:earth_americas:](https://www.cs.cmu.edu/~15122/home.shtml)
 
+### Functional Programming
+- Carnegie Mellon University. Michael Erdmann. Karl Crary.
+[:earth_americas:](http://www.cs.cmu.edu/~15150/index.html)
+
 ### Programming Languages and Compilers
 - California State University, Sacramento. Ghassan Shobaki.
 [:film_strip:](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i)

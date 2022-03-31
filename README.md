@@ -70,6 +70,7 @@
     - Programming Languages
         - Introduction to Programming
         - Imperative Programming
+        - Functional Programming
         - Programming Languages and Compilers
     - Software
         - Software Engineering
