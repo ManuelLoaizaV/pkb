@@ -59,6 +59,8 @@
 ## Operating / Distributed Systems
 
 ### Operating Systems and Systems Programming
+- Carnegie Mellon University. Brian Railing. Dave Andersen. David Varodayan. Zack Weinberg.
+[:earth_americas:](https://www.cs.cmu.edu/~213/index.html)
 - Massachusetts Institute of Technology. Frans Kaashoek. Robert Morris.
 [:earth_americas:](https://pdos.csail.mit.edu/6.S081/2020/schedule.html)
 [:film_strip:](https://pdos.csail.mit.edu/6.S081/2020/schedule.html)
