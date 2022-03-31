@@ -175,6 +175,8 @@
 ### Introduction to Algorithms
 - Carnegie Mellon University. Marijn Heule. Umut Acar.
 [:earth_americas:](https://www.diderot.one/courses/89)
+- Carnegie Mellon University. Guy Blelloch. Robert Harper.
+[:earth_americas:](https://www.cs.cmu.edu/afs/cs/academic/class/15210-f17/www/index.html)
 - ITMO University. Pavel Mavrin.
 [:film_strip:](https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
 - Massachusetts Institute of Technology. Jason Ku. Vinod Vaikuntanathan. Virginia Williams.
