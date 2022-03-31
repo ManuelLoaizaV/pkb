@@ -49,7 +49,7 @@
 - University of California, Berkeley. Raluca Ada Popa. Nicholas Weaver.
 [:earth_americas:](https://cs161.org/)
 
-## Networking
+## Computer Networks
 
 ### Introduction to Computer Networking
 - Stanford University. Keith Winstein.
