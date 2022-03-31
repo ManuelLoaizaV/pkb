@@ -1,4 +1,5 @@
 # Personal Knowledge Base
+
 ## Mathematics
 - Pure Mathematics
     - Algebra & Algebraic Geometry
@@ -86,3 +87,28 @@
         - Complexity Theory
     -Cryptography
         - Foundations of Cryptography
+
+## Software Engineering
+- Languages & Frameworks
+    - C++
+    - Java
+    - JavaScript
+    - Python
+        - Django
+        - FastAPI
+    - R
+- Databases
+    - Oracle
+    - PostgreSQL
+    - Redis
+- DevOps
+    - AWS
+    - Docker
+- Engineering Productivity
+    - Git
+    - Bash
+    - Crontabs
+    - tmux
+- Editors
+    - Vim
+    - Jupyter notebook
