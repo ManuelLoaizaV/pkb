@@ -69,6 +69,7 @@
 - Software Design and Engineering
     - Programming Languages
         - Introduction to Programming
+        - Imperative Programming
         - Programming Languages and Compilers
     - Software
         - Software Engineering

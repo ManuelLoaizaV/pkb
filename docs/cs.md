@@ -131,6 +131,10 @@
 - Stanford University. Chris Gregg.
 [:earth_americas:](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1176/)
 
+### Imperative Programming
+- Carnegie Mellon University. Dilsun Kaynar. Iliano Cervesato.
+[:earth_americas:](https://www.cs.cmu.edu/~15122/home.shtml)
+
 ### Programming Languages and Compilers
 - California State University, Sacramento. Ghassan Shobaki.
 [:film_strip:](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i)
