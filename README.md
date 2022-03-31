@@ -1,5 +1,7 @@
 # Personal Knowledge Base
 
+![My bedroom](images/bedroom.jpg)
+
 ## Mathematics
 - Pure Mathematics
     - Algebra & Algebraic Geometry
