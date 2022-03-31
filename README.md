@@ -1,2 +1,43 @@
-# pucp-mathematics-notebook
-Matemáticas PUCP
+# Personal Knowledge Base
+## Mathematics
+- Pure Mathematics
+    - Algebra & Algebraic Geometry
+        - Linear Algebra
+        - Multilineal Algebra
+        - Groups and Rings
+        - Galois Theory
+    - Analysis & PDEs
+        - Real Analysis
+        - Topology in ℝ<sup>n</sup>
+        - Analysis on Manifolds
+        - Complex Analysis
+        - Measure Theory
+        - Functional Analysis
+        - General Topology
+        - Applied Differential Equations
+        - Ordinary Differential Equations
+        - Partial Differential Equations
+    - Geometry
+        - Differential Geometry
+        - Riemmanian Geometry
+    - Number Theory
+        - Elementary Number Theory
+        - Algebraic Number Theory
+        - Analytic Number Theory
+    - Probability & Statistics
+        - Statistics
+        - Probability Theory
+- Applied Mathematics
+    - Combinatorics
+        - Discrete Mathematics
+        - Graph Theory
+        - Extremal Combinatorics
+        - Enumerative Combinatorics
+        - Discrete Geometry
+        - Matroid Theory
+        - Combinatorial Optimization
+    - Computational Science & Numerical Analysis
+        - Numerical Analysis
+    - Operations Research
+        - Linear Programming
+        - Convex Optimization
