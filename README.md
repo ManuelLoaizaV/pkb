@@ -85,7 +85,7 @@
         - Randomized Algorithms
     - Automata, Computability and Complexity
         - Complexity Theory
-    -Cryptography
+    - Cryptography
         - Foundations of Cryptography
 
 ## Software Engineering
