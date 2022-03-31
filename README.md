@@ -41,3 +41,48 @@
     - Operations Research
         - Linear Programming
         - Convex Optimization
+
+## Computer Science
+- Artificial Intelligence
+    - Machine Learning
+        - Introduction to Artificial Intelligence
+        - Introduction to Machine Learning
+        - Optimization for Machine Learning
+    - Natural Language Processing
+    - Computer Vision
+- Computer Systems
+    - Computer Security
+        - Introduction to Computer Security
+    - Computer Networks
+        - Introduction to Computer Networking
+    - Operating / Distributed Systems
+        - Operating Systems and Systems Programming
+        - Advanced Operating Systems Structures and Implementation
+        - Distributed Systems
+- Information
+    - Databases
+        - Introduction to Databases
+        - Advanced Database Systems
+        - Data-Intensive Systems
+        - Mining Massive Datasets
+- Software Design and Engineering
+    - Programming Languages
+        - Programming Languages and Compilers
+    - Software
+        - Software Engineering
+        - Software Engineering for Scientific Computing
+        - Computer Graphics
+- Theory
+    - Algorithms & Data Structures
+        - Introduction to Algorithms
+        - Design and Analysis of Algorithms
+        - Data Structures
+        - Computational Geometry
+        - Advanced Algorithms
+        - Algorithmic Game Theory
+        - Combinatorial Algorithms
+        - Randomized Algorithms
+    - Automata, Computability and Complexity
+        - Complexity Theory
+    -Cryptography
+        - Foundations of Cryptography
