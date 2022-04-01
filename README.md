@@ -1,118 +1,143 @@
 # Personal Knowledge Base
 
-## Mathematics
+## [Mathematics](/docs/mathematics/mathematics.md)
 
 ### Pure Mathematics
-- Algebra & Algebraic Geometry
-    - Linear Algebra
-    - Multilineal Algebra
-    - Groups and Rings
-    - Galois Theory
-- Analysis & PDEs
-    - Real Analysis
-    - Topology in ℝ<sup>n</sup>
-    - Analysis on Manifolds
-    - Complex Analysis
-    - Measure Theory
-    - Functional Analysis
-    - General Topology
-    - Applied Differential Equations
-    - Ordinary Differential Equations
-    - Partial Differential Equations
-- Geometry
-    - Differential Geometry
-    - Riemmanian Geometry
-- Number Theory
-    - Elementary Number Theory
-    - Algebraic Number Theory
-    - Analytic Number Theory
-- Probability & Statistics
-    - Statistics
-    - Probability Theory
+
+#### Algebra & Algebraic Geometry
+- Linear Algebra
+- Multilineal Algebra
+- Groups and Rings
+- Galois Theory
+
+#### Analysis & PDEs
+- Real Analysis
+- Topology in ℝ<sup>n</sup>
+- Analysis on Manifolds
+- Complex Analysis
+- Measure Theory
+- Functional Analysis
+- General Topology
+- Applied Differential Equations
+- Ordinary Differential Equations
+- Partial Differential Equations
+
+#### Geometry
+- Differential Geometry
+- Riemmanian Geometry
+
+#### Number Theory
+- Elementary Number Theory
+- Algebraic Number Theory
+- Analytic Number Theory
+
+#### Probability & Statistics
+- Statistics
+- Probability Theory
+
 ### Applied Mathematics
-- Combinatorics
-    - Discrete Mathematics
-    - Graph Theory
-    - Extremal Combinatorics
-    - Enumerative Combinatorics
-    - Discrete Geometry
-    - Matroid Theory
-    - Combinatorial Optimization
-- Computational Science & Numerical Analysis
-    - Numerical Analysis
-- Operations Research
-    - Linear Programming
-    - Convex Optimization
+
+#### Combinatorics
+- Discrete Mathematics
+- Graph Theory
+- Extremal Combinatorics
+- Enumerative Combinatorics
+- Discrete Geometry
+- Matroid Theory
+- Combinatorial Optimization
+
+#### Computational Science & Numerical Analysis
+- Numerical Analysis
+
+#### Operations Research
+- Linear Programming
+- Convex Optimization
 
 ## Computer Science
 
 ### Artificial Intelligence
-- Machine Learning
-    - Introduction to Artificial Intelligence
-    - Introduction to Machine Learning
-    - Optimization for Machine Learning
-- Deep Learning
-    - Introduction Deep Learning
-    - Deep Reinforcement Learning
-    - Neural Computation
-- Natural Language Processing
-    - Introduction to NLP
-    - Advanced NLP
-- Computer Vision
-    - Introduction to Computer Vision
-- Seminars
-    - Probabilistic Graphical Model
+
+#### Machine Learning
+- Introduction to Artificial Intelligence
+- Introduction to Machine Learning
+- Optimization for Machine Learning
+
+#### Deep Learning
+- Introduction Deep Learning
+- Deep Reinforcement Learning
+- Neural Computation
+
+#### Natural Language Processing
+- Introduction to NLP
+- Advanced NLP
+
+#### Computer Vision
+- Introduction to Computer Vision
+
+#### Seminars
+- Probabilistic Graphical Model
 
 ### Computer Systems
-- Operating / Distributed Systems
-    - Operating Systems and Systems Programming
-    - Advanced Operating Systems Structures and Implementation
-    - Distributed Systems
-- Architecture
-    - Parallel Computer Architecture
-- Computer Security
-    - Introduction to Computer Security
-- Computer Networks
-    - Introduction to Computer Networking
-- Databases
-    - Introduction to Databases
-    - Advanced Database Systems
-    - Self-Driving Database Management System
-    - Multimedia Databases
-    - Data-Intensive Systems
-    - Mining Massive Datasets
+
+#### Operating / Distributed Systems
+- Operating Systems and Systems Programming
+- Advanced Operating Systems Structures and Implementation
+- Distributed Systems
+
+#### Architecture
+- Parallel Computer Architecture
+
+#### Computer Security
+- Introduction to Computer Security
+
+#### Computer Networks
+- Introduction to Computer Networking
+
+#### Databases
+- Introduction to Databases
+- Advanced Database Systems
+- Self-Driving Database Management System
+- Multimedia Databases
+- Data-Intensive Systems
+- Mining Massive Datasets
 
 ### Software Design and Engineering
-- Programming Languages
-    - Introduction to Programming
-    - Imperative Programming
-    - Functional Programming
-    - Programming Languages and Compilers
-- Software
-    - Software Engineering
-    - Software Engineering for Scientific Computing
-    - Data Science
-    - Computer Graphics
+
+#### Programming Languages
+- Introduction to Programming
+- Imperative Programming
+- Functional Programming
+- Programming Languages and Compilers
+
+#### Software
+- Software Engineering
+- Software Engineering for Scientific Computing
+- Data Science
+- Computer Graphics
 
 ### Theory
-- Algorithms & Data Structures
-    - Introduction to Algorithms
-    - Design and Analysis of Algorithms
-    - Data Structures
-    - Computational Geometry
-    - Advanced Algorithms
-    - Algorithmic Game Theory
-    - Combinatorial Algorithms
-    - Randomized Algorithms
-- Automata, Computability and Complexity
-    - Computation Theory
-    - Complexity Theory
-    - Advanced Computational Theory
-- Cryptography
-    - Foundations of Cryptography
-- Seminars
-    - Algorithms and Computational Complexity
-    - The Sum-of-Squares Algorithm
+
+#### Algorithms & Data Structures
+- Introduction to Algorithms
+- Design and Analysis of Algorithms
+- Data Structures
+- Computational Geometry
+- Advanced Algorithms
+- Algorithmic Game Theory
+- Combinatorial Algorithms
+- Randomized Algorithms
+
+#### Automata, Computability and Complexity
+- Computation Theory
+- Complexity Theory
+- Advanced Computational Theory
+
+#### Cryptography
+- Foundations of Cryptography
+
+#### Seminars
+- Algorithms and Computational Complexity
+- The Sum-of-Squares Algorithm
 
 ## Software Engineering
 
