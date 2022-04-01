@@ -83,6 +83,13 @@
 - Carnegie Mellon University. Matthew O'Toole.
 [:earth_americas:](http://16385.courses.cs.cmu.edu/spring2022/home)
 
+## Seminars
+
+### Probabilistic Graphical Models
+- Carnegie Mellon University. Eric Xing.
+[:earth_americas:](https://www.cs.cmu.edu/~epxing/Class/10708-20/)
+[:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a15edd8e-782f-4ea0-8923-ab3d01099269%22)
+
 # Computer Systems
 
 ## Operating / Distributed Systems
@@ -238,6 +245,12 @@
 - University of California, Berkeley. Phillip Colella.
 [:earth_americas:](https://inst.eecs.berkeley.edu/~cs294-73/fa19/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iB8Arh4Szxk275Cu4uRxVt4)
+
+### Data Science
+- Carnegie Mellon University. Pat Virtue.
+[:earth_americas:](http://www.datasciencecourse.org/)
+[:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22618ea253-ca45-4b14-9f1d-aab501543bd2%22)
+[:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22912b80a3-625d-405d-8905-a8620133666b%22)
 
 ### Computer Graphics
 - University of California, Berkeley. Ren Ng. Angjoo Kanazawa.

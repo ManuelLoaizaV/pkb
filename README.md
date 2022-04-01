@@ -57,6 +57,9 @@
         - Introduction to NLP
         - Advanced to NLP
     - Computer Vision
+        - Introduction to Computer Vision
+    - Seminars
+        - Probabilistic Graphical Model
 - Computer Systems
     - Operating / Distributed Systems
         - Operating Systems and Systems Programming
@@ -84,6 +87,7 @@
     - Software
         - Software Engineering
         - Software Engineering for Scientific Computing
+        - Data Science
         - Computer Graphics
 - Theory
     - Algorithms & Data Structures
