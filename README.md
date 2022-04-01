@@ -36,23 +36,23 @@
 - [Probability Theory](/docs/mathematics/pure-mathematics/probability-and-statistics/src/probability-theory.md)
 - [Markov Chains](/docs/mathematics/pure-mathematics/probability-and-statistics/src/markov-chains.md)
 
-### Applied Mathematics
+### [Applied Mathematics](/docs/mathematics/applied-mathematics/applied-mathematics.md)
 
-#### Combinatorics
-- Discrete Mathematics
-- Graph Theory
-- Extremal Combinatorics
-- Enumerative Combinatorics
-- Discrete Geometry
-- Matroid Theory
-- Combinatorial Optimization
+#### [Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/combinatorics.md)
+- [Discrete Mathematics](/docs/mathematics/applied-mathematics/combinatorics/src/discrete-mathematics.md)
+- [Graph Theory](/docs/mathematics/applied-mathematics/combinatorics/src/graph-theory.md)
+- [Extremal Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/src/extremal-combinatorics.md)
+- [Enumerative Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/src/enumerative-combinatorics.md)
+- [Discrete Geometry](/docs/mathematics/applied-mathematics/combinatorics/src/discrete-geometry.md)
+- [Matroid Theory](/docs/mathematics/applied-mathematics/combinatorics/src/matroid-theory.md)
+- [Combinatorial Optimization](/docs/mathematics/applied-mathematics/combinatorics/src/combinatorial-optimization.md)
 
-#### Computational Science & Numerical Analysis
-- Numerical Analysis
+#### [Computational Science & Numerical Analysis](/docs/mathematics/applied-mathematics/computational-science-and-numerical-analysis/computational-science-and-numerical-analysis.md)
+- [Numerical Analysis](/docs/mathematics/applied-mathematics/computational-science-and-numerical-analysis/src/numerical-analysis.md)
 
-#### Operations Research
-- Linear Programming
-- Convex Optimization
+#### [Operations Research](/docs/mathematics/applied-mathematics/operations-research/operations-research.md)
+- [Linear Programming](/docs/mathematics/applied-mathematics/operations-research/src/linear-programming.md)
+- [Convex Optimization](/docs/mathematics/applied-mathematics/operations-research/src/convex-optimization.md)
 
 ## Computer Science
 
