@@ -1,7 +1,5 @@
 # Artificial Intelligence
 
-<!-- ## Computer Vision -->
-
 ## Machine Learning
 
 ### Introduction to Artificial Intelligence
@@ -11,6 +9,8 @@
 [:film_strip:](https://www.youtube.com/channel/UCOFsXLMqQFXaFeMNHlpIp9g/playlists)
 
 ### Introduction to Machine Learning
+- Carnegie Mellon University. Pat Virtue.
+[:earth_americas:](https://www.cs.cmu.edu/~10315-s20/)
 - École Polytechnique Fédérale de Lausanne. Martin Jaggi. Nicolas Flammarion.
 [:earth_americas:](https://www.epfl.ch/labs/mlo/machine-learning-cs-433/)
 [:octocat:](https://github.com/epfml/ML_course)
@@ -32,7 +32,44 @@
 [:earth_americas:](https://ee227c.github.io/)
 [:octocat:](https://github.com/ee227c/ee227c.github.io)
 
-<!-- ## Natural Language Processing -->
+## Deep Learning
+
+### Introduction to Deep Learning
+- Carnegie Mellon University. Bhiksha Raj. Rita Singh.
+[:earth_americas:](https://deeplearning.cs.cmu.edu/S22/index.html)
+[:film_strip:](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/featured)
+
+### Deep Reinforcement Learning
+- Carnegie Mellon University. Katerina Fragkiadaki.
+[:earth_americas:](https://cmudeeprl.github.io/703website_f20/)
+[:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2272e0fceb-c62f-436c-ae24-ae290162188d%22)
+
+## Natural Language Processing
+
+### Introduction to NLP
+- Carnegie Mellon University. Alan Black. David Mortensen.
+[:earth_americas:](http://demo.clab.cs.cmu.edu/NLP/)
+- Columbia University. Michael Collins.
+[:earth_americas:](http://www.cs.columbia.edu/~cs4705/)
+- Cornell University. Claire Cardie.
+[:earth_americas:](https://www.cs.cornell.edu/courses/cs474/2006fa/)
+- Johns Hopkins University. Jason Eisner.
+[:earth_americas:](https://www.cs.jhu.edu/~jason/465/)
+- University of California, Berkeley. Dan Klein.
+[:earth_americas:](https://people.eecs.berkeley.edu/~klein/cs294-5/index.html)
+- University of Colorado. Jim Martin.
+[:earth_americas:](https://home.cs.colorado.edu/~martin/csci5832/)
+- University of Utah. Ellen Riloff.
+[:earth_americas:](https://my.eng.utah.edu/~cs5340/)
+
+### Advanced NLP
+- Stanford University. Chris Manning.
+[:earth_americas:](https://web.stanford.edu/class/cs224n/index.html)
+[:film_strip:](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+- University of Wisconsin-Madison. Xiaojin Zhu.
+[:earth_americas:](https://pages.cs.wisc.edu/~jerryzhu/cs838.html)
+
+## Computer Vision
 
 # Computer Systems
 
@@ -86,10 +123,6 @@
 - Massachusetts Institute of Technology. Frans Kaashoek.
 [:earth_americas:](https://pdos.csail.mit.edu/6.824/schedule.html)
 [:film_strip:](https://pdos.csail.mit.edu/6.824/schedule.html)
-
-<!-- ## Programming Systems and Verification -->
-
-# Information
 
 ## Databases
 
@@ -205,7 +238,7 @@
 - Western University. Daniel Page.
 [:film_strip:](https://www.youtube.com/playlist?list=PLN-ShipRKQ0h6jIphD381pHdQtj_APRM8)
 
-### Design and Analysis of Algorithms
+### Intermediate Algorithms
 - ITMO University. Pavel Mavrin.
 [:film_strip:](https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
 - Massachusetts Institute of Technology. Erik Demaine. Srini Devadas.
@@ -214,26 +247,6 @@
 - University of California, Berkeley. Avishay Tal. Umesh Vazirani.
 [:earth_americas:](https://inst.eecs.berkeley.edu/~cs170/fa20/)
 [:film_strip:](https://inst.eecs.berkeley.edu/~cs170/fa20/)
-
-### Data Structures
-- ITMO University. Pavel Mavrin.
-[:film_strip:](https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
-- Massachusetts Institute of Technology. Erik Demaine.
-[:earth_americas:](http://courses.csail.mit.edu/6.851/spring21/lectures/)
-[:film_strip:](http://courses.csail.mit.edu/6.851/spring21/lectures/)
-[:octocat:](https://github.com/6851-2021)
-- Stanford University. Keith Schwarz.
-[:earth_americas:](http://web.stanford.edu/class/cs166/)
-- University of California, San Diego. Niema Moshiri. Sander Valstar. Joe Gibbs Politz.
-[:earth_americas:](https://ucsd-cse100-s20.github.io/)
-[:film_strip:](https://www.youtube.com/playlist?list=PLM_KIlU0WoXmkV4QB1Dg8PtJaHTdWHwRS)
-
-### Computational Geometry
-- University of Wisconsin-Madison. Mikola Lysenko.
-[:octocat:](https://github.com/CS558)
-[:film_strip:](https://www.youtube.com/playlist?list=PLESnaHRvLM-72xIXf8dL2EOqN8UgAZMj7)
-- Universität Trier. Philipp Kindermann.
-[:film_strip:](https://www.youtube.com/c/PhilippKindermann/playlists?view=50&sort=dd&shelf_id=2)
 
 ### Advanced Algorithms
 - ITMO University. Pavel Mavrin.
@@ -254,6 +267,25 @@
 - University of California, Berkeley. Luca Trevisan.
 [:earth_americas:](https://theory.stanford.edu/~trevisan/cs261/)
 
+### Data Structures
+- ITMO University. Pavel Mavrin.
+[:film_strip:](https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
+- Massachusetts Institute of Technology. Erik Demaine.
+[:earth_americas:](http://courses.csail.mit.edu/6.851/spring21/lectures/)
+[:film_strip:](http://courses.csail.mit.edu/6.851/spring21/lectures/)
+[:octocat:](https://github.com/6851-2021)
+- Stanford University. Keith Schwarz.
+[:earth_americas:](http://web.stanford.edu/class/cs166/)
+- University of California, San Diego. Niema Moshiri. Sander Valstar. Joe Gibbs Politz.
+[:earth_americas:](https://ucsd-cse100-s20.github.io/)
+[:film_strip:](https://www.youtube.com/playlist?list=PLM_KIlU0WoXmkV4QB1Dg8PtJaHTdWHwRS)
+
+### Computational Geometry
+- University of Wisconsin-Madison. Mikola Lysenko.
+[:octocat:](https://github.com/CS558)
+[:film_strip:](https://www.youtube.com/playlist?list=PLESnaHRvLM-72xIXf8dL2EOqN8UgAZMj7)
+- Universität Trier. Philipp Kindermann.
+[:film_strip:](https://www.youtube.com/c/PhilippKindermann/playlists?view=50&sort=dd&shelf_id=2)
 ### Algorithmic Game Theory
 - Stanford University. Tim Roughgarden.
 [:earth_americas:](https://timroughgarden.org/f13/f13.html)
@@ -309,7 +341,7 @@
 [:earth_americas:](https://mit6875.github.io/)
 [:film_strip:](https://vimeo.com/user150298776)
 
-## Research Seminars
+## Seminars
 
 ### Algorithms and Computational Complexity
 - Carnegie Mellon University. Ryan O'Donnell.
