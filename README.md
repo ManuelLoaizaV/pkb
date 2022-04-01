@@ -2,13 +2,13 @@
 
 ## [Mathematics](/docs/mathematics/mathematics.md)
 
-### Pure Mathematics
+### [Pure Mathematics](/docs/mathematics/pure-mathematics/pure-mathematics.md)
 
-#### Algebra & Algebraic Geometry
-- Linear Algebra
-- Multilineal Algebra
-- Groups and Rings
-- Galois Theory
+#### [Algebra & Algebraic Geometry](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/algebra-and-algebraic-geometry.md)
+- [Linear Algebra](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/linear-algebra.md)
+- [Multilineal Algebra](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/multilinear-algebra.md)
+- [Groups and Rings](/docs/mathematics//pure-mathematics/algebra-and-algebraic-geometry/src/groups-and-rings.md)
+- [Galois Theory](/docs/mathematics//pure-mathematics/algebra-and-algebraic-geometry/src/galois-theory.md)
 
 #### Analysis & PDEs
 - Real Analysis
