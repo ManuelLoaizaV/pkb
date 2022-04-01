@@ -52,22 +52,30 @@
     - Deep Learning
         - Introduction Deep Learning
         - Deep Reinforcement Learning
+        - Neural Computation
     - Natural Language Processing
         - Introduction to NLP
         - Advanced to NLP
     - Computer Vision
+        - Introduction to Computer Vision
+    - Seminars
+        - Probabilistic Graphical Model
 - Computer Systems
-    - Computer Security
-        - Introduction to Computer Security
-    - Computer Networks
-        - Introduction to Computer Networking
     - Operating / Distributed Systems
         - Operating Systems and Systems Programming
         - Advanced Operating Systems Structures and Implementation
         - Distributed Systems
+    - Architecture
+        - Parallel Computer Architecture
+    - Computer Security
+        - Introduction to Computer Security
+    - Computer Networks
+        - Introduction to Computer Networking
     - Databases
         - Introduction to Databases
         - Advanced Database Systems
+        - Self-Driving Database Management System
+        - Multimedia Databases
         - Data-Intensive Systems
         - Mining Massive Datasets
 - Software Design and Engineering
@@ -79,6 +87,7 @@
     - Software
         - Software Engineering
         - Software Engineering for Scientific Computing
+        - Data Science
         - Computer Graphics
 - Theory
     - Algorithms & Data Structures

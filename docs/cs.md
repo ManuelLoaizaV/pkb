@@ -3,6 +3,8 @@
 ## Machine Learning
 
 ### Introduction to Artificial Intelligence
+- Carnegie Mellon University. Pat Virtue. Stephanie Rosenthal.
+[:earth_americas:](https://www.cs.cmu.edu/~15281-s20/)
 - University of California, Berkeley. Stuart Russell. Dawn Song.
 [:earth_americas:](https://inst.eecs.berkeley.edu/~cs188/sp21/)
 [:film_strip:](https://www.youtube.com/channel/UCHBzJsIcRIVuzzHVYabikTQ/videos)
@@ -44,6 +46,10 @@
 [:earth_americas:](https://cmudeeprl.github.io/703website_f20/)
 [:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2272e0fceb-c62f-436c-ae24-ae290162188d%22)
 
+### Neural Computation
+- Carnegie Mellon University. Tai Sing Lee.
+[:earth_americas:](https://www.cnbc.cmu.edu/~tai/nc21.html)
+
 ## Natural Language Processing
 
 ### Introduction to NLP
@@ -71,7 +77,22 @@
 
 ## Computer Vision
 
+### Introduction to Computer Vision
+- Carnegie Mellon University. Ioannis Gkioulekas.
+[:earth_americas:](https://www.cs.cmu.edu/~16385/)
+- Carnegie Mellon University. Matthew O'Toole.
+[:earth_americas:](http://16385.courses.cs.cmu.edu/spring2022/home)
+
+## Seminars
+
+### Probabilistic Graphical Models
+- Carnegie Mellon University. Eric Xing.
+[:earth_americas:](https://www.cs.cmu.edu/~epxing/Class/10708-20/)
+[:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a15edd8e-782f-4ea0-8923-ab3d01099269%22)
+
 # Computer Systems
+
+## Operating / Distributed Systems
 
 ### Computer Systems Engineering
 - Carnegie Mellon University. Brian Railing. Dave Andersen. David Varodayan. Zack Weinberg.
@@ -82,23 +103,6 @@
 - Massachusetts Institute of Technology. Katrina LaCurts.
 [:earth_americas:](http://web.mit.edu/6.033/www/index.shtml)
 [:film_strip:](http://web.mit.edu/6.033/www/index.shtml)
-
-<!-- ## Architecture -->
-
-## Computer Security
-
-### Introduction to Computer Security
-- University of California, Berkeley. Raluca Ada Popa. Nicholas Weaver.
-[:earth_americas:](https://cs161.org/)
-
-## Computer Networks
-
-### Introduction to Computer Networking
-- Stanford University. Keith Winstein.
-[:earth_americas:](https://cs144.github.io/)
-[:film_strip:](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS)
-
-## Operating / Distributed Systems
 
 ### Operating Systems and Systems Programming
 - Massachusetts Institute of Technology. Frans Kaashoek. Robert Morris.
@@ -113,16 +117,43 @@
 - University of Central Florida. Paul Gazzillo.
 [:earth_americas:](http://www.cs.ucf.edu/~gazzillo/teaching/cop5611spring21/)
 
-
 ### Advanced Operating Systems Structures and Implementation
 - University of California, Berkeley. John Kubiatowicz.
 [:earth_americas:](https://people.eecs.berkeley.edu/~kubitron/courses/cs194-24-S13/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE)
 
 ### Distributed Systems
+- Carnegie Mellon University. Rashmi Vinayak. Yuvraj Agarwal.
+[:earth_americas:](https://www.synergylabs.org/courses/15-440/)
 - Massachusetts Institute of Technology. Frans Kaashoek.
 [:earth_americas:](https://pdos.csail.mit.edu/6.824/schedule.html)
 [:film_strip:](https://pdos.csail.mit.edu/6.824/schedule.html)
+
+## Architecture
+
+### Parallel Computer Architecture
+- Carnegie Mellon University. Brian Railing. Todd Mowry.
+[:earth_americas:](http://www.cs.cmu.edu/afs/cs/academic/class/15418-f20/www/)
+[:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22f62c2297-de88-4e63-aff2-06641fa25e98%22)
+
+## Computer Security
+
+### Introduction to Computer Security
+- Carnegie Mellon University. David Brumley. Lujo Bauer.
+[:earth_americas:](https://www.andrew.cmu.edu/course/18-330/2022s/)
+- University of California, Berkeley. Raluca Ada Popa. Nicholas Weaver.
+[:earth_americas:](https://cs161.org/)
+
+## Computer Networks
+
+### Introduction to Computer Networks
+- Carnegie Mellon University. Justine Sherry. Peter Steenkiste.
+[:earth_americas:](https://www.cs.cmu.edu/~prs/15-441-F17/)
+- Carnegie Mellon University. Christopher Canel. Peter Steenkiste.
+[:earth_americas:](https://computer-networks.github.io/fa21/)
+- Stanford University. Keith Winstein.
+[:earth_americas:](https://cs144.github.io/)
+[:film_strip:](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS)
 
 ## Databases
 
@@ -141,6 +172,14 @@
 [:earth_americas:](https://15721.courses.cs.cmu.edu/spring2020/)
 [:film_strip:](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 
+### Self-Driving Database Management Systems
+- Carnegie Mellon University. Andry Pavlo. Matt Butrovich.
+[:earth_americas:](https://15799.courses.cs.cmu.edu/spring2022/)
+
+### Multimedia Databases
+- Carnegie Mellon University. Christos Faloutsos.
+[:earth_americas:](http://www.cs.cmu.edu/~christos/courses/826.F19/)
+
 ### Data-Intensive Systems
 - Stanford University. Matei Zaharia.
 [:earth_americas:](https://web.stanford.edu/class/cs245/)
@@ -149,10 +188,6 @@
 - Stanford University. Jure Leskovec.
 [:earth_americas:](http://web.stanford.edu/class/cs246/)
 [:film_strip:](https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos)
-
-<!-- ### Database Management Systems -->
-
-<!-- ### Database Systems Implementation -->
 
 # Software Design and Engineering
 
@@ -186,6 +221,8 @@
 ### Programming Languages and Compilers
 - California State University, Sacramento. Ghassan Shobaki.
 [:film_strip:](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i)
+- Carnegie Mellon University. Seth Goldstein.
+[:earth_americas:](https://www.cs.cmu.edu/afs/cs/academic/class/15411-f20/www)
 - Stanford University. Keith Schwarz.
 [:earth_americas:](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
 - University of Central Florida. Paul Gazzillo.
@@ -198,6 +235,10 @@
 ## Software
 
 ### Software Engineering
+- Carnegie Mellon University. Michael Hilton. Rohan Padhye.
+[:earth_americas:](https://cmu-313.github.io/)
+- Massachusetts Institute of Technology. Max Goldman. Rob Miller.
+[:earth_americas:](http://web.mit.edu/6.031/www/sp22/)
 - University of California, Berkeley. George Necula.
 [:earth_americas:](https://sites.google.com/site/ucbcs169fa15/lectures)
 [:film_strip:](https://www.youtube.com/user/gcnecula/videos)
@@ -206,6 +247,12 @@
 - University of California, Berkeley. Phillip Colella.
 [:earth_americas:](https://inst.eecs.berkeley.edu/~cs294-73/fa19/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iB8Arh4Szxk275Cu4uRxVt4)
+
+### Data Science
+- Carnegie Mellon University. Pat Virtue.
+[:earth_americas:](http://www.datasciencecourse.org/)
+[:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22618ea253-ca45-4b14-9f1d-aab501543bd2%22)
+[:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22912b80a3-625d-405d-8905-a8620133666b%22)
 
 ### Computer Graphics
 - University of California, Berkeley. Ren Ng. Angjoo Kanazawa.
