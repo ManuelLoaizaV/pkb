@@ -87,7 +87,9 @@
         - Combinatorial Algorithms
         - Randomized Algorithms
     - Automata, Computability and Complexity
+        - Computation Theory
         - Complexity Theory
+        - Advanced Computational Theory
     - Cryptography
         - Foundations of Cryptography
 
