@@ -49,7 +49,12 @@
         - Introduction to Artificial Intelligence
         - Introduction to Machine Learning
         - Optimization for Machine Learning
+    - Deep Learning
+        - Introduction Deep Learning
+        - Deep Reinforcement Learning
     - Natural Language Processing
+        - Introduction to NLP
+        - Advanced to NLP
     - Computer Vision
 - Computer Systems
     - Computer Security
@@ -60,7 +65,6 @@
         - Operating Systems and Systems Programming
         - Advanced Operating Systems Structures and Implementation
         - Distributed Systems
-- Information
     - Databases
         - Introduction to Databases
         - Advanced Database Systems
@@ -92,6 +96,9 @@
         - Advanced Computational Theory
     - Cryptography
         - Foundations of Cryptography
+    - Seminars
+        - Algorithms and Computational Complexity
+        - The Sum-of-Squares Algorithm
 
 ## Software Engineering
 - Languages & Frameworks
