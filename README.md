@@ -55,7 +55,7 @@
         - Neural Computation
     - Natural Language Processing
         - Introduction to NLP
-        - Advanced to NLP
+        - Advanced NLP
     - Computer Vision
         - Introduction to Computer Vision
     - Seminars
