@@ -1,138 +1,174 @@
 # Personal Knowledge Base
 
-## Mathematics
-- Pure Mathematics
-    - Algebra & Algebraic Geometry
-        - Linear Algebra
-        - Multilineal Algebra
-        - Groups and Rings
-        - Galois Theory
-    - Analysis & PDEs
-        - Real Analysis
-        - Topology in ℝ<sup>n</sup>
-        - Analysis on Manifolds
-        - Complex Analysis
-        - Measure Theory
-        - Functional Analysis
-        - General Topology
-        - Applied Differential Equations
-        - Ordinary Differential Equations
-        - Partial Differential Equations
-    - Geometry
-        - Differential Geometry
-        - Riemmanian Geometry
-    - Number Theory
-        - Elementary Number Theory
-        - Algebraic Number Theory
-        - Analytic Number Theory
-    - Probability & Statistics
-        - Statistics
-        - Probability Theory
-- Applied Mathematics
-    - Combinatorics
-        - Discrete Mathematics
-        - Graph Theory
-        - Extremal Combinatorics
-        - Enumerative Combinatorics
-        - Discrete Geometry
-        - Matroid Theory
-        - Combinatorial Optimization
-    - Computational Science & Numerical Analysis
-        - Numerical Analysis
-    - Operations Research
-        - Linear Programming
-        - Convex Optimization
+## [Mathematics](/docs/mathematics/mathematics.md)
+
+### [Pure Mathematics](/docs/mathematics/pure-mathematics/pure-mathematics.md)
+
+#### [Algebra & Algebraic Geometry](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/algebra-and-algebraic-geometry.md)
+- [Linear Algebra](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/linear-algebra.md)
+- [Multilineal Algebra](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/multilinear-algebra.md)
+- [Groups and Rings](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/groups-and-rings.md)
+- [Galois Theory](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/galois-theory.md)
+
+#### [Analysis & PDEs](/docs/mathematics/pure-mathematics/analysis-and-pdes/analysis-and-pdes.md)
+- [Real Analysis](docs/mathematics/pure-mathematics/analysis-and-pdes/src/real-analysis.md)
+- [Topology in ℝ<sup>n</sup>](docs/mathematics/pure-mathematics/analysis-and-pdes/src/topology-rn.md)
+- [Analysis on Manifolds](docs/mathematics/pure-mathematics/analysis-and-pdes/src/analysis-on-manifolds.md)
+- [Complex Analysis](docs/mathematics/pure-mathematics/analysis-and-pdes/src/complex-analysis.md)
+- [Measure Theory](docs/mathematics/pure-mathematics/analysis-and-pdes/src/measure-theory.md)
+- [Functional Analysis](docs/mathematics/pure-mathematics/analysis-and-pdes/src/functional-analysis.md)
+- [General Topology](docs/mathematics/pure-mathematics/analysis-and-pdes/src/general-topology.md)
+- [Applied Differential Equations](docs/mathematics/pure-mathematics/analysis-and-pdes/src/applied-differential-equations.md)
+- [Ordinary Differential Equations](docs/mathematics/pure-mathematics/analysis-and-pdes/src/ordinary-differential-equations.md)
+- [Partial Differential Equations](docs/mathematics/pure-mathematics/analysis-and-pdes/src/partial-differential-equations.md)
+
+#### [Geometry](/docs/mathematics/pure-mathematics/geometry/geometry.md)
+- [Differential Geometry](/docs/mathematics/pure-mathematics/geometry/src/differential-geometry.md)
+- Riemmanian Geometry
+
+#### [Number Theory](/docs/mathematics/pure-mathematics/number-theory/number-theory.md)
+- [Elementary Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/elementary-number-theory.md)
+- [Algebraic Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/algebraic-number-theory.md)
+- [Analytic Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/analytic-number-theory.md)
+
+#### [Probability & Statistics](/docs/mathematics/pure-mathematics/probability-and-statistics/probability-and-statistics.md)
+- [Statistics](/docs/mathematics/pure-mathematics/probability-and-statistics/src/statistics.md)
+- [Probability Theory](/docs/mathematics/pure-mathematics/probability-and-statistics/src/probability-theory.md)
+- [Markov Chains](/docs/mathematics/pure-mathematics/probability-and-statistics/src/markov-chains.md)
+
+### [Applied Mathematics](/docs/mathematics/applied-mathematics/applied-mathematics.md)
+
+#### [Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/combinatorics.md)
+- [Discrete Mathematics](/docs/mathematics/applied-mathematics/combinatorics/src/discrete-mathematics.md)
+- [Graph Theory](/docs/mathematics/applied-mathematics/combinatorics/src/graph-theory.md)
+- [Extremal Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/src/extremal-combinatorics.md)
+- [Enumerative Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/src/enumerative-combinatorics.md)
+- [Discrete Geometry](/docs/mathematics/applied-mathematics/combinatorics/src/discrete-geometry.md)
+- [Matroid Theory](/docs/mathematics/applied-mathematics/combinatorics/src/matroid-theory.md)
+- [Combinatorial Optimization](/docs/mathematics/applied-mathematics/combinatorics/src/combinatorial-optimization.md)
+
+#### [Computational Science & Numerical Analysis](/docs/mathematics/applied-mathematics/computational-science-and-numerical-analysis/computational-science-and-numerical-analysis.md)
+- [Numerical Analysis](/docs/mathematics/applied-mathematics/computational-science-and-numerical-analysis/src/numerical-analysis.md)
+
+#### [Operations Research](/docs/mathematics/applied-mathematics/operations-research/operations-research.md)
+- [Linear Programming](/docs/mathematics/applied-mathematics/operations-research/src/linear-programming.md)
+- [Convex Optimization](/docs/mathematics/applied-mathematics/operations-research/src/convex-optimization.md)
 
 ## Computer Science
-- Artificial Intelligence
-    - Machine Learning
-        - Introduction to Artificial Intelligence
-        - Introduction to Machine Learning
-        - Optimization for Machine Learning
-    - Deep Learning
-        - Introduction Deep Learning
-        - Deep Reinforcement Learning
-        - Neural Computation
-    - Natural Language Processing
-        - Introduction to NLP
-        - Advanced to NLP
-    - Computer Vision
-        - Introduction to Computer Vision
-    - Seminars
-        - Probabilistic Graphical Model
-- Computer Systems
-    - Operating / Distributed Systems
-        - Operating Systems and Systems Programming
-        - Advanced Operating Systems Structures and Implementation
-        - Distributed Systems
-    - Architecture
-        - Parallel Computer Architecture
-    - Computer Security
-        - Introduction to Computer Security
-    - Computer Networks
-        - Introduction to Computer Networking
-    - Databases
-        - Introduction to Databases
-        - Advanced Database Systems
-        - Self-Driving Database Management System
-        - Multimedia Databases
-        - Data-Intensive Systems
-        - Mining Massive Datasets
-- Software Design and Engineering
-    - Programming Languages
-        - Introduction to Programming
-        - Imperative Programming
-        - Functional Programming
-        - Programming Languages and Compilers
-    - Software
-        - Software Engineering
-        - Software Engineering for Scientific Computing
-        - Data Science
-        - Computer Graphics
-- Theory
-    - Algorithms & Data Structures
-        - Introduction to Algorithms
-        - Design and Analysis of Algorithms
-        - Data Structures
-        - Computational Geometry
-        - Advanced Algorithms
-        - Algorithmic Game Theory
-        - Combinatorial Algorithms
-        - Randomized Algorithms
-    - Automata, Computability and Complexity
-        - Computation Theory
-        - Complexity Theory
-        - Advanced Computational Theory
-    - Cryptography
-        - Foundations of Cryptography
-    - Seminars
-        - Algorithms and Computational Complexity
-        - The Sum-of-Squares Algorithm
+
+### Artificial Intelligence
+
+#### Machine Learning
+- Introduction to Artificial Intelligence
+- Introduction to Machine Learning
+- Optimization for Machine Learning
+
+#### Deep Learning
+- Introduction Deep Learning
+- Deep Reinforcement Learning
+- Neural Computation
+
+#### Natural Language Processing
+- Introduction to NLP
+- Advanced NLP
+
+#### Computer Vision
+- Introduction to Computer Vision
+
+#### Seminars
+- Probabilistic Graphical Model
+
+### Computer Systems
+
+#### Operating / Distributed Systems
+- Operating Systems and Systems Programming
+- Advanced Operating Systems Structures and Implementation
+- Distributed Systems
+
+#### Architecture
+- Parallel Computer Architecture
+
+#### Computer Security
+- Introduction to Computer Security
+
+#### Computer Networks
+- Introduction to Computer Networking
+
+#### Databases
+- Introduction to Databases
+- Advanced Database Systems
+- Self-Driving Database Management System
+- Multimedia Databases
+- Data-Intensive Systems
+- Mining Massive Datasets
+
+### Software Design and Engineering
+
+#### Programming Languages
+- Introduction to Programming
+- Imperative Programming
+- Functional Programming
+- Programming Languages and Compilers
+
+#### Software
+- Software Engineering
+- Software Engineering for Scientific Computing
+- Data Science
+- Computer Graphics
+
+### Theory
+
+#### Algorithms & Data Structures
+- Introduction to Algorithms
+- Design and Analysis of Algorithms
+- Data Structures
+- Computational Geometry
+- Advanced Algorithms
+- Algorithmic Game Theory
+- Combinatorial Algorithms
+- Randomized Algorithms
+
+#### Automata, Computability and Complexity
+- Computation Theory
+- Complexity Theory
+- Advanced Computational Theory
+
+#### Cryptography
+- Foundations of Cryptography
+
+#### Seminars
+- Algorithms and Computational Complexity
+- The Sum-of-Squares Algorithm
 
 ## Software Engineering
-- Languages & Frameworks
-    - C++
-    - Java
-    - JavaScript
-    - Python
-        - Django
-        - FastAPI
-    - R
-- Databases
-    - Oracle
-    - PostgreSQL
-    - Redis
-- DevOps
-    - AWS
-    - Docker
-- Engineering Productivity
-    - Git
-    - Bash
-    - Crontabs
-    - tmux
-- Editors
-    - Vim
-    - Jupyter notebook
+
+### Languages & Frameworks
+- C++
+- Java
+- JavaScript
+- Python
+    - Django
+    - FastAPI
+- R
+
+### Databases
+- Oracle
+- PostgreSQL
+- Redis
+
+### DevOps
+- AWS
+- Docker
+
+### Engineering Productivity
+- Git
+- Bash
+- Crontabs
+- tmux
+
+### Editors
+- Vim
+- Jupyter notebook
 
 ## Links you might want to read
 - [Learn](https://web.evanchen.cc/techspeech.html) [to](https://web.evanchen.cc/filesys.html) [Code](https://web.evanchen.cc/techsupport.html) - Evan Chen
