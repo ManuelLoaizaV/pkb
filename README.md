@@ -10,17 +10,17 @@
 - [Groups and Rings](/docs/mathematics//pure-mathematics/algebra-and-algebraic-geometry/src/groups-and-rings.md)
 - [Galois Theory](/docs/mathematics//pure-mathematics/algebra-and-algebraic-geometry/src/galois-theory.md)
 
-#### Analysis & PDEs
-- Real Analysis
-- Topology in ℝ<sup>n</sup>
-- Analysis on Manifolds
-- Complex Analysis
-- Measure Theory
-- Functional Analysis
-- General Topology
-- Applied Differential Equations
-- Ordinary Differential Equations
-- Partial Differential Equations
+#### [Analysis & PDEs](/docs/mathematics//pure-mathematics/analysis-and-pdes/analysis-and-pdes.md)
+- [Real Analysis](docs/mathematics/pure-mathematics/analysis-and-pdes/src/real-analysis.md)
+- [Topology in ℝ<sup>n</sup>](docs/mathematics/pure-mathematics/analysis-and-pdes/src/topology-rn.md)
+- [Analysis on Manifolds](docs/mathematics/pure-mathematics/analysis-and-pdes/src/analysis-on-manifolds.md)
+- [Complex Analysis](docs/mathematics/pure-mathematics/analysis-and-pdes/src/complex-analysis.md)
+- [Measure Theory](docs/mathematics/pure-mathematics/analysis-and-pdes/src/measure-theory.md)
+- [Functional Analysis](docs/mathematics/pure-mathematics/analysis-and-pdes/src/functional-analysis.md)
+- [General Topology](docs/mathematics/pure-mathematics/analysis-and-pdes/src/general-topology.md)
+- [Applied Differential Equations](docs/mathematics/pure-mathematics/analysis-and-pdes/src/applied-differential-equations.md)
+- [Ordinary Differential Equations](docs/mathematics/pure-mathematics/analysis-and-pdes/src/ordinary-differential-equations.md)
+- [Partial Differential Equations](docs/mathematics/pure-mathematics/analysis-and-pdes/src/partial-differential-equations.md)
 
 #### Geometry
 - Differential Geometry
