@@ -7,10 +7,10 @@
 #### [Algebra & Algebraic Geometry](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/algebra-and-algebraic-geometry.md)
 - [Linear Algebra](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/linear-algebra.md)
 - [Multilineal Algebra](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/multilinear-algebra.md)
-- [Groups and Rings](/docs/mathematics//pure-mathematics/algebra-and-algebraic-geometry/src/groups-and-rings.md)
-- [Galois Theory](/docs/mathematics//pure-mathematics/algebra-and-algebraic-geometry/src/galois-theory.md)
+- [Groups and Rings](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/groups-and-rings.md)
+- [Galois Theory](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/galois-theory.md)
 
-#### [Analysis & PDEs](/docs/mathematics//pure-mathematics/analysis-and-pdes/analysis-and-pdes.md)
+#### [Analysis & PDEs](/docs/mathematics/pure-mathematics/analysis-and-pdes/analysis-and-pdes.md)
 - [Real Analysis](docs/mathematics/pure-mathematics/analysis-and-pdes/src/real-analysis.md)
 - [Topology in ℝ<sup>n</sup>](docs/mathematics/pure-mathematics/analysis-and-pdes/src/topology-rn.md)
 - [Analysis on Manifolds](docs/mathematics/pure-mathematics/analysis-and-pdes/src/analysis-on-manifolds.md)
@@ -22,18 +22,19 @@
 - [Ordinary Differential Equations](docs/mathematics/pure-mathematics/analysis-and-pdes/src/ordinary-differential-equations.md)
 - [Partial Differential Equations](docs/mathematics/pure-mathematics/analysis-and-pdes/src/partial-differential-equations.md)
 
-#### Geometry
-- Differential Geometry
+#### [Geometry](/docs/mathematics/pure-mathematics/geometry/geometry.md)
+- [Differential Geometry](/docs/mathematics/pure-mathematics/geometry/src/differential-geometry.md)
 - Riemmanian Geometry
 
-#### Number Theory
-- Elementary Number Theory
-- Algebraic Number Theory
-- Analytic Number Theory
+#### [Number Theory](/docs/mathematics/pure-mathematics/number-theory/number-theory.md)
+- [Elementary Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/elementary-number-theory.md)
+- [Algebraic Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/algebraic-number-theory.md)
+- [Analytic Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/analytic-number-theory.md)
 
-#### Probability & Statistics
-- Statistics
-- Probability Theory
+#### [Probability & Statistics](/docs/mathematics/pure-mathematics/probability-and-statistics/probability-and-statistics.md)
+- [Statistics](/docs/mathematics/pure-mathematics/probability-and-statistics/src/statistics.md)
+- [Probability Theory](/docs/mathematics/pure-mathematics/probability-and-statistics/src/probability-theory.md)
+- [Markov Chains](/docs/mathematics/pure-mathematics/probability-and-statistics/src/markov-chains.md)
 
 ### Applied Mathematics
 
