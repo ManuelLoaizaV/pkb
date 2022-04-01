@@ -2,7 +2,9 @@
 
 ## Machine Learning
 
-### Introduction to Artificial Intelligence
+### Introduction to Artificial Intelligen
+- Carnegie Mellon University. Pat Virtue. Stephanie Rosenthal.
+[:earth_americas:](https://www.cs.cmu.edu/~15281-s20/)
 - University of California, Berkeley. Stuart Russell. Dawn Song.
 [:earth_americas:](https://inst.eecs.berkeley.edu/~cs188/sp21/)
 [:film_strip:](https://www.youtube.com/channel/UCHBzJsIcRIVuzzHVYabikTQ/videos)
@@ -44,6 +46,10 @@
 [:earth_americas:](https://cmudeeprl.github.io/703website_f20/)
 [:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2272e0fceb-c62f-436c-ae24-ae290162188d%22)
 
+### Neural Computation
+- Carnegie Mellon University. Tai Sing Lee.
+[:earth_americas:](https://www.cnbc.cmu.edu/~tai/nc21.html)
+
 ## Natural Language Processing
 
 ### Introduction to NLP
@@ -70,6 +76,12 @@
 [:earth_americas:](https://pages.cs.wisc.edu/~jerryzhu/cs838.html)
 
 ## Computer Vision
+
+### Introduction to Computer Vision
+- Carnegie Mellon University. Ioannis Gkioulekas.
+[:earth_americas:](https://www.cs.cmu.edu/~16385/)
+- Carnegie Mellon University. Matthew O'Toole.
+[:earth_americas:](http://16385.courses.cs.cmu.edu/spring2022/home)
 
 # Computer Systems
 

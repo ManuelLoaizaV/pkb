@@ -52,6 +52,7 @@
     - Deep Learning
         - Introduction Deep Learning
         - Deep Reinforcement Learning
+        - Neural Computation
     - Natural Language Processing
         - Introduction to NLP
         - Advanced to NLP
