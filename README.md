@@ -58,17 +58,21 @@
         - Advanced to NLP
     - Computer Vision
 - Computer Systems
-    - Computer Security
-        - Introduction to Computer Security
-    - Computer Networks
-        - Introduction to Computer Networking
     - Operating / Distributed Systems
         - Operating Systems and Systems Programming
         - Advanced Operating Systems Structures and Implementation
         - Distributed Systems
+    - Architecture
+        - Parallel Computer Architecture
+    - Computer Security
+        - Introduction to Computer Security
+    - Computer Networks
+        - Introduction to Computer Networking
     - Databases
         - Introduction to Databases
         - Advanced Database Systems
+        - Self-Driving Database Management System
+        - Multimedia Databases
         - Data-Intensive Systems
         - Mining Massive Datasets
 - Software Design and Engineering
