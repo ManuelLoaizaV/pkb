@@ -1,6 +1,8 @@
 # Combinatorics
 
 ## Discrete Mathematics
+- Carnegie Mellon University. Brian Kell.
+[:earth_americas:](https://www.math.cmu.edu/~bkell/21-701-notes.pdf)
 - Carnegie Mellon University. Po-Shen Loh.
 [:earth_americas:](https://www.math.cmu.edu/~ploh/2021-228.shtml)
 [:film_strip:](https://www.youtube.com/playlist?list=PLUcW89-ti8ejY-6LIdJ8tou8HJsHyt92v)

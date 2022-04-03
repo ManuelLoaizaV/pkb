@@ -136,6 +136,8 @@
 ### Combinatorics
 
 #### Discrete Mathematics
+- Carnegie Mellon University. Brian Kell.
+[:earth_americas:](https://www.math.cmu.edu/~bkell/21-701-notes.pdf)
 - Carnegie Mellon University. Po-Shen Loh.
 [:earth_americas:](https://www.math.cmu.edu/~ploh/2021-228.shtml)
 [:film_strip:](https://www.youtube.com/playlist?list=PLUcW89-ti8ejY-6LIdJ8tou8HJsHyt92v)
@@ -222,3 +224,8 @@
 [:earth_americas:](https://web.stanford.edu/class/ee364a/index.html)
 [:film_strip:](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)
 
+### Seminars
+
+#### Advanced Topics in Random Structures
+- Carnegie Mellon University. Alan Frieze.
+[:earth_americas:](https://www.math.cmu.edu/~af1p/Teaching/ATIRS/ATIRS.html)

@@ -54,6 +54,9 @@
 - [Linear Programming](/docs/mathematics/applied-mathematics/operations-research/src/linear-programming.md)
 - [Convex Optimization](/docs/mathematics/applied-mathematics/operations-research/src/convex-optimization.md)
 
+#### [Seminars](/docs/mathematics/applied-mathematics/seminars/seminars.md)
+- [Advanced Topics in Random Structures](/docs/mathematics/applied-mathematics/seminars/src/advanced-topics-in-random-structures.md)
+
 ## [Computer Science](/docs/computer-science/computer-science.md)
 
 ### [Artificial Intelligence](/docs/computer-science/artificial-intelligence/artificial-intelligence.md)
@@ -144,6 +147,10 @@
 - [Algorithms and Computational Complexity](/docs/computer-science/theory/seminars/src/algorithms-and-computational-complexity.md)
 - [The Sum-of-Squares Algorithm](/docs/computer-science/theory/seminars/src/sum-of-squares-algorithm.md)
 - [Hierarchies of Integer Programming Relaxations](/docs/computer-science/theory/seminars/src/hierarchies-of-integer-programming-relaxations.md)
+
+## [Competitions](/docs/competitions/competitions.md)
+
+### [IMO / IMC / Putnam](/docs/competitions/src/imo-imc-putnam.md)
 
 ## Software Engineering
 
