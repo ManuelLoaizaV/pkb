@@ -148,6 +148,10 @@
 - [The Sum-of-Squares Algorithm](/docs/computer-science/theory/seminars/src/sum-of-squares-algorithm.md)
 - [Hierarchies of Integer Programming Relaxations](/docs/computer-science/theory/seminars/src/hierarchies-of-integer-programming-relaxations.md)
 
+## [Competitions](/docs/competitions/competitions.md)
+
+### [IMO / IMC / Putnam](/docs/competitions/src/imo-imc-putnam.md)
+
 ## Software Engineering
 
 ### Languages & Frameworks
