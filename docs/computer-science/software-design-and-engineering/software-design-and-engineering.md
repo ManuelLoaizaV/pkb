@@ -67,3 +67,8 @@
 - University of California, Berkeley. Ren Ng. Angjoo Kanazawa.
 [:earth_americas:](https://cs184.eecs.berkeley.edu/sp21)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBifi0GQVF1R9M_QBWw3xgG)
+
+### Human-Computer Interaction
+- Carnegie Mellon University. Brad Myers.
+[:earth_americas:](http://www.cs.cmu.edu/~bam/uicourse/05863fall18/)
+[:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2252a75ce9-84c7-4c75-8e16-a93b0120d253%22)

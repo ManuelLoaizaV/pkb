@@ -115,6 +115,7 @@
 - Software Engineering for Scientific Computing
 - Data Science
 - Computer Graphics
+- Human-Computer Interaction
 
 ### Theory
 
