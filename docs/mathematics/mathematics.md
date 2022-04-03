@@ -224,3 +224,8 @@
 [:earth_americas:](https://web.stanford.edu/class/ee364a/index.html)
 [:film_strip:](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)
 
+### Seminars
+
+#### Advanced Topics in Random Structures
+- Carnegie Mellon University. Alan Frieze.
+[:earth_americas:](https://www.math.cmu.edu/~af1p/Teaching/ATIRS/ATIRS.html)

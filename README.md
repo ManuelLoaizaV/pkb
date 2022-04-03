@@ -54,6 +54,9 @@
 - [Linear Programming](/docs/mathematics/applied-mathematics/operations-research/src/linear-programming.md)
 - [Convex Optimization](/docs/mathematics/applied-mathematics/operations-research/src/convex-optimization.md)
 
+#### [Seminars](/docs/mathematics/applied-mathematics/seminars/seminars.md)
+- [Advanced Topics in Random Structures](/docs/mathematics/applied-mathematics/seminars/src/advanced-topics-in-random-structures.md)
+
 ## [Computer Science](/docs/computer-science/computer-science.md)
 
 ### [Artificial Intelligence](/docs/computer-science/artificial-intelligence/artificial-intelligence.md)
