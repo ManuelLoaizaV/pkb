@@ -54,91 +54,96 @@
 - [Linear Programming](/docs/mathematics/applied-mathematics/operations-research/src/linear-programming.md)
 - [Convex Optimization](/docs/mathematics/applied-mathematics/operations-research/src/convex-optimization.md)
 
-## Computer Science
+## [Computer Science](/docs/computer-science/computer-science.md)
 
-### Artificial Intelligence
+### [Artificial Intelligence](/docs/computer-science/artificial-intelligence/artificial-intelligence.md)
 
-#### Machine Learning
-- Introduction to Artificial Intelligence
-- Introduction to Machine Learning
-- Optimization for Machine Learning
+#### [Machine Learning](/docs/computer-science/artificial-intelligence/machine-learning/machine-learning.md)
+- [Introduction to Artificial Intelligence](/docs/computer-science/artificial-intelligence/machine-learning/src/introduction-to-artificial-intelligence.md)
+- [Introduction to Machine Learning](/docs/computer-science/artificial-intelligence/machine-learning/src/introduction-to-machine-learning.md)
+- [Optimization for Machine Learning](/docs/computer-science/artificial-intelligence/machine-learning/src/optimization-for-machine-learning.md)
 
-#### Deep Learning
-- Introduction Deep Learning
-- Deep Reinforcement Learning
-- Neural Computation
+#### [Deep Learning](/docs/computer-science/artificial-intelligence/deep-learning/deep-learning.md)
+- [Introduction Deep Learning](/docs/computer-science/artificial-intelligence/deep-learning/src/introduction-to-deep-learning.md)
+- [Deep Reinforcement Learning](/docs/computer-science/artificial-intelligence/deep-learning/src/deep-reinforcement-learning.md)
+- [Neural Computation](/docs/computer-science/artificial-intelligence/deep-learning/src/neural-computation.md)
 
-#### Natural Language Processing
-- Introduction to NLP
-- Advanced NLP
+#### [Natural Language Processing](/docs/computer-science/artificial-intelligence/natural-language-processing/natural-language-processing.md)
+- [Introduction to NLP](/docs/computer-science/artificial-intelligence/natural-language-processing/src/introduction-to-nlp.md)
+- [Advanced NLP](/docs/computer-science/artificial-intelligence/natural-language-processing/src/advanced-nlp.md)
 
-#### Computer Vision
-- Introduction to Computer Vision
+#### [Computer Vision](/docs/computer-science/artificial-intelligence/computer-vision/computer-vision.md)
+- [Introduction to Computer Vision](/docs/computer-science/artificial-intelligence/computer-vision/src/introduction-to-computer-vision.md)
 
-#### Seminars
-- Probabilistic Graphical Model
+#### [Seminars](/docs/computer-science/artificial-intelligence/seminars/seminars.md)
+- [Probabilistic Graphical Model](/docs/computer-science/artificial-intelligence/seminars/src/probabilistic-graphical-models.md)
 
-### Computer Systems
+### [Computer Systems](/docs/computer-science/computer-systems/computer-systems.md)
 
-#### Operating / Distributed Systems
-- Operating Systems and Systems Programming
-- Advanced Operating Systems Structures and Implementation
-- Distributed Systems
+#### [Operating / Distributed Systems](/docs/computer-science/computer-systems/operating-and-distributed-systems/operating-and-distributed-systems.md)
+- [Computer Systems Engineering](/docs/computer-science/computer-systems/operating-and-distributed-systems/src/computer-systems-engineering.md)
+- [Operating Systems and Systems Programming](/docs/computer-science/computer-systems/operating-and-distributed-systems/src/operating-systems-and-systems-programming.md)
+- [Advanced Operating Systems Structures and Implementation](/docs/computer-science/computer-systems/operating-and-distributed-systems/src/advanced-operating-systems-structures-and-implementation.md)
+- [Distributed Systems](/docs/computer-science/computer-systems/operating-and-distributed-systems/src/distributed-systems.md)
 
-#### Architecture
-- Parallel Computer Architecture
+#### [Architecture](/docs/computer-science/computer-systems/architecture/architecture.md)
+- [Parallel Computer Architecture](/docs/computer-science/computer-systems/architecture/src/parallel-computer-architecture.md)
 
-#### Computer Security
-- Introduction to Computer Security
+#### [Computer Security](/docs/computer-science/computer-systems/computer-security/computer-security.md)
+- [Introduction to Computer Security](/docs/computer-science/computer-systems/computer-security/src/introduction-to-computer-security.md)
 
-#### Computer Networks
-- Introduction to Computer Networking
+#### [Computer Networks](/docs/computer-science/computer-systems/computer-networks/computer-networks.md)
+- [Introduction to Computer networks](/docs/computer-science/computer-systems/computer-networks/src/introduction-to-computer-networks.md)
 
-#### Databases
-- Introduction to Databases
-- Advanced Database Systems
-- Self-Driving Database Management System
-- Multimedia Databases
-- Data-Intensive Systems
-- Mining Massive Datasets
+#### [Databases](/docs/computer-science/computer-systems/databases/databases.md)
+- [Introduction to Databases](/docs/computer-science/computer-systems/databases/src/introduction-to-databases.md)
+- [Advanced Database Systems](/docs/computer-science/computer-systems/databases/src/advanced-database-systems.md)
+- [Self-Driving Database Management System](/docs/computer-science/computer-systems/databases/src/self-driving-database-management-systems.md)
+- [Multimedia Databases](/docs/computer-science/computer-systems/databases/src/multimedia-databases.md)
+- [Data-Intensive Systems](/docs/computer-science/computer-systems/databases/src/data-intensive-systems.md)
+- [Mining Massive Datasets](/docs/computer-science/computer-systems/databases/src/mining-massive-datasets.md)
 
-### Software Design and Engineering
+### [Software Design and Engineering](/docs/computer-science/software-design-and-engineering/software-design-and-engineering.md)
 
-#### Programming Languages
-- Introduction to Programming
-- Imperative Programming
-- Functional Programming
-- Programming Languages and Compilers
+#### [Programming Languages](/docs/computer-science/software-design-and-engineering/programming-languages/programming-languages.md)
+- [Introduction to Programming](/docs/computer-science/software-design-and-engineering/programming-languages/src/introduction-to-programming.md)
+- [Imperative Programming](/docs/computer-science/software-design-and-engineering/programming-languages/src/introduction-to-programming.md)
+- [Functional Programming](/docs/computer-science/software-design-and-engineering/programming-languages/src/functional-programming.md)
+- [Quantitative Program Analysis](/docs/computer-science/software-design-and-engineering/programming-languages/src/quantitative-program-analysis.md)
+- [Programming Languages and Compilers](/docs/computer-science/software-design-and-engineering/programming-languages/src/programming-languages-and-compilers.md)
 
-#### Software
-- Software Engineering
-- Software Engineering for Scientific Computing
-- Data Science
-- Computer Graphics
+#### [Software](/docs/computer-science/software-design-and-engineering/software/software.md)
+- [Software Engineering](/docs/computer-science/software-design-and-engineering/software/src/software-engineering.md)
+- [Software Engineering for Scientific Computing](/docs/computer-science/software-design-and-engineering/software/src/software-engineering-for-scientific-computing.md)
+- [Data Science](/docs/computer-science/software-design-and-engineering/software/src/data-science.md)
+- [Computer Graphics](/docs/computer-science/software-design-and-engineering/software/src/computer-graphics.md)
+- [Human-Computer Interaction](/docs/computer-science/software-design-and-engineering/software/src/human-computer-interaction.md)
 
-### Theory
+### [Theory](/docs/computer-science/theory/theory.md)
 
-#### Algorithms & Data Structures
-- Introduction to Algorithms
-- Design and Analysis of Algorithms
-- Data Structures
-- Computational Geometry
-- Advanced Algorithms
-- Algorithmic Game Theory
-- Combinatorial Algorithms
-- Randomized Algorithms
+#### [Algorithms & Data Structures](/docs/computer-science/theory/algorithms-and-data-structures/algorithms-and-data-structures.md)
+- [Introduction to Algorithms](/docs/computer-science/theory/algorithms-and-data-structures/src/introduction-to-algorithms.md)
+- [Intermediate Algorithms](/docs/computer-science/theory/algorithms-and-data-structures/src/intermediate-algorithms.md)
+- [Advanced Algorithms](/docs/computer-science/theory/algorithms-and-data-structures/src/advanced-algorithms.md)
+- [Data Structures](/docs/computer-science/theory/algorithms-and-data-structures/src/data-structures.md)
+- [Computational Geometry](/docs/computer-science/theory/algorithms-and-data-structures/src/computational-geometry.md)
+- [Algorithmic Game Theory](/docs/computer-science/theory/algorithms-and-data-structures/src/algorithmic-game-theory.md)
+- [Combinatorial Algorithms](/docs/computer-science/theory/algorithms-and-data-structures/src/combinatorial-algorithms.md)
+- [Randomized Algorithms](/docs/computer-science/theory/algorithms-and-data-structures/src/randomized-algorithms.md)
+- [Parallel and Concurrent Algorithms](/docs/computer-science/theory/algorithms-and-data-structures/src/parallel-and-concurrent-algorithms.md)
 
-#### Automata, Computability and Complexity
-- Computation Theory
-- Complexity Theory
-- Advanced Computational Theory
+#### [Automata, Computability and Complexity](/docs/computer-science/theory/automata-computability-complexity/automata-computability-complexity.md)
+- [Computation Theory](/docs/computer-science/theory/automata-computability-complexity/src/computation-theory.md)
+- [Complexity Theory](/docs/computer-science/theory/automata-computability-complexity/src/complexity-theory.md)
+- [Advanced Computational Complexity Theory](/docs/computer-science/theory/automata-computability-complexity/src/advanced-complexity-theory.md)
 
-#### Cryptography
-- Foundations of Cryptography
+#### [Cryptography](/docs/computer-science/theory/cryptography/cryptography.md)
+- [Foundations of Cryptography](/docs/computer-science/theory/cryptography/src/foundations-of-cryptography.md)
 
-#### Seminars
-- Algorithms and Computational Complexity
-- The Sum-of-Squares Algorithm
+#### [Seminars](/docs/computer-science/theory/seminars/seminars.md)
+- [Algorithms and Computational Complexity](/docs/computer-science/theory/seminars/src/algorithms-and-computational-complexity.md)
+- [The Sum-of-Squares Algorithm](/docs/computer-science/theory/seminars/src/sum-of-squares-algorithm.md)
+- [Hierarchies of Integer Programming Relaxations](/docs/computer-science/theory/seminars/src/hierarchies-of-integer-programming-relaxations.md)
 
 ## Software Engineering
 
