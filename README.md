@@ -47,6 +47,7 @@
 - [Matroid Theory](/docs/mathematics/applied-mathematics/combinatorics/src/matroid-theory.md)
 - [Combinatorial Optimization](/docs/mathematics/applied-mathematics/combinatorics/src/combinatorial-optimization.md)
 - [Probabilistic Methods in Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/src/probabilistic-methods-in-combinatorics.md)
+- [Polynomial Method in Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/src/polynomial-method-in-combinatorics.md)
 
 #### [Computational Science & Numerical Analysis](/docs/mathematics/applied-mathematics/computational-science-and-numerical-analysis/computational-science-and-numerical-analysis.md)
 - [Numerical Analysis](/docs/mathematics/applied-mathematics/computational-science-and-numerical-analysis/src/numerical-analysis.md)

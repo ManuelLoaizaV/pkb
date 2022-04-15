@@ -68,6 +68,10 @@
 - Massachusetts Institute of Technology. Yufei Zhao.
 [:earth_americas:](https://yufeizhao.com/pm/)
 
+### Polynomial Method in Combinatorics
+- Massachusetts Institute of Technology. Yufei Zhao.
+[:earth_americas:](https://yufeizhao.com/pm16/)
+
 ## Computational Science & Numerical Analysis
 
 ### Numerical Analysis
