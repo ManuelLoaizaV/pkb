@@ -61,3 +61,7 @@
 [:earth_americas:](https://theory.stanford.edu/~jvondrak/CS369P/CS369P.html)
 - University of Texas at Austin. Constantine Caramanis.
 [:film_strip:](https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL)
+
+## Probabilistic Methods in Combinatorics
+- Massachusetts Institute of Technology. Yufei Zhao.
+[:earth_americas:](https://yufeizhao.com/pm/)

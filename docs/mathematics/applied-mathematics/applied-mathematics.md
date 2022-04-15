@@ -64,6 +64,10 @@
 - University of Texas at Austin. Constantine Caramanis.
 [:film_strip:](https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL)
 
+### Probabilistic Methods in Combinatorics
+- Massachusetts Institute of Technology. Yufei Zhao.
+[:earth_americas:](https://yufeizhao.com/pm/)
+
 ## Computational Science & Numerical Analysis
 
 ### Numerical Analysis
