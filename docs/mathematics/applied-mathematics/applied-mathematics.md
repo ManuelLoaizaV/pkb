@@ -12,6 +12,8 @@
 [:earth_americas:](https://www.math.cmu.edu/users/jcumming/teaching/discrete/)
 - Massachusetts Institute of Technology. Richard Stanley.
 [:earth_americas:](https://ocw.mit.edu/courses/18-314-combinatorial-analysis-fall-2014/)
+- Massachusetts Institute of Technology. Yufei Zhao.
+[:earth_americas:](https://yufeizhao.com/211/)
 - University of California, Berkeley. Babak Ayazifar. Satish Rao.
 [:earth_americas:](https://www.eecs70.org/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
