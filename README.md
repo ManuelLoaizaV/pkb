@@ -150,7 +150,8 @@
 
 ## [Competitions](/docs/competitions/competitions.md)
 
-### [IMO / IMC / Putnam](/docs/competitions/src/imo-imc-putnam.md)
+- [IMO / IMC / Putnam](/docs/competitions/src/imo-imc-putnam.md)
+- [IOI / ICPC](/docs/competitions/src/ioi-icpc.md)
 
 ## Software Engineering
 
