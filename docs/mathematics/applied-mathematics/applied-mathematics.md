@@ -2,7 +2,7 @@
 
 ## Combinatorics
 
-### Discrete Mathematics
+### Combinatorial Analysis
 - Carnegie Mellon University. Brian Kell.
 [:earth_americas:](https://www.math.cmu.edu/~bkell/21-701-notes.pdf)
 - Carnegie Mellon University. Po-Shen Loh.
@@ -10,6 +10,8 @@
 [:film_strip:](https://www.youtube.com/playlist?list=PLUcW89-ti8ejY-6LIdJ8tou8HJsHyt92v)
 - Carnegie Mellon University. James Cummings.
 [:earth_americas:](https://www.math.cmu.edu/users/jcumming/teaching/discrete/)
+- Massachusetts Institute of Technology. Richard Stanley.
+[:earth_americas:](https://ocw.mit.edu/courses/18-314-combinatorial-analysis-fall-2014/)
 - University of California, Berkeley. Babak Ayazifar. Satish Rao.
 [:earth_americas:](https://www.eecs70.org/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
@@ -34,6 +36,10 @@
 [:earth_americas:](http://math.sfsu.edu/federico/Clase/EC/ec.html)
 [:film_strip:](https://www.youtube.com/playlist?list=PL-XzhVrXIVeSi7xym1XAfFIxOAaHVhjtP)
 
+### Algebraic Combinatorics
+- Massachusetts Institute of Technology. Alexander Postnikov.
+[:earth_americas:](https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/)
+
 ### Discrete Geometry
 - San Francisco State University. Federico Ardila.
 [:earth_americas:](http://math.sfsu.edu/federico/Clase/Polytopes/polytopes.html)
@@ -49,6 +55,8 @@
 [:earth_americas:](https://www.math.cmu.edu/~bkell/suami2015/)
 - Massachusetts Institute of Technology. Michel Goemans.
 [:earth_americas:](http://www-math.mit.edu/~goemans/18453S17/18453.html)
+- Massachusetts Institute of Technology. Santosh Vempala.
+[:earth_americas:](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/)
 - Stanford University. Jan Vondrak.
 [:earth_americas:](https://theory.stanford.edu/~jvondrak/CS369P/CS369P.html)
 - University of Texas at Austin. Constantine Caramanis.

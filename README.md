@@ -39,7 +39,7 @@
 ### [Applied Mathematics](/docs/mathematics/applied-mathematics/applied-mathematics.md)
 
 #### [Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/combinatorics.md)
-- [Discrete Mathematics](/docs/mathematics/applied-mathematics/combinatorics/src/discrete-mathematics.md)
+- [Combinatorial Analysis](/docs/mathematics/applied-mathematics/combinatorics/src/combinatorial-analysis.md)
 - [Graph Theory](/docs/mathematics/applied-mathematics/combinatorics/src/graph-theory.md)
 - [Extremal Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/src/extremal-combinatorics.md)
 - [Enumerative Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/src/enumerative-combinatorics.md)
