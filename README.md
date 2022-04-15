@@ -39,13 +39,15 @@
 ### [Applied Mathematics](/docs/mathematics/applied-mathematics/applied-mathematics.md)
 
 #### [Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/combinatorics.md)
-- [Discrete Mathematics](/docs/mathematics/applied-mathematics/combinatorics/src/discrete-mathematics.md)
+- [Combinatorial Analysis](/docs/mathematics/applied-mathematics/combinatorics/src/combinatorial-analysis.md)
 - [Graph Theory](/docs/mathematics/applied-mathematics/combinatorics/src/graph-theory.md)
 - [Extremal Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/src/extremal-combinatorics.md)
 - [Enumerative Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/src/enumerative-combinatorics.md)
 - [Discrete Geometry](/docs/mathematics/applied-mathematics/combinatorics/src/discrete-geometry.md)
 - [Matroid Theory](/docs/mathematics/applied-mathematics/combinatorics/src/matroid-theory.md)
 - [Combinatorial Optimization](/docs/mathematics/applied-mathematics/combinatorics/src/combinatorial-optimization.md)
+- [Probabilistic Methods in Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/src/probabilistic-methods-in-combinatorics.md)
+- [Polynomial Method in Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/src/polynomial-method-in-combinatorics.md)
 
 #### [Computational Science & Numerical Analysis](/docs/mathematics/applied-mathematics/computational-science-and-numerical-analysis/computational-science-and-numerical-analysis.md)
 - [Numerical Analysis](/docs/mathematics/applied-mathematics/computational-science-and-numerical-analysis/src/numerical-analysis.md)

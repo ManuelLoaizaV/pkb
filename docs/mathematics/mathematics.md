@@ -101,10 +101,19 @@
 ### Number Theory
 
 #### Elementary Number Theory
+- Massachusetts Institute of Technology. Abhinav Kumar.
+[:earth_americas:](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012/)
 - Randolph College. Michael Penn.
 [:film_strip:](https://www.youtube.com/playlist?list=PL22w63XsKjqwAgBzVFVqZNMcVKpOOAA7c)
+- Rutgers University. Alex Kontorovich.
+[:earth_americas:](https://sites.math.rutgers.edu/~alexk/2020S356/index.html)
+[:film_strip:](https://www.youtube.com/playlist?list=PLs6rMe3K87LEwc77iVba5AsAUPC1qVowy)
+- Rutgers University. Doron Zeilberger.
+[:earth_americas:](https://sites.math.rutgers.edu/~zeilberg/math356_13.html)
+- University of California, Berkeley. James McIvor.
+[:earth_americas:](https://math.berkeley.edu/~mcivor/math115su12/)
 - University of California, Berkeley. Richard Borcherds.
-[:film_strip:](https://www.youtube.com/playlist?list=PL8yHsr3EFj52Qf7lc3HHvHRdIysxEcj1H)
+[:film_strip:](https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8)
 
 #### Algebraic Number Theory
 - University of Oregon. Sean Haight.
@@ -113,6 +122,13 @@
 #### Analytic Number Theory
 - Queen's University. M. Ram Murty.
 [:film_strip:](https://www.youtube.com/playlist?list=PLhkiT_RYTEU1H7OmRVF5VJi76D2Efwf7F)
+- Rutgers University. Alex Kontorovich.
+[:earth_americas:](https://sites.math.rutgers.edu/~alexk/2022S572/index.html)
+[:film_strip:](https://www.youtube.com/playlist?list=PLs6rMe3K87LEVQWfVmFoBUZaxCH4RLbEv)
+- Stanford University. Kannan Soundararajan.
+[:earth_americas:](http://math.stanford.edu/~ksound/Math155W10/Math155.html)
+- University of Illinois at Urbana-Champaign. A. J. Hildebrand.
+[:earth_americas:](https://faculty.math.illinois.edu/~hildebr/531.fall05/)
 
 ### Probability & Statistics
 
@@ -135,7 +151,7 @@
 
 ### Combinatorics
 
-#### Discrete Mathematics
+#### Combinatorial Analysis
 - Carnegie Mellon University. Brian Kell.
 [:earth_americas:](https://www.math.cmu.edu/~bkell/21-701-notes.pdf)
 - Carnegie Mellon University. Po-Shen Loh.
@@ -143,6 +159,10 @@
 [:film_strip:](https://www.youtube.com/playlist?list=PLUcW89-ti8ejY-6LIdJ8tou8HJsHyt92v)
 - Carnegie Mellon University. James Cummings.
 [:earth_americas:](https://www.math.cmu.edu/users/jcumming/teaching/discrete/)
+- Massachusetts Institute of Technology. Richard Stanley.
+[:earth_americas:](https://ocw.mit.edu/courses/18-314-combinatorial-analysis-fall-2014/)
+- Massachusetts Institute of Technology. Yufei Zhao.
+[:earth_americas:](https://yufeizhao.com/211/)
 - University of California, Berkeley. Babak Ayazifar. Satish Rao.
 [:earth_americas:](https://www.eecs70.org/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
@@ -167,6 +187,10 @@
 [:earth_americas:](http://math.sfsu.edu/federico/Clase/EC/ec.html)
 [:film_strip:](https://www.youtube.com/playlist?list=PL-XzhVrXIVeSi7xym1XAfFIxOAaHVhjtP)
 
+#### Algebraic Combinatorics
+- Massachusetts Institute of Technology. Alexander Postnikov.
+[:earth_americas:](https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/)
+
 #### Discrete Geometry
 - San Francisco State University. Federico Ardila.
 [:earth_americas:](http://math.sfsu.edu/federico/Clase/Polytopes/polytopes.html)
@@ -182,10 +206,20 @@
 [:earth_americas:](https://www.math.cmu.edu/~bkell/suami2015/)
 - Massachusetts Institute of Technology. Michel Goemans.
 [:earth_americas:](http://www-math.mit.edu/~goemans/18453S17/18453.html)
+- Massachusetts Institute of Technology. Santosh Vempala.
+[:earth_americas:](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/)
 - Stanford University. Jan Vondrak.
 [:earth_americas:](https://theory.stanford.edu/~jvondrak/CS369P/CS369P.html)
 - University of Texas at Austin. Constantine Caramanis.
 [:film_strip:](https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL)
+
+#### Probabilistic Methods in Combinatorics
+- Massachusetts Institute of Technology. Yufei Zhao.
+[:earth_americas:](https://yufeizhao.com/pm/)
+
+#### Polynomial Method in Combinatorics
+- Massachusetts Institute of Technology. Yufei Zhao.
+[:earth_americas:](https://yufeizhao.com/pm16/)
 
 ### Computational Science & Numerical Analysis
 
