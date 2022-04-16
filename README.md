@@ -26,6 +26,10 @@
 - [Differential Geometry](/docs/mathematics/pure-mathematics/geometry/src/differential-geometry.md)
 - Riemmanian Geometry
 
+#### [Mathematical Logic and Foundations]
+- [Mathematical Logic](/docs/mathematics/pure-mathematics/mathematical-logic-and-foundations/src/mathematical-logic.md)
+- [Set Theory](/docs/mathematics/pure-mathematics/mathematical-logic-and-foundations/src/set-theory.md)
+
 #### [Number Theory](/docs/mathematics/pure-mathematics/number-theory/number-theory.md)
 - [Elementary Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/elementary-number-theory.md)
 - [Algebraic Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/algebraic-number-theory.md)
@@ -118,7 +122,9 @@
 - [Programming Languages and Compilers](/docs/computer-science/software-design-and-engineering/programming-languages/src/programming-languages-and-compilers.md)
 
 #### [Software](/docs/computer-science/software-design-and-engineering/software/software.md)
+- [Software Construction](/docs/computer-science/software-design-and-engineering/software/src/software-construction.md)
 - [Software Engineering](/docs/computer-science/software-design-and-engineering/software/src/software-engineering.md)
+- [Software Engineering for Startups](/docs/computer-science/software-design-and-engineering/software/src/software-engineering-for-startups.md)
 - [Software Engineering for Scientific Computing](/docs/computer-science/software-design-and-engineering/software/src/software-engineering-for-scientific-computing.md)
 - [Data Science](/docs/computer-science/software-design-and-engineering/software/src/data-science.md)
 - [Computer Graphics](/docs/computer-science/software-design-and-engineering/software/src/computer-graphics.md)
@@ -143,7 +149,7 @@
 - [Advanced Computational Complexity Theory](/docs/computer-science/theory/automata-computability-complexity/src/advanced-complexity-theory.md)
 
 #### [Cryptography](/docs/computer-science/theory/cryptography/cryptography.md)
-- [Foundations of Cryptography](/docs/computer-science/theory/cryptography/src/foundations-of-cryptography.md)
+- [Introduction to Cryptography](/docs/computer-science/theory/cryptography/src/foundations-of-cryptography.md)
 
 #### [Seminars](/docs/computer-science/theory/seminars/seminars.md)
 - [Algorithms and Computational Complexity](/docs/computer-science/theory/seminars/src/algorithms-and-computational-complexity.md)

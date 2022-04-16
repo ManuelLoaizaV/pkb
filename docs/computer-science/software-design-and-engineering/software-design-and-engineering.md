@@ -43,6 +43,14 @@
 
 ## Software
 
+### Software Construction
+- Massachusetts Institute of Technology. Max Goldman. Rob Miller.
+[:earth_americas:](http://web.mit.edu/6.031/www/sp22/)
+- Carnegie Mellon University. Bogdan Vasilescu. Michael Hilton.
+[:earth_americas:](http://www.cs.cmu.edu/~mhilton/classes/17-214/s19/index.html)
+- Carnegie Mellon University. Josh Sunshine. Michael Hilton.
+[:earth_americas:](https://cmu-crafting-software.github.io//)
+
 ### Software Engineering
 - Carnegie Mellon University. Michael Hilton. Rohan Padhye.
 [:earth_americas:](https://cmu-313.github.io/)
@@ -51,6 +59,10 @@
 - University of California, Berkeley. George Necula.
 [:earth_americas:](https://sites.google.com/site/ucbcs169fa15/lectures)
 [:film_strip:](https://www.youtube.com/user/gcnecula/videos)
+
+### Software Engineering for Startups
+- Carnegie Mellon University. Hyrum Wright. Michael Hilton.
+[:earth_americas:](https://cmu-17-356.github.io/)
 
 ### Software Engineering for Scientific Computing
 - University of California, Berkeley. Phillip Colella.

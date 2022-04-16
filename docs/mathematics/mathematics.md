@@ -95,8 +95,14 @@
 ### Mathematical Logic & Foundations
 
 #### Mathematical Logic
+- University of California, Berkeley. Antonio Montalban.
+[:film_strip:](https://www.youtube.com/playlist?list=PLjJhPCaCziSRSUtQiTA_yx5TJ76G_EqUJ)
 - University of California, Los Angeles. Artem Chernikov.
 [:film_strip:](https://www.youtube.com/playlist?list=PL54Pt_mZzBqibWHgesgEICeQHnwHom8xz)
+
+#### Set Theory
+- University of California, Berkeley. Antonio Montalban.
+[:film_strip:](https://www.youtube.com/playlist?list=PLjJhPCaCziSQyON7NLc8Ac8ibdm6_iDQf)
 
 ### Number Theory
 
@@ -232,6 +238,8 @@
 - Penn State University. Wen Shen.
 [:earth_americas:](https://ebookcentral.proquest.com/lib/bibpucp-ebooks/detail.action?docID=5900406)
 [:film_strip:](https://www.youtube.com/playlist?list=PLbxFfU5GKZz29nXsWchAN1c3WsgiMiSXd)
+- Princeton University. Nicolas Boumal.
+[:earth_americas:](https://sma.epfl.ch/~nboumal/papers/MAT321_Lecture_notes_Boumal_2019.pdf)
 - University of California, Berkeley. Andrew Shi.
 [:earth_americas:](https://math.berkeley.edu/~andrewshi/Teaching.html)
 - University of California, Berkeley. Per-Olof Persson.
