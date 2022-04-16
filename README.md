@@ -26,7 +26,7 @@
 - [Differential Geometry](/docs/mathematics/pure-mathematics/geometry/src/differential-geometry.md)
 - Riemmanian Geometry
 
-#### [Mathematical Logic and Foundations]
+#### [Mathematical Logic and Foundations](/docs/mathematics/pure-mathematics/mathematical-logic-and-foundations/mathematical-logic-and-foundations.md)
 - [Mathematical Logic](/docs/mathematics/pure-mathematics/mathematical-logic-and-foundations/src/mathematical-logic.md)
 - [Set Theory](/docs/mathematics/pure-mathematics/mathematical-logic-and-foundations/src/set-theory.md)
 
