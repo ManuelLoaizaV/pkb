@@ -119,6 +119,7 @@
 
 #### [Software](/docs/computer-science/software-design-and-engineering/software/software.md)
 - [Software Engineering](/docs/computer-science/software-design-and-engineering/software/src/software-engineering.md)
+- [Software Engineering for Startups](/docs/computer-science/software-design-and-engineering/software/src/software-engineering-for-startups.md)
 - [Software Engineering for Scientific Computing](/docs/computer-science/software-design-and-engineering/software/src/software-engineering-for-scientific-computing.md)
 - [Data Science](/docs/computer-science/software-design-and-engineering/software/src/data-science.md)
 - [Computer Graphics](/docs/computer-science/software-design-and-engineering/software/src/computer-graphics.md)

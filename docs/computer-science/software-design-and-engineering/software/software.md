@@ -9,6 +9,10 @@
 [:earth_americas:](https://sites.google.com/site/ucbcs169fa15/lectures)
 [:film_strip:](https://www.youtube.com/user/gcnecula/videos)
 
+## Software Engineering for Startups
+- Carnegie Mellon University. Hyrum Wright. Michael Hilton.
+[:earth_americas:](https://cmu-17-356.github.io/)
+
 ## Software Engineering for Scientific Computing
 - University of California, Berkeley. Phillip Colella.
 [:earth_americas:](https://inst.eecs.berkeley.edu/~cs294-73/fa19/)
