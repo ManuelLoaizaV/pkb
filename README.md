@@ -26,6 +26,10 @@
 - [Differential Geometry](/docs/mathematics/pure-mathematics/geometry/src/differential-geometry.md)
 - Riemmanian Geometry
 
+#### [Mathematical Logic and Foundations]
+- [Mathematical Logic](/docs/mathematics/pure-mathematics/mathematical-logic-and-foundations/src/mathematical-logic.md)
+- [Set Theory](/docs/mathematics/pure-mathematics/mathematical-logic-and-foundations/src/set-theory.md)
+
 #### [Number Theory](/docs/mathematics/pure-mathematics/number-theory/number-theory.md)
 - [Elementary Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/elementary-number-theory.md)
 - [Algebraic Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/algebraic-number-theory.md)
