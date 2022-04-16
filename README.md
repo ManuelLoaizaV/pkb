@@ -118,6 +118,7 @@
 - [Programming Languages and Compilers](/docs/computer-science/software-design-and-engineering/programming-languages/src/programming-languages-and-compilers.md)
 
 #### [Software](/docs/computer-science/software-design-and-engineering/software/software.md)
+- [Software Construction](/docs/computer-science/software-design-and-engineering/software/src/software-construction.md)
 - [Software Engineering](/docs/computer-science/software-design-and-engineering/software/src/software-engineering.md)
 - [Software Engineering for Startups](/docs/computer-science/software-design-and-engineering/software/src/software-engineering-for-startups.md)
 - [Software Engineering for Scientific Computing](/docs/computer-science/software-design-and-engineering/software/src/software-engineering-for-scientific-computing.md)
