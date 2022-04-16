@@ -143,7 +143,7 @@
 - [Advanced Computational Complexity Theory](/docs/computer-science/theory/automata-computability-complexity/src/advanced-complexity-theory.md)
 
 #### [Cryptography](/docs/computer-science/theory/cryptography/cryptography.md)
-- [Foundations of Cryptography](/docs/computer-science/theory/cryptography/src/foundations-of-cryptography.md)
+- [Introduction to Cryptography](/docs/computer-science/theory/cryptography/src/foundations-of-cryptography.md)
 
 #### [Seminars](/docs/computer-science/theory/seminars/seminars.md)
 - [Algorithms and Computational Complexity](/docs/computer-science/theory/seminars/src/algorithms-and-computational-complexity.md)
