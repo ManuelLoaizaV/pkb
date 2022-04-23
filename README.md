@@ -13,6 +13,7 @@
 #### [Analysis & PDEs](/docs/mathematics/pure-mathematics/analysis-and-pdes/analysis-and-pdes.md)
 - [Differential Calculus](docs/mathematics/pure-mathematics/analysis-and-pdes/src/differential-calculus.md)
 - [Integral Calculus](docs/mathematics/pure-mathematics/analysis-and-pdes/src/integral-calculus.md)
+- [Multivariate Calculus](docs/mathematics/pure-mathematics/analysis-and-pdes/src/multivariate-calculus.md)
 - [Real Analysis](docs/mathematics/pure-mathematics/analysis-and-pdes/src/real-analysis.md)
 - [Topology in ℝ<sup>n</sup>](docs/mathematics/pure-mathematics/analysis-and-pdes/src/topology-rn.md)
 - [Analysis on Manifolds](docs/mathematics/pure-mathematics/analysis-and-pdes/src/analysis-on-manifolds.md)
