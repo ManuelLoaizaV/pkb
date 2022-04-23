@@ -384,6 +384,8 @@
 [:film_strip:](https://www.diderot.one/courses/102/books/421/chapter/6009)
 - Carnegie Mellon University. Ryan O'Donnell.
 [:film_strip:](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
+- University of Regina. Daniel Page.
+[:film_strip:](https://www.youtube.com/playlist?list=PLOR30RPQx4ZpSbqGeg25iW-iqipvU8ZvY)
 
 ### Complexity Theory
 - California Institute of Technology. Chris Umans.
