@@ -11,6 +11,7 @@
 - [Galois Theory](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/galois-theory.md)
 
 #### [Analysis & PDEs](/docs/mathematics/pure-mathematics/analysis-and-pdes/analysis-and-pdes.md)
+- [Precalculus](docs/mathematics/pure-mathematics/analysis-and-pdes/src/precalculus.md)
 - [Differential Calculus](docs/mathematics/pure-mathematics/analysis-and-pdes/src/differential-calculus.md)
 - [Integral Calculus](docs/mathematics/pure-mathematics/analysis-and-pdes/src/integral-calculus.md)
 - [Multivariate Calculus](docs/mathematics/pure-mathematics/analysis-and-pdes/src/multivariate-calculus.md)
