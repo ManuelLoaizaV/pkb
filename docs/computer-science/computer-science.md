@@ -1,8 +1,10 @@
-# Artificial Intelligence
+# Computer Science
 
-## Machine Learning
+## Artificial Intelligence
 
-### Introduction to Artificial Intelligence
+### Machine Learning
+
+#### Introduction to Artificial Intelligence
 - Carnegie Mellon University. Pat Virtue. Stephanie Rosenthal.
 [:earth_americas:](https://www.cs.cmu.edu/~15281-s20/)
 - University of California, Berkeley. Stuart Russell. Dawn Song.
@@ -10,7 +12,7 @@
 [:film_strip:](https://www.youtube.com/channel/UCHBzJsIcRIVuzzHVYabikTQ/videos)
 [:film_strip:](https://www.youtube.com/channel/UCOFsXLMqQFXaFeMNHlpIp9g/playlists)
 
-### Introduction to Machine Learning
+#### Introduction to Machine Learning
 - Carnegie Mellon University. Pat Virtue.
 [:earth_americas:](https://www.cs.cmu.edu/~10315-s20/)
 - École Polytechnique Fédérale de Lausanne. Martin Jaggi. Nicolas Flammarion.
@@ -23,7 +25,7 @@
 - University of California, Berkeley. Jonathan Shewchuk.
 [:earth_americas:](https://people.eecs.berkeley.edu/~jrs/189/)
 
-### Optimization for Machine Learning
+#### Optimization for Machine Learning
 - Carnegie Mellon University. Ryan Tibshirani.
 [:earth_americas:](https://www.stat.cmu.edu/~ryantibs/convexopt-F18/)
 [:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%222e05ff30-48ba-4598-9f70-a9430132b706%22)
@@ -34,25 +36,29 @@
 [:earth_americas:](https://ee227c.github.io/)
 [:octocat:](https://github.com/ee227c/ee227c.github.io)
 
-## Deep Learning
+### Deep Learning
 
-### Introduction to Deep Learning
+#### Introduction to Deep Learning
 - Carnegie Mellon University. Bhiksha Raj. Rita Singh.
 [:earth_americas:](https://deeplearning.cs.cmu.edu/S22/index.html)
 [:film_strip:](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/featured)
+- Massachusetts Institute of Technology.
+[:earth_americas:](http://introtodeeplearning.com/)
+[:film_strip:](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+[:octocat:](https://github.com/aamini/introtodeeplearning/)
 
-### Deep Reinforcement Learning
+#### Deep Reinforcement Learning
 - Carnegie Mellon University. Katerina Fragkiadaki.
 [:earth_americas:](https://cmudeeprl.github.io/703website_f20/)
 [:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2272e0fceb-c62f-436c-ae24-ae290162188d%22)
 
-### Neural Computation
+#### Neural Computation
 - Carnegie Mellon University. Tai Sing Lee.
 [:earth_americas:](https://www.cnbc.cmu.edu/~tai/nc21.html)
 
-## Natural Language Processing
+### Natural Language Processing
 
-### Introduction to NLP
+#### Introduction to NLP
 - Carnegie Mellon University. Alan Black. David Mortensen.
 [:earth_americas:](http://demo.clab.cs.cmu.edu/NLP/)
 - Columbia University. Michael Collins.
@@ -68,43 +74,43 @@
 - University of Utah. Ellen Riloff.
 [:earth_americas:](https://my.eng.utah.edu/~cs5340/)
 
-### Advanced NLP
+#### Advanced NLP
 - Stanford University. Chris Manning.
 [:earth_americas:](https://web.stanford.edu/class/cs224n/index.html)
 [:film_strip:](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 - University of Wisconsin-Madison. Xiaojin Zhu.
 [:earth_americas:](https://pages.cs.wisc.edu/~jerryzhu/cs838.html)
 
-## Computer Vision
+### Computer Vision
 
-### Introduction to Computer Vision
+#### Introduction to Computer Vision
 - Carnegie Mellon University. Ioannis Gkioulekas.
 [:earth_americas:](https://www.cs.cmu.edu/~16385/)
 - Carnegie Mellon University. Matthew O'Toole.
 [:earth_americas:](http://16385.courses.cs.cmu.edu/spring2022/home)
 
-## Seminars
+### Seminars
 
-### Probabilistic Graphical Models
+#### Probabilistic Graphical Models
 - Carnegie Mellon University. Eric Xing.
 [:earth_americas:](https://www.cs.cmu.edu/~epxing/Class/10708-20/)
 [:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a15edd8e-782f-4ea0-8923-ab3d01099269%22)
 
-# Computer Systems
+## Computer Systems
 
-## Operating / Distributed Systems
+### Operating / Distributed Systems
 
-### Computer Systems Engineering
+#### Computer Systems Engineering
 - Carnegie Mellon University. Brian Railing. Dave Andersen. David Varodayan. Zack Weinberg.
 [:earth_americas:](https://www.cs.cmu.edu/~213/index.html)
 - Carnegie Mellon University. Dave O'Hallaron. Franz Franchetti. Randy Bryant.
 [:earth_americas:](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/index.html)
 [:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)
 - Massachusetts Institute of Technology. Katrina LaCurts.
-[:earth_americas:](http://web.mit.edu/6.033/www/index.shtml)
-[:film_strip:](http://web.mit.edu/6.033/www/index.shtml)
+[:earth_americas:](https://web.mit.edu/6.033/2021/wwwdocs/index.shtml)
+[:film_strip:](https://web.mit.edu/6.033/2021/wwwdocs/index.shtml)
 
-### Operating Systems and Systems Programming
+#### Operating Systems and Systems Programming
 - Massachusetts Institute of Technology. Frans Kaashoek. Robert Morris.
 [:earth_americas:](https://pdos.csail.mit.edu/6.S081/2020/schedule.html)
 [:film_strip:](https://pdos.csail.mit.edu/6.S081/2020/schedule.html)
@@ -117,36 +123,36 @@
 - University of Central Florida. Paul Gazzillo.
 [:earth_americas:](http://www.cs.ucf.edu/~gazzillo/teaching/cop5611spring21/)
 
-### Advanced Operating Systems Structures and Implementation
+#### Advanced Operating Systems Structures and Implementation
 - University of California, Berkeley. John Kubiatowicz.
 [:earth_americas:](https://people.eecs.berkeley.edu/~kubitron/courses/cs194-24-S13/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE)
 
-### Distributed Systems
+#### Distributed Systems
 - Carnegie Mellon University. Rashmi Vinayak. Yuvraj Agarwal.
 [:earth_americas:](https://www.synergylabs.org/courses/15-440/)
 - Massachusetts Institute of Technology. Frans Kaashoek.
 [:earth_americas:](https://pdos.csail.mit.edu/6.824/schedule.html)
 [:film_strip:](https://pdos.csail.mit.edu/6.824/schedule.html)
 
-## Architecture
+### Architecture
 
-### Parallel Computer Architecture
+#### Parallel Computer Architecture
 - Carnegie Mellon University. Brian Railing. Todd Mowry.
 [:earth_americas:](http://www.cs.cmu.edu/afs/cs/academic/class/15418-f20/www/)
 [:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22f62c2297-de88-4e63-aff2-06641fa25e98%22)
 
-## Computer Security
+### Computer Security
 
-### Introduction to Computer Security
+#### Introduction to Computer Security
 - Carnegie Mellon University. David Brumley. Lujo Bauer.
 [:earth_americas:](https://www.andrew.cmu.edu/course/18-330/2022s/)
 - University of California, Berkeley. Raluca Ada Popa. Nicholas Weaver.
 [:earth_americas:](https://cs161.org/)
 
-## Computer Networks
+### Computer Networks
 
-### Introduction to Computer Networks
+#### Introduction to Computer Networks
 - Carnegie Mellon University. Justine Sherry. Peter Steenkiste.
 [:earth_americas:](https://www.cs.cmu.edu/~prs/15-441-F17/)
 - Carnegie Mellon University. Christopher Canel. Peter Steenkiste.
@@ -155,9 +161,9 @@
 [:earth_americas:](https://cs144.github.io/)
 [:film_strip:](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS)
 
-## Databases
+### Databases
 
-### Introduction to Databases
+#### Introduction to Databases
 - Carnegie Mellon University. Lin Ma. Andrew Crotty.
 [:earth_americas:](https://15445.courses.cs.cmu.edu/fall2021/)
 [:film_strip:](https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG)
@@ -167,33 +173,33 @@
 [:earth_americas:](https://cs186berkeley.net/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y)
 
-### Advanced Database Systems
+#### Advanced Database Systems
 - Carnegie Mellon University. Andy Pavlo.
 [:earth_americas:](https://15721.courses.cs.cmu.edu/spring2020/)
 [:film_strip:](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 
-### Self-Driving Database Management Systems
+#### Self-Driving Database Management Systems
 - Carnegie Mellon University. Andry Pavlo. Matt Butrovich.
 [:earth_americas:](https://15799.courses.cs.cmu.edu/spring2022/)
 
-### Multimedia Databases
+#### Multimedia Databases
 - Carnegie Mellon University. Christos Faloutsos.
 [:earth_americas:](http://www.cs.cmu.edu/~christos/courses/826.F19/)
 
-### Data-Intensive Systems
+#### Data-Intensive Systems
 - Stanford University. Matei Zaharia.
 [:earth_americas:](https://web.stanford.edu/class/cs245/)
 
-### Mining Massive Datasets
+#### Mining Massive Datasets
 - Stanford University. Jure Leskovec.
 [:earth_americas:](http://web.stanford.edu/class/cs246/)
 [:film_strip:](https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos)
 
-# Software Design and Engineering
+## Software Design and Engineering
 
-## Programming Languages
+### Programming Languages
 
-### Introduction to Programming
+#### Introduction to Programming
 - Carnegie Mellon University. Ryan Riley.
 [:earth_americas:](https://www.diderot.one/courses/52)
 - Harvard University. David Malan.
@@ -204,21 +210,21 @@
 - Stanford University. Chris Gregg.
 [:earth_americas:](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1176/)
 
-### Imperative Programming
+#### Imperative Programming
 - Carnegie Mellon University. Dilsun Kaynar. Iliano Cervesato.
 [:earth_americas:](https://www.cs.cmu.edu/~15122/home.shtml)
 
-### Functional Programming
+#### Functional Programming
 - Carnegie Mellon University. Michael Erdmann. Karl Crary.
 [:earth_americas:](http://www.cs.cmu.edu/~15150/index.html)
 
-### Quantitative Program Analysis
+#### Quantitative Program Analysis
 - Carnegie Mellon University. Jan Hoffmann.
 [:earth_americas:](https://www.cs.cmu.edu/~janh/courses/ra19/)
 [:earth_americas:](https://www.cs.cmu.edu/~janh/courses/ra16/)
 [:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2207756bb0-b872-4a4a-95b1-b77ad206dab3%22)
 
-### Programming Languages and Compilers
+#### Programming Languages and Compilers
 - California State University, Sacramento. Ghassan Shobaki.
 [:film_strip:](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i)
 - Carnegie Mellon University. Seth Goldstein.
@@ -232,9 +238,9 @@
 [:earth_americas:](https://inst.eecs.berkeley.edu/~cs164/fa20/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL3A16CFC42CA6EF4F)
 
-## Software
+### Software
 
-### Software Construction
+#### Software Construction
 - Massachusetts Institute of Technology. Max Goldman. Rob Miller.
 [:earth_americas:](http://web.mit.edu/6.031/www/sp22/)
 - Carnegie Mellon University. Bogdan Vasilescu. Michael Hilton.
@@ -242,7 +248,7 @@
 - Carnegie Mellon University. Josh Sunshine. Michael Hilton.
 [:earth_americas:](https://cmu-crafting-software.github.io//)
 
-### Software Engineering
+#### Software Engineering
 - Carnegie Mellon University. Michael Hilton. Rohan Padhye.
 [:earth_americas:](https://cmu-313.github.io/)
 - Massachusetts Institute of Technology. Max Goldman. Rob Miller.
@@ -251,36 +257,36 @@
 [:earth_americas:](https://sites.google.com/site/ucbcs169fa15/lectures)
 [:film_strip:](https://www.youtube.com/user/gcnecula/videos)
 
-### Software Engineering for Startups
+#### Software Engineering for Startups
 - Carnegie Mellon University. Hyrum Wright. Michael Hilton.
 [:earth_americas:](https://cmu-17-356.github.io/)
 
-### Software Engineering for Scientific Computing
+#### Software Engineering for Scientific Computing
 - University of California, Berkeley. Phillip Colella.
 [:earth_americas:](https://inst.eecs.berkeley.edu/~cs294-73/fa19/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iB8Arh4Szxk275Cu4uRxVt4)
 
-### Data Science
+#### Data Science
 - Carnegie Mellon University. Pat Virtue.
 [:earth_americas:](http://www.datasciencecourse.org/)
 [:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22618ea253-ca45-4b14-9f1d-aab501543bd2%22)
 [:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22912b80a3-625d-405d-8905-a8620133666b%22)
 
-### Computer Graphics
+#### Computer Graphics
 - University of California, Berkeley. Ren Ng. Angjoo Kanazawa.
 [:earth_americas:](https://cs184.eecs.berkeley.edu/sp21)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBifi0GQVF1R9M_QBWw3xgG)
 
-### Human-Computer Interaction
+#### Human-Computer Interaction
 - Carnegie Mellon University. Brad Myers.
 [:earth_americas:](http://www.cs.cmu.edu/~bam/uicourse/05863fall18/)
 [:film_strip:](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2252a75ce9-84c7-4c75-8e16-a93b0120d253%22)
 
-# Theory
+## Theory
 
-## Algorithms & Data Structures
+### Algorithms & Data Structures
 
-### Introduction to Algorithms
+#### Introduction to Algorithms
 - California Institute of Technology. Chris Umans.
 [:earth_americas:](http://users.cms.caltech.edu/~umans/cs38/)
 - Carnegie Mellon University. Marijn Heule. Umut Acar.
@@ -302,7 +308,7 @@
 - Western University. Daniel Page.
 [:film_strip:](https://www.youtube.com/playlist?list=PLN-ShipRKQ0h6jIphD381pHdQtj_APRM8)
 
-### Intermediate Algorithms
+#### Intermediate Algorithms
 - ITMO University. Pavel Mavrin.
 [:film_strip:](https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
 - Massachusetts Institute of Technology. Erik Demaine. Srini Devadas.
@@ -312,7 +318,7 @@
 [:earth_americas:](https://inst.eecs.berkeley.edu/~cs170/fa20/)
 [:film_strip:](https://inst.eecs.berkeley.edu/~cs170/fa20/)
 
-### Advanced Algorithms
+#### Advanced Algorithms
 - ITMO University. Pavel Mavrin.
 [:film_strip:](https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
 - Harvard University. Jelani Nelson.
@@ -331,7 +337,7 @@
 - University of California, Berkeley. Luca Trevisan.
 [:earth_americas:](https://theory.stanford.edu/~trevisan/cs261/)
 
-### Data Structures
+#### Data Structures
 - ITMO University. Pavel Mavrin.
 [:film_strip:](https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
 - Massachusetts Institute of Technology. Erik Demaine.
@@ -344,36 +350,36 @@
 [:earth_americas:](https://ucsd-cse100-s20.github.io/)
 [:film_strip:](https://www.youtube.com/playlist?list=PLM_KIlU0WoXmkV4QB1Dg8PtJaHTdWHwRS)
 
-### Computational Geometry
+#### Computational Geometry
 - University of Wisconsin-Madison. Mikola Lysenko.
 [:octocat:](https://github.com/CS558)
 [:film_strip:](https://www.youtube.com/playlist?list=PLESnaHRvLM-72xIXf8dL2EOqN8UgAZMj7)
 - Universität Trier. Philipp Kindermann.
 [:film_strip:](https://www.youtube.com/c/PhilippKindermann/playlists?view=50&sort=dd&shelf_id=2)
-### Algorithmic Game Theory
+#### Algorithmic Game Theory
 - Stanford University. Tim Roughgarden.
 [:earth_americas:](https://timroughgarden.org/f13/f13.html)
 [:film_strip:](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4)
 - KTH Royal Institute of Technology. Jörgen Weibull. Mark Voorneveld. Jonas Sjöstrand.
 [:earth_americas:](https://www.math.kth.se/matstat/gru/sf2972/2013/)
 
-### Combinatorial Algorithms
+#### Combinatorial Algorithms
 - University of California, Berkeley. Prasad Raghavendra.
 [:earth_americas:](https://people.eecs.berkeley.edu/~prasad/spring2021.html)
 [:film_strip:](https://www.youtube.com/playlist?list=PLfkeJ2f4i0AfWApBP8X8YvQfN4WbRQTC3)
 
-### Randomized Algorithms
+#### Randomized Algorithms
 - Massachusetts Institute of Technology. Karger Skoltech.
 [:earth_americas:](http://courses.csail.mit.edu/6.856/current/)
 
-### Parallel and Concurrent Algorithms
+#### Parallel and Concurrent Algorithms
 - Carnegie Mellon University. Guy Blelloch.
 [:earth_americas:](http://www.cs.cmu.edu/~guyb/paralg/)
 [:film_strip:](https://www.diderot.one/courses/56)
 
-## Automata, Computability and Complexity
+### Automata, Computability and Complexity
 
-### Computation Theory
+#### Computation Theory
 - California Institute of Technology. Chris Umans.
 [:earth_americas:](http://users.cms.caltech.edu/~umans/cs21/)
 - Carnegie Mellon University. Anil Ada.
@@ -384,8 +390,10 @@
 [:film_strip:](https://www.diderot.one/courses/102/books/421/chapter/6009)
 - Carnegie Mellon University. Ryan O'Donnell.
 [:film_strip:](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
+- University of Regina. Daniel Page.
+[:film_strip:](https://www.youtube.com/playlist?list=PLOR30RPQx4ZpSbqGeg25iW-iqipvU8ZvY)
 
-### Complexity Theory
+#### Complexity Theory
 - California Institute of Technology. Chris Umans.
 [:earth_americas:](http://users.cms.caltech.edu/~umans/cs151/)
 - Carnegie Mellon University. Laus Sutner.
@@ -393,14 +401,14 @@
 - Carnegie Mellon University. Ryan O'Donnell.
 [:film_strip:](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
 
-### Advanced Computational Complexity Theory
+#### Advanced Computational Complexity Theory
 - Carnegie Mellon University. Ryan O'Donnell.
 [:earth_americas:](https://www.cs.cmu.edu/~odonnell/complexity17/)
 
 
-## Cryptography
+### Cryptography
 
-### Introduction to Cryptography
+#### Introduction to Cryptography
 - Massachusetts Institute of Technology. Vinod Vaikuntanathan.
 [:earth_americas:](https://mit6875.github.io/)
 [:film_strip:](https://vimeo.com/user150298776)
@@ -409,14 +417,14 @@
 - Stanford University. Dan Boneh.
 [:earth_americas:](https://crypto.stanford.edu/~dabo/cs255/)
 
-## Seminars
+### Seminars
 
-### Algorithms and Computational Complexity
+#### Algorithms and Computational Complexity
 - Carnegie Mellon University. Ryan O'Donnell.
 [:earth_americas:](https://www.cs.cmu.edu/~15751/)
 [:film_strip:](https://www.diderot.one/courses/28)
 
-### The Sum-of-Squares Algorithm
+#### The Sum-of-Squares Algorithm
 - Carnegie Mellon University. Pravesh Kothari. Peter Manohar.
 [:earth_americas:](https://www.cs.cmu.edu/~praveshk/sosseminar/sosseminar.html)
 [:film_strip:](https://www.diderot.one/courses/58)
@@ -429,6 +437,6 @@
 [:earth_americas:](https://cseweb.ucsd.edu//~slovett/workshops/sum-of-squares-2017/schedule.html)
 [:film_strip:](https://cseweb.ucsd.edu//~slovett/workshops/sum-of-squares-2017/schedule.html)
 
-### Hierarchies of Integer Programming Relaxations
+#### Hierarchies of Integer Programming Relaxations
 - Stanford University. Moses Charikar.
 [:earth_americas:](http://web.stanford.edu/class/cs369h/)

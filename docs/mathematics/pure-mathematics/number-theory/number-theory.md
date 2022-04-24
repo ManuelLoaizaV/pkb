@@ -3,6 +3,10 @@
 ## Elementary Number Theory
 - Massachusetts Institute of Technology. Abhinav Kumar.
 [:earth_americas:](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012/)
+- Harvard University. William Stein.
+[:earth_americas:](https://williamstein.org/edu/124/index.html)
+- Oxford University
+[:earth_americas:](https://courses-archive.maths.ox.ac.uk/node/50752)
 - Randolph College. Michael Penn.
 [:film_strip:](https://www.youtube.com/playlist?list=PL22w63XsKjqwAgBzVFVqZNMcVKpOOAA7c)
 - Rutgers University. Alex Kontorovich.
@@ -29,3 +33,9 @@
 [:earth_americas:](http://math.stanford.edu/~ksound/Math155W10/Math155.html)
 - University of Illinois at Urbana-Champaign. A. J. Hildebrand.
 [:earth_americas:](https://faculty.math.illinois.edu/~hildebr/531.fall05/)
+
+## Elliptic Curves
+- Massachusetts Institute of Technology. Andrew Sutherland.
+[:earth_americas:](https://ocw.mit.edu/courses/18-783-elliptic-curves-spring-2021/)
+- University of Connecticut. Alvaro Lozano.
+[:film_strip:](https://www.youtube.com/playlist?list=PLYpVTXjEi1oe1OeAllJpNhFoI4B7Ws8Yl)
