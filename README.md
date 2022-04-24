@@ -9,6 +9,7 @@
 - [Multilineal Algebra](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/multilinear-algebra.md)
 - [Groups and Rings](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/groups-and-rings.md)
 - [Galois Theory](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/galois-theory.md)
+- [Commutative Algebra](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/commutative-algebra.md)
 - [Algebraic Topology](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/algebraic-topology.md)
 - [Algebraic Geometry](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/algebraic-geometry.md)
 
