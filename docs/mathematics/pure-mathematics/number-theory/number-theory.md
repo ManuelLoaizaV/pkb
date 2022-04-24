@@ -3,6 +3,10 @@
 ## Elementary Number Theory
 - Massachusetts Institute of Technology. Abhinav Kumar.
 [:earth_americas:](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012/)
+- Harvard University. William Stein.
+[:earth_americas:](https://williamstein.org/edu/124/index.html)
+- Oxford University
+[:earth_americas:](https://courses-archive.maths.ox.ac.uk/node/50752)
 - Randolph College. Michael Penn.
 [:film_strip:](https://www.youtube.com/playlist?list=PL22w63XsKjqwAgBzVFVqZNMcVKpOOAA7c)
 - Rutgers University. Alex Kontorovich.
