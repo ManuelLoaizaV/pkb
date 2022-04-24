@@ -41,6 +41,7 @@
 - [Elementary Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/elementary-number-theory.md)
 - [Algebraic Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/algebraic-number-theory.md)
 - [Analytic Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/analytic-number-theory.md)
+- [Elliptic Curves](/docs/mathematics/pure-mathematics/number-theory/src/elliptic-curves.md)
 
 #### [Probability & Statistics](/docs/mathematics/pure-mathematics/probability-and-statistics/probability-and-statistics.md)
 - [Statistics](/docs/mathematics/pure-mathematics/probability-and-statistics/src/statistics.md)
