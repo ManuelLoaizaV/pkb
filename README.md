@@ -237,6 +237,7 @@
 - [Why is it that intelligent people tend to feel lonely most of the time?](https://qr.ae/pvKNp3) - Susanna Viljanen
 - [What is the brutal truth about people with low IQs?](https://qr.ae/pvKNTB) - Susanna Viljanen
 - [What's it like to be genuinely apolitical?](https://qr.ae/pvKNT3) - Tikhon Jelvis
+- [Biculturalism](https://www.joelonsoftware.com/2003/12/14/biculturalism/) - Joel Spolsky
 
 ## Picture of my bedroom
 ![My bedroom](images/bedroom.jpg)
