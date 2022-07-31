@@ -6,3 +6,5 @@
 - Stanford University. Keith Winstein.
 [:earth_americas:](https://cs144.github.io/)
 [:film_strip:](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS)
+- Universidad Autónoma de México. Paulo Contreras.
+[:film_strip:](https://www.youtube.com/playlist?list=PLMx2ClFqz5wUztvjNyqtCDUhrBZblg5EH)
