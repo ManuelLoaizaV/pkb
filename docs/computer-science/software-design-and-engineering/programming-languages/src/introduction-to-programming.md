@@ -8,3 +8,5 @@
 [:earth_americas:](https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1192/index.html)
 - Stanford University. Chris Gregg.
 [:earth_americas:](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1176/)
+- Universidad Nacional de Misiones. Alicia Rendón.
+[:film_strip:](https://www.youtube.com/playlist?list=PLRvfe3-N7Q69iWXZVB5Go6dK7d4kZthbm)
