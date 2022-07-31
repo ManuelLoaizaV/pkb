@@ -136,6 +136,7 @@
 - [Introduction to Programming](/docs/computer-science/software-design-and-engineering/programming-languages/src/introduction-to-programming.md)
 - [Imperative Programming](/docs/computer-science/software-design-and-engineering/programming-languages/src/introduction-to-programming.md)
 - [Functional Programming](/docs/computer-science/software-design-and-engineering/programming-languages/src/functional-programming.md)
+- [Concurrent Programming](/docs/computer-science/software-design-and-engineering/programming-languages/src/concurrent-programming.md)
 - [Quantitative Program Analysis](/docs/computer-science/software-design-and-engineering/programming-languages/src/quantitative-program-analysis.md)
 - [Programming Languages and Compilers](/docs/computer-science/software-design-and-engineering/programming-languages/src/programming-languages-and-compilers.md)
 
