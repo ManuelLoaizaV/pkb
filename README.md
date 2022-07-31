@@ -1,10 +1,17 @@
 # Personal Knowledge Base
 
-## [Mathematics](/docs/mathematics/mathematics.md)
+## Contents
+- [Mathematics](#mathematics)
+- [Computer Science](#computer-science)
+- [Competitions](#competitions)
+- [Software Engineering](#software-engineering)
+- [Links you might want to read](#links-you-might-want-to-read)
 
-### [Pure Mathematics](/docs/mathematics/pure-mathematics/pure-mathematics.md)
+## Mathematics
 
-#### [Algebra & Algebraic Geometry](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/algebra-and-algebraic-geometry.md)
+### Pure Mathematics
+
+#### Algebra & Algebraic Geometry
 - [Linear Algebra](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/linear-algebra.md)
 - [Multilineal Algebra](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/multilinear-algebra.md)
 - [Groups and Rings](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/groups-and-rings.md)
@@ -15,7 +22,7 @@
 - [Algebraic Topology](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/algebraic-topology.md)
 - [Algebraic Geometry](/docs/mathematics/pure-mathematics/algebra-and-algebraic-geometry/src/algebraic-geometry.md)
 
-#### [Analysis & PDEs](/docs/mathematics/pure-mathematics/analysis-and-pdes/analysis-and-pdes.md)
+#### Analysis & PDEs
 - [Precalculus](docs/mathematics/pure-mathematics/analysis-and-pdes/src/precalculus.md)
 - [Differential Calculus](docs/mathematics/pure-mathematics/analysis-and-pdes/src/differential-calculus.md)
 - [Integral Calculus](docs/mathematics/pure-mathematics/analysis-and-pdes/src/integral-calculus.md)
@@ -32,28 +39,28 @@
 - [Ordinary Differential Equations](docs/mathematics/pure-mathematics/analysis-and-pdes/src/ordinary-differential-equations.md)
 - [Partial Differential Equations](docs/mathematics/pure-mathematics/analysis-and-pdes/src/partial-differential-equations.md)
 
-#### [Geometry](/docs/mathematics/pure-mathematics/geometry/geometry.md)
+#### Geometry
 - [Differential Geometry](/docs/mathematics/pure-mathematics/geometry/src/differential-geometry.md)
 - Riemmanian Geometry
 
-#### [Mathematical Logic and Foundations](/docs/mathematics/pure-mathematics/mathematical-logic-and-foundations/mathematical-logic-and-foundations.md)
+#### Mathematical Logic and Foundations
 - [Mathematical Logic](/docs/mathematics/pure-mathematics/mathematical-logic-and-foundations/src/mathematical-logic.md)
 - [Set Theory](/docs/mathematics/pure-mathematics/mathematical-logic-and-foundations/src/set-theory.md)
 
-#### [Number Theory](/docs/mathematics/pure-mathematics/number-theory/number-theory.md)
+#### Number Theory
 - [Elementary Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/elementary-number-theory.md)
 - [Algebraic Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/algebraic-number-theory.md)
 - [Analytic Number Theory](/docs/mathematics/pure-mathematics/number-theory/src/analytic-number-theory.md)
 - [Elliptic Curves](/docs/mathematics/pure-mathematics/number-theory/src/elliptic-curves.md)
 
-#### [Probability & Statistics](/docs/mathematics/pure-mathematics/probability-and-statistics/probability-and-statistics.md)
+#### Probability & Statistics
 - [Statistics](/docs/mathematics/pure-mathematics/probability-and-statistics/src/statistics.md)
 - [Probability Theory](/docs/mathematics/pure-mathematics/probability-and-statistics/src/probability-theory.md)
 - [Markov Chains](/docs/mathematics/pure-mathematics/probability-and-statistics/src/markov-chains.md)
 
-### [Applied Mathematics](/docs/mathematics/applied-mathematics/applied-mathematics.md)
+### Applied Mathematics
 
-#### [Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/combinatorics.md)
+#### Combinatorics
 - [Combinatorial Analysis](/docs/mathematics/applied-mathematics/combinatorics/src/combinatorial-analysis.md)
 - [Graph Theory](/docs/mathematics/applied-mathematics/combinatorics/src/graph-theory.md)
 - [Extremal Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/src/extremal-combinatorics.md)
@@ -64,58 +71,58 @@
 - [Probabilistic Methods in Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/src/probabilistic-methods-in-combinatorics.md)
 - [Polynomial Method in Combinatorics](/docs/mathematics/applied-mathematics/combinatorics/src/polynomial-method-in-combinatorics.md)
 
-#### [Computational Science & Numerical Analysis](/docs/mathematics/applied-mathematics/computational-science-and-numerical-analysis/computational-science-and-numerical-analysis.md)
+#### Computational Science & Numerical Analysis
 - [Numerical Analysis](/docs/mathematics/applied-mathematics/computational-science-and-numerical-analysis/src/numerical-analysis.md)
 
-#### [Operations Research](/docs/mathematics/applied-mathematics/operations-research/operations-research.md)
+#### Operations Research
 - [Linear Programming](/docs/mathematics/applied-mathematics/operations-research/src/linear-programming.md)
 - [Convex Optimization](/docs/mathematics/applied-mathematics/operations-research/src/convex-optimization.md)
 
-#### [Seminars](/docs/mathematics/applied-mathematics/seminars/seminars.md)
+#### Seminars
 - [Advanced Topics in Random Structures](/docs/mathematics/applied-mathematics/seminars/src/advanced-topics-in-random-structures.md)
 
-## [Computer Science](/docs/computer-science/computer-science.md)
+## Computer Science
 
-### [Artificial Intelligence](/docs/computer-science/artificial-intelligence/artificial-intelligence.md)
+### Artificial Intelligence
 
-#### [Machine Learning](/docs/computer-science/artificial-intelligence/machine-learning/machine-learning.md)
+#### Machine Learning
 - [Introduction to Artificial Intelligence](/docs/computer-science/artificial-intelligence/machine-learning/src/introduction-to-artificial-intelligence.md)
 - [Introduction to Machine Learning](/docs/computer-science/artificial-intelligence/machine-learning/src/introduction-to-machine-learning.md)
 - [Optimization for Machine Learning](/docs/computer-science/artificial-intelligence/machine-learning/src/optimization-for-machine-learning.md)
 
-#### [Deep Learning](/docs/computer-science/artificial-intelligence/deep-learning/deep-learning.md)
+#### Deep Learning
 - [Introduction Deep Learning](/docs/computer-science/artificial-intelligence/deep-learning/src/introduction-to-deep-learning.md)
 - [Deep Reinforcement Learning](/docs/computer-science/artificial-intelligence/deep-learning/src/deep-reinforcement-learning.md)
 - [Neural Computation](/docs/computer-science/artificial-intelligence/deep-learning/src/neural-computation.md)
 
-#### [Natural Language Processing](/docs/computer-science/artificial-intelligence/natural-language-processing/natural-language-processing.md)
+#### Natural Language Processing
 - [Introduction to NLP](/docs/computer-science/artificial-intelligence/natural-language-processing/src/introduction-to-nlp.md)
 - [Advanced NLP](/docs/computer-science/artificial-intelligence/natural-language-processing/src/advanced-nlp.md)
 
-#### [Computer Vision](/docs/computer-science/artificial-intelligence/computer-vision/computer-vision.md)
+#### Computer Vision
 - [Introduction to Computer Vision](/docs/computer-science/artificial-intelligence/computer-vision/src/introduction-to-computer-vision.md)
 
-#### [Seminars](/docs/computer-science/artificial-intelligence/seminars/seminars.md)
+#### Seminars
 - [Probabilistic Graphical Model](/docs/computer-science/artificial-intelligence/seminars/src/probabilistic-graphical-models.md)
 
-### [Computer Systems](/docs/computer-science/computer-systems/computer-systems.md)
+### Computer Systems
 
-#### [Operating / Distributed Systems](/docs/computer-science/computer-systems/operating-and-distributed-systems/operating-and-distributed-systems.md)
+#### Operating / Distributed Systems
 - [Computer Systems Engineering](/docs/computer-science/computer-systems/operating-and-distributed-systems/src/computer-systems-engineering.md)
 - [Operating Systems and Systems Programming](/docs/computer-science/computer-systems/operating-and-distributed-systems/src/operating-systems-and-systems-programming.md)
 - [Advanced Operating Systems Structures and Implementation](/docs/computer-science/computer-systems/operating-and-distributed-systems/src/advanced-operating-systems-structures-and-implementation.md)
 - [Distributed Systems](/docs/computer-science/computer-systems/operating-and-distributed-systems/src/distributed-systems.md)
 
-#### [Architecture](/docs/computer-science/computer-systems/architecture/architecture.md)
+#### Architecture
 - [Parallel Computer Architecture](/docs/computer-science/computer-systems/architecture/src/parallel-computer-architecture.md)
 
-#### [Computer Security](/docs/computer-science/computer-systems/computer-security/computer-security.md)
+#### Computer Security
 - [Introduction to Computer Security](/docs/computer-science/computer-systems/computer-security/src/introduction-to-computer-security.md)
 
-#### [Computer Networks](/docs/computer-science/computer-systems/computer-networks/computer-networks.md)
+#### Computer Networks
 - [Introduction to Computer networks](/docs/computer-science/computer-systems/computer-networks/src/introduction-to-computer-networks.md)
 
-#### [Databases](/docs/computer-science/computer-systems/databases/databases.md)
+#### Databases
 - [Introduction to Databases](/docs/computer-science/computer-systems/databases/src/introduction-to-databases.md)
 - [Advanced Database Systems](/docs/computer-science/computer-systems/databases/src/advanced-database-systems.md)
 - [Self-Driving Database Management System](/docs/computer-science/computer-systems/databases/src/self-driving-database-management-systems.md)
@@ -123,16 +130,16 @@
 - [Data-Intensive Systems](/docs/computer-science/computer-systems/databases/src/data-intensive-systems.md)
 - [Mining Massive Datasets](/docs/computer-science/computer-systems/databases/src/mining-massive-datasets.md)
 
-### [Software Design and Engineering](/docs/computer-science/software-design-and-engineering/software-design-and-engineering.md)
+### Software Design and Engineering
 
-#### [Programming Languages](/docs/computer-science/software-design-and-engineering/programming-languages/programming-languages.md)
+#### Programming Languages
 - [Introduction to Programming](/docs/computer-science/software-design-and-engineering/programming-languages/src/introduction-to-programming.md)
 - [Imperative Programming](/docs/computer-science/software-design-and-engineering/programming-languages/src/introduction-to-programming.md)
 - [Functional Programming](/docs/computer-science/software-design-and-engineering/programming-languages/src/functional-programming.md)
 - [Quantitative Program Analysis](/docs/computer-science/software-design-and-engineering/programming-languages/src/quantitative-program-analysis.md)
 - [Programming Languages and Compilers](/docs/computer-science/software-design-and-engineering/programming-languages/src/programming-languages-and-compilers.md)
 
-#### [Software](/docs/computer-science/software-design-and-engineering/software/software.md)
+#### Software
 - [Software Construction](/docs/computer-science/software-design-and-engineering/software/src/software-construction.md)
 - [Software Engineering](/docs/computer-science/software-design-and-engineering/software/src/software-engineering.md)
 - [Software Engineering for Startups](/docs/computer-science/software-design-and-engineering/software/src/software-engineering-for-startups.md)
@@ -141,9 +148,9 @@
 - [Computer Graphics](/docs/computer-science/software-design-and-engineering/software/src/computer-graphics.md)
 - [Human-Computer Interaction](/docs/computer-science/software-design-and-engineering/software/src/human-computer-interaction.md)
 
-### [Theory](/docs/computer-science/theory/theory.md)
+### Theory
 
-#### [Algorithms & Data Structures](/docs/computer-science/theory/algorithms-and-data-structures/algorithms-and-data-structures.md)
+#### Algorithms & Data Structures
 - [Introduction to Algorithms](/docs/computer-science/theory/algorithms-and-data-structures/src/introduction-to-algorithms.md)
 - [Intermediate Algorithms](/docs/computer-science/theory/algorithms-and-data-structures/src/intermediate-algorithms.md)
 - [Advanced Algorithms](/docs/computer-science/theory/algorithms-and-data-structures/src/advanced-algorithms.md)
@@ -154,20 +161,20 @@
 - [Randomized Algorithms](/docs/computer-science/theory/algorithms-and-data-structures/src/randomized-algorithms.md)
 - [Parallel and Concurrent Algorithms](/docs/computer-science/theory/algorithms-and-data-structures/src/parallel-and-concurrent-algorithms.md)
 
-#### [Automata, Computability and Complexity](/docs/computer-science/theory/automata-computability-complexity/automata-computability-complexity.md)
+#### Automata, Computability and Complexity
 - [Computation Theory](/docs/computer-science/theory/automata-computability-complexity/src/computation-theory.md)
 - [Complexity Theory](/docs/computer-science/theory/automata-computability-complexity/src/complexity-theory.md)
 - [Advanced Computational Complexity Theory](/docs/computer-science/theory/automata-computability-complexity/src/advanced-complexity-theory.md)
 
-#### [Cryptography](/docs/computer-science/theory/cryptography/cryptography.md)
+#### Cryptography
 - [Introduction to Cryptography](/docs/computer-science/theory/cryptography/src/foundations-of-cryptography.md)
 
-#### [Seminars](/docs/computer-science/theory/seminars/seminars.md)
+#### Seminars
 - [Algorithms and Computational Complexity](/docs/computer-science/theory/seminars/src/algorithms-and-computational-complexity.md)
 - [The Sum-of-Squares Algorithm](/docs/computer-science/theory/seminars/src/sum-of-squares-algorithm.md)
 - [Hierarchies of Integer Programming Relaxations](/docs/computer-science/theory/seminars/src/hierarchies-of-integer-programming-relaxations.md)
 
-## [Competitions](/docs/competitions/competitions.md)
+## Competitions
 
 - [IMO / IMC / Putnam](/docs/competitions/src/imo-imc-putnam.md)
 - [IOI / ICPC](/docs/competitions/src/ioi-icpc.md)
