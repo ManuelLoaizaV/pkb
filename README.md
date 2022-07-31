@@ -182,12 +182,13 @@
 ## Software Engineering
 
 ### Languages & Frameworks
-- C++
+- [C++](/docs/software-engineering/languages-and-frameworks/cpp.md)
 - Java
-- JavaScript
+- [JavaScript](/docs/software-engineering/languages-and-frameworks/js.md)
 - Python
     - Django
     - FastAPI
+    - [pyenv](/docs/software-engineering/languages-and-frameworks/pyenv.md)
 - R
 
 ### Databases
@@ -204,6 +205,7 @@
 - Bash
 - Crontabs
 - tmux
+- [Practices](/docs/software-engineering/engineering-productivity/practices.md)
 
 ### Editors
 - Vim
