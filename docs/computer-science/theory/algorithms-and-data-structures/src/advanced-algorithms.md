@@ -7,11 +7,12 @@
 - Massachusetts Institute of Technology. Ankur Moitra.
 [:earth_americas:](http://people.csail.mit.edu/moitra/854.html)
 [:film_strip:](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c)
-- Massachusetts Institute of Technology. Karger Skoltech.
+- Massachusetts Institute of Technology. David Karger.
 [:earth_americas:](https://courses.csail.mit.edu/6.854/21/)
-[:film_strip:](https://www.youtube.com/playlist?list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9)
-- Massachusetts Institute of Technology. Michel Goemans.
-[:film_strip:](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/index.htm)
+[:milky_way:](https://6.5210.csail.mit.edu/)
+[:film_strip:](https://6.5210.csail.mit.edu/materials.html)
+- Massachusetts Institute of Technology. Michael Goemans.
+[:earth_americas:](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/index.htm)
 - Princeton University. Sanjeev Arora.
 [:earth_americas:](https://www.cs.princeton.edu/courses/archive/fall15/cos521/)
 - University of California, Berkeley. Luca Trevisan.
