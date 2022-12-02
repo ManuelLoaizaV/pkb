@@ -240,8 +240,8 @@
 - [Do you find yourself to be a wasted talent? Do extremely intelligent people simply not care about what society deems as successful?](https://qr.ae/pvKNp6) - Susanna Viljanen
 - [Why is it that intelligent people tend to feel lonely most of the time?](https://qr.ae/pvKNp3) - Susanna Viljanen
 - [What is the brutal truth about people with low IQs?](https://qr.ae/pvKNTB) - Susanna Viljanen
+- [Are geniuses born or made?](https://qr.ae/pvfPtd) - Susanna Viljanen
 - [What's it like to be genuinely apolitical?](https://qr.ae/pvKNT3) - Tikhon Jelvis
 - [Biculturalism](https://www.joelonsoftware.com/2003/12/14/biculturalism/) - Joel Spolsky
-
-## Picture of my bedroom
-![My bedroom](images/bedroom.jpg)
+- [A Career Cold Start Algorithm](https://boz.com/articles/career-cold-start) - Andrew Bosworth
+- [Say No](https://boz.com/articles/say-no) - Andrew Bosworth
