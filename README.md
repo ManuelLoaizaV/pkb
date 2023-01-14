@@ -184,7 +184,6 @@
 
 ### Languages & Frameworks
 - [C++](/docs/software-engineering/languages-and-frameworks/cpp.md)
-- Java
 - [JavaScript](/docs/software-engineering/languages-and-frameworks/js.md)
 - Python
     - Django
