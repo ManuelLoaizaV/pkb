@@ -16,3 +16,5 @@
 - University of California, Berkeley. Paul N. Hilfinger.
 [:earth_americas:](https://inst.eecs.berkeley.edu/~cs164/fa20/)
 [:film_strip:](https://archive.org/details/ucberkeley-webcast-PL3A16CFC42CA6EF4F)
+- University of California, Berkeley. Sarah Chasins.
+[:earth_americas:](https://inst.eecs.berkeley.edu/~cs164/fa22/)
