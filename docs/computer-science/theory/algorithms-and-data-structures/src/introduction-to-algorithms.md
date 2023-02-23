@@ -5,6 +5,8 @@
 [:earth_americas:](https://www.diderot.one/courses/89)
 - Carnegie Mellon University. Guy Blelloch. Robert Harper.
 [:earth_americas:](https://www.cs.cmu.edu/afs/cs/academic/class/15210-f17/www/index.html)
+- École Polytechnique Fédérale de Lausanne. Ola Sevensson.
+[:film_strip:](https://tube.switch.ch/channels/46da0563)
 - ITMO University. Pavel Mavrin.
 [:film_strip:](https://www.youtube.com/playlist?list=PLog0f6aoFq2YB1kHAQHfnF4VjQ0Jlj55d)
 - Massachusetts Institute of Technology. Jason Ku. Vinod Vaikuntanathan. Virginia Williams.

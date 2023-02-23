@@ -4,7 +4,7 @@
 - École Polytechnique Fédérale de Lausanne. Martin Jaggi. Nicolas Flammarion.
 [:earth_americas:](https://www.epfl.ch/labs/mlo/machine-learning-cs-433/)
 [:octocat:](https://github.com/epfml/ML_course)
-[:film_strip:](https://www.youtube.com/playlist?list=PL4O4bXkI-fAd4nB7YYR5F8WitmPxjPeAa)
+[:film_strip:](https://tube.switch.ch/switchcast/epfl.ch/series/60d0234f-e9b0-42c9-b727-35e518fe8833)
 - Massachusetts Institute of Technology. Leslie Kaelbling.
 [:earth_americas:](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
 [:film_strip:](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
